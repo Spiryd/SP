@@ -1,0 +1,244 @@
+PS C:\Users\neuma\Desktop\SP\Lista4>git clone ssh://git@156.17.7.16:59004/24-25-1-p-0
+PS C:\Users\neuma\Desktop\SP\Lista4\24-25-1-p-0> git branch 268451
+PS C:\Users\neuma\Desktop\SP\Lista4\24-25-1-p-0> git checkout 268451
+Switched to branch '268451'
+PS C:\Users\neuma\Desktop\SP\Lista4\24-25-1-p-0> git pull
+Already up to date.
+PS C:\Users\neuma\Desktop\SP\Lista4\24-25-1-p-0> git checkout 268451
+Switched to branch '268451'
+M       main.c
+M       makefile
+M       program.h
+PS C:\Users\neuma\Desktop\SP\Lista4\24-25-1-p-0> git merge master
+Already up to date.
+PS C:\Users\neuma\Desktop\SP\Lista4\24-25-1-p-0> git add *
+PS C:\Users\neuma\Desktop\SP\Lista4\24-25-1-p-0> git status
+On branch 268451
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        modified:   main.c
+        modified:   makefile
+        modified:   program.h
+        new file:   s268451_podprogram.c
+
+PS C:\Users\neuma\Desktop\SP\Lista4\24-25-1-p-0> git commit -m"268451 changes"
+[268451 1b0ba4b] 268451 changes
+ 4 files changed, 14 insertions(+)
+ create mode 100644 s268451_podprogram.c
+PS C:\Users\neuma\Desktop\SP\Lista4\24-25-1-p-0> git checkout master
+Switched to branch 'master'
+Your branch is up to date with 'origin/master'.
+PS C:\Users\neuma\Desktop\SP\Lista4\24-25-1-p-0> git pull
+Already up to date.
+PS C:\Users\neuma\Desktop\SP\Lista4\24-25-1-p-0> git checkout 268451
+Switched to branch '268451'
+PS C:\Users\neuma\Desktop\SP\Lista4\24-25-1-p-0> git merge master
+Already up to date.
+PS C:\Users\neuma\Desktop\SP\Lista4\24-25-1-p-0> git checkout master
+Switched to branch 'master'
+Your branch is up to date with 'origin/master'.
+PS C:\Users\neuma\Desktop\SP\Lista4\24-25-1-p-0> git pull
+Already up to date.
+PS C:\Users\neuma\Desktop\SP\Lista4\24-25-1-p-0> git commit -m"268451 merge into master"
+On branch master
+Your branch is ahead of 'origin/master' by 1 commit.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
+PS C:\Users\neuma\Desktop\SP\Lista4\24-25-1-p-0> git push
+Enumerating objects: 10, done.
+Counting objects: 100% (10/10), done.
+Delta compression using up to 12 threads
+Compressing objects: 100% (6/6), done.
+Writing objects: 100% (6/6), 822 bytes | 822.00 KiB/s, done.
+Total 6 (delta 3), reused 0 (delta 0), pack-reused 0
+To ssh://156.17.7.16:59004/24-25-1-p-0
+   fff7624..1b0ba4b  master -> master
+PS C:\Users\neuma\Desktop\SP\Lista4\24-25-1-p-0> git tag -a v_268451 -m "268451 version"           
+PS C:\Users\neuma\Desktop\SP\Lista4\24-25-1-p-0> git push --tags
+Enumerating objects: 1, done.
+Counting objects: 100% (1/1), done.
+Writing objects: 100% (1/1), 166 bytes | 166.00 KiB/s, done.
+Total 1 (delta 0), reused 0 (delta 0), pack-reused 0
+To ssh://156.17.7.16:59004/24-25-1-p-0
+ * [new tag]         v_268451 -> v_268451
+PS C:\Users\neuma\Desktop\SP\Lista4> git clone ssh://git@156.17.7.16:59004/24-25-1-p-0
+Cloning into '24-25-1-p-0'...
+remote: Enumerating objects: 38, done.
+remote: Counting objects: 100% (38/38), done.
+remote: Compressing objects: 100% (38/38), done.
+remote: Total 38 (delta 14), reused 0 (delta 0), pack-reused 0
+Receiving objects: 100% (38/38), 5.35 KiB | 5.35 MiB/s, done.
+Resolving deltas: 100% (14/14), done.
+PS C:\Users\neuma\Desktop\SP\Lista4> cd .\24-25-1-p-0\
+PS C:\Users\neuma\Desktop\SP\Lista4\24-25-1-p-0> git checkout v_268451
+Note: switching to 'v_268451'.
+
+You are in 'detached HEAD' state. You can look around, make experimental
+changes and commit them, and you can discard any commits you make in this
+state without impacting any branches by switching back to a branch.
+
+If you want to create a new branch to retain commits you create, you may
+do so (now or later) by using -c with the switch command. Example:
+
+  git switch -c <new-branch-name>
+
+Or undo this operation with:
+
+  git switch -
+
+Turn off this advice by setting config variable advice.detachedHead to false
+
+HEAD is now at 1b0ba4b 268451 changes
+PS C:\Users\neuma\Desktop\SP\Lista4\24-25-1-p-0> git show v_268451
+tag v_268451
+Tagger: Spiryd <neumann.maks@gmail.com>
+Date:   Thu Nov 14 21:44:35 2024 +0100
+
+268451 version
+   
+commit 1b0ba4bcdb1063d8cebab20ec4794246b42bcfc7 (HEAD, tag: v_268451, origin/master, origin/HEAD, master)
+Author: Spiryd <neumann.maks@gmail.com>
+Date:   Thu Nov 14 21:30:25 2024 +0100
+
+    268451 changes
+
+diff --git a/main.c b/main.c
+index 105959f..0be9e7d 100644
+--- a/main.c
++++ b/main.c
+@@ -20,6 +20,9 @@ int main(int argc, char *argv[])
+       case 999: /* podprogram studenta 999 */
+         s999_podprogram() ;
+         break;
++      case 268451: /* podprogram studenta 268451 */
++        s268451_podprogram() ;
++        break;
+       default:
+        printf("\nStudent o numerze indeksu %d nie wykonał jeszcze zadania\n\n",idx);
+       break;
+diff --git a/makefile b/makefile
+index 56c741b..9e29460 100644
+--- a/makefile
++++ b/makefile
+@@ -1,5 +1,6 @@
+ objects = main.o program_usage.o \
+           s0_podprogram.o \
++                 s268451_podprogram.o \
+           s999.o
+
+ program : $(objects)
+@@ -9,6 +10,7 @@ main.o : program.h
+ program_usage.o : program.h
+
+ s0_podprogram.o : program.h
++s268451_podprogram.o : program.h
+
+ s999.o : s999.c
+
+diff --git a/program.h b/program.h
+index 80cb3a9..6290486 100644
+--- a/program.h
++++ b/program.h
+@@ -14,6 +14,7 @@ void program_usage( );
+
+ void s0_podprogram(); /* funkcja studenta 0 */
+ void s999_podprogram(); /* funcja studenta 999 */
++void s268451_podprogram(); /* funkcja studenta 268451 */
+
+
+
+diff --git a/s268451_podprogram.c b/s268451_podprogram.c
+new file mode 100644
+index 0000000..51e8178
+--- /dev/null
++++ b/s268451_podprogram.c
+@@ -0,0 +1,8 @@
++#include "program.h"
++
++void s268451_podprogram()
++{
++  printf("Maksymilian Neumann nr indeksu: 268451\n");
++  printf("Program drukuje: 'Jestem Wybitnym Programem'\n");
++  printf("Jestem Wybitnym Programem\n");
++}
+\ No newline at end of file
+spiryd@SpirydRoot:/mnt/c/Users/neuma/Desktop/SP/Lista4/24-25-1-p-0$ make
+cc    -c -o main.o main.c
+cc    -c -o program_usage.o program_usage.c
+cc    -c -o s0_podprogram.o s0_podprogram.c
+cc    -c -o s268451_podprogram.o s268451_podprogram.c
+cc    -c -o s999.o s999.c
+cc -o program main.o program_usage.o s0_podprogram.o s268451_podprogram.o s999.o
+spiryd@SpirydRoot:/mnt/c/Users/neuma/Desktop/SP/Lista4/24-25-1-p-0$ ./program 268451
+Maksymilian Neumann nr indeksu: 268451
+Program drukuje: 'Jestem Wybitnym Programem'
+Jestem Wybitnym Programem
+spiryd@SpirydRoot:/mnt/c/Users/neuma/Desktop/SP/Lista4/24-25-1-p-0$ make clean
+rm *.o program
+PS C:\Users\neuma\Desktop\SP\Lista4\24-25-1-p-0> git log --all --graph --decorate
+* commit 1b0ba4bcdb1063d8cebab20ec4794246b42bcfc7 (HEAD, tag: v_268451, origin/master, origin/HEAD, master)
+| Author: Spiryd <neumann.maks@gmail.com>
+| Date:   Thu Nov 14 21:30:25 2024 +0100
+|
+|     268451 changes
+|
+| * commit c0277a05133897406d3e27ff7ff22d58f8ba3c06 (tag: v268459)
+|/  Author: Wiktor <such.wik@gmail.com>
+|   Date:   Thu Nov 14 19:50:00 2024 +0100
+|
+|       dodano podprogram s268459 oraz potrzebne zmiany
+|
+* commit fff7624ae83a5a362a07ca898ce45efd10c875f2
+| Author: Student Sztuczny 999 <999@nibyuczelnia>
+| Date:   Mon Nov 10 14:30:55 2014 +0100
+|
+|     Student 999 wprowadza odpowiednie poprawki w makefile i pozostałych plikach źródłowych.
+|
+*   commit b495dd411d82d84c118cced42125d6fe0bd57769
+|\  Merge: baf27db e0cac2e
+| | Author: Student Sztuczny 999 <999@nibyuczelnia>
+| | Date:   Mon Nov 10 13:59:02 2014 +0100
+| |
+| |     Merge branch 'master' into branch-999
+| |
+| |     Student 999 dokonał synchronizacji swojej gałęzi ze zmianami dokonanymi przez admina w origin/master.
+| |     Polecenia:
+| |       git checkout master
+| |       git pull
+| |       git checkout branch-999
+| |       git merge master
+| |
+| * commit e0cac2e9636ab179b95340d4f19c1b1ed4234c76
+| | Author: admin <Marcin.Kik@pwr.edu.pl>
+| | Date:   Mon Nov 10 13:54:58 2014 +0100
+| |
+| |     admin wprowadza poprawki w pliku makefile.
+| |
+* | commit baf27dba822c9b17c97baddf3bf5324811b24860
+|/  Author: Student Sztuczny 999 <999@nibyuczelnia>
+|   Date:   Mon Nov 10 13:45:43 2014 +0100
+|
+|       Student 999 tworzy swoją gałąź i przełącza się na nią,
+|       wykonując  polecenia:
+|
+|         git branch branch-999
+|         git checkout branch-999
+|
+|       Student 999 dodaje plik s999.c z podprogramem, ale jeszcze nie
+|       uwzględnił go w makefile i pozostałych plikach źródłowych.
+|
+* commit 871c4727e2370ff70fbff9878c222e33ba5e2b4f
+| Author: admin <Marcin.Kik@pwr.edu.pl>
+| Date:   Mon Nov 10 12:53:38 2014 +0100
+|
+|         admin wprowadza trochę poprawek do organizacji projektu:
+|
+|         - dodany został plik: makefile -- teraz program kompiluje się poleceniem make
+|         - dodany został szablonowy przykład podprogramu -- pilk: s0_podprogram.c
+|
+* commit 2ccbb68c9bfb88a15caf7884ec3877837bc4be79
+  Author: admin <Marcin.Kik@pwr.edu.pl>
+  Date:   Mon Nov 10 12:36:14 2014 +0100
+
+      admin tworzy pliki z wstępną wersją projektu
