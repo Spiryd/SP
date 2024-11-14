@@ -1,0 +1,895 @@
+# Maksymilian Neumann 268451
+spiryd@SpirydRoot:/mnt/c/Users/neuma/Desktop$ mkdir tmp
+spiryd@SpirydRoot:/mnt/c/Users/neuma/Desktop$ cd tmp
+# klon 1
+spiryd@SpirydRoot:/mnt/c/Users/neuma/Desktop/tmp$ svn checkout https://repo.cs.pwr.edu.pl/268451-dir/mk1 ./working_copy_1
+Authentication realm: <https://repo.cs.pwr.edu.pl:443> Subversion Repository
+Password for '268451': 
+
+A    working_copy_1/AiSD
+A    working_copy_1/AiSD/Lista1
+A    working_copy_1/AiSD/Lista2
+A    working_copy_1/AiSD/Lista2/plots
+A    working_copy_1/AiSD/Lista2/src
+A    working_copy_1/AiSD/Lista2/src/bin
+A    working_copy_1/AiSD/Lista3
+A    working_copy_1/AiSD/Lista3/plots
+A    working_copy_1/AiSD/Lista3/src
+A    working_copy_1/AiSD/Lista3/src/bin
+A    working_copy_1/AiSD/Lista1/1.c
+A    working_copy_1/AiSD/Lista1/2.cpp
+A    working_copy_1/AiSD/Lista1/3.cpp
+A    working_copy_1/AiSD/Lista4
+A    working_copy_1/AiSD/Lista1/l1
+A    working_copy_1/AiSD/Lista2/Cargo.toml
+A    working_copy_1/AiSD/Lista2/gen_plots.py
+A    working_copy_1/AiSD/Lista2/l2
+A    working_copy_1/AiSD/Lista4/plots
+A    working_copy_1/AiSD/Lista3/plots/344383180_533397892112864_8247343934926995077_n.png
+A    working_copy_1/AiSD/Lista3/src/bin/bin_search.rs
+A    working_copy_1/AiSD/Lista3/src/bin/gen_reversed.rs
+A    working_copy_1/AiSD/Lista3/src/lib.rs
+A    working_copy_1/AiSD/Lista3/src/bin/gen_sorted.rs
+A    working_copy_1/AiSD/Lista4/gen_plots.py
+A    working_copy_1/AiSD/Lista4/src
+A    working_copy_1/AiSD/Lista5
+A    working_copy_1/AiSD/Lista2/plots/cmps.png
+A    working_copy_1/AiSD/Lista4/plots/348365094_645485913747686_6855632548552141091_n.png
+A    working_copy_1/AiSD/Lista4/plots/348388560_946550763136674_6939534681149045386_n.png
+A    working_copy_1/AiSD/Lista2/plots/cn.png
+A    working_copy_1/AiSD/Lista2/plots/sn.png
+A    working_copy_1/AiSD/Lista4/plots/348365375_562707572716435_7604932337805734037_n.png
+A    working_copy_1/AiSD/Lista4/src/lib.rs
+A    working_copy_1/AiSD/Lista5/plots
+A    working_copy_1/AiSD/Lista3/plots/344116588_577750287517037_5547574509565218915_n.png
+A    working_copy_1/AiSD/Lista5/l5.cast
+A    working_copy_1/AiSD/Lista3/plots/344202880_975113583685186_4165642192021315929_n.png
+A    working_copy_1/AiSD/Lista2/plots/swaps.png
+A    working_copy_1/AiSD/Lista2/src/bin/collect_data.rs
+A    working_copy_1/AiSD/Lista2/src/bin/dp_quik_sort.rs
+A    working_copy_1/AiSD/Lista2/src/bin/dp_quikins_sort.rs
+A    working_copy_1/AiSD/Lista2/src/bin/gen_random.rs
+A    working_copy_1/AiSD/Lista2/src/bin/gen_reversed.rs
+A    working_copy_1/AiSD/Lista2/src/bin/gen_sorted.rs
+A    working_copy_1/AiSD/Lista2/src/bin/ins_sort.rs
+A    working_copy_1/AiSD/Lista2/src/bin/mrg_sort.rs
+A    working_copy_1/AiSD/Lista2/src/bin/quik_sort.rs
+A    working_copy_1/AiSD/Lista2/src/lib.rs
+A    working_copy_1/AiSD/Lista3/gen_plots.py
+A    working_copy_1/AiSD/Lista3/l3
+A    working_copy_1/AiSD/Lista5/src
+A    working_copy_1/AiSD/Lista3/plots/344289293_929917201582088_5122778720998017733_n.png
+A    working_copy_1/AiSD/Lista3/plots/344000431_1054697688825156_2188631539953523483_n.png
+A    working_copy_1/AiSD/Lista3/plots/344068498_205407688949560_1386395070074970952_n.png
+A    working_copy_1/AiSD/Lista3/plots/344293412_268030852311862_2846470232500518280_n.png
+A    working_copy_1/AiSD/Lista3/plots/344145758_2512017225616418_1286256232551315721_n.png
+A    working_copy_1/ŚP
+A    working_copy_1/ŚP/Lista1
+A    working_copy_1/AiSD/Lista3/plots/344309152_764925508374420_153172709603005909_n.png
+A    working_copy_1/AiSD/Lista3/plots/344288494_597768375636798_9215944025685171914_n.png
+A    working_copy_1/AiSD/Lista3/plots/344556106_999241807912343_7825313919674798321_n.png
+A    working_copy_1/AiSD/Lista3/src/bin/gen_random.rs
+A    working_copy_1/AiSD/Lista3/src/bin/select.rs
+A    working_copy_1/AiSD/Lista4/plots/348361647_203381959276182_108420213491817817_n.png
+A    working_copy_1/AiSD/Lista3/plots/344293115_1187675521907676_1366776899568677331_n.png
+A    working_copy_1/AiSD/Lista4/plots/348385913_116299924815768_5816054004476085102_n.png
+A    working_copy_1/AiSD/Lista5/heaps.py
+A    working_copy_1/AiSD/Lista3/plots/344295445_624138192894658_3278853279482047875_n.png
+A    working_copy_1/AiSD/Lista3/plots/344401827_1298743844404496_2187539043413982439_n.png
+A    working_copy_1/AiSD/Lista3/src/bin/collect_data.rs
+A    working_copy_1/AiSD/Lista3/src/bin/rand_select.rs
+A    working_copy_1/AiSD/Lista4/l4.cast
+A    working_copy_1/AiSD/Lista5/plots/1000Bin3.png
+A    working_copy_1/AiSD/Lista4/plots/348373449_1638460693339509_4353523558145092387_n.png
+A    working_copy_1/AiSD/Lista4/src/main.rs
+A    working_copy_1/AiSD/Lista5/plots/1000Bin0.png
+A    working_copy_1/AiSD/Lista5/plots/1000Bin2.png
+A    working_copy_1/AiSD/Lista5/plots/1000Fib2.png
+A    working_copy_1/AiSD/Lista5/plots/1000Bin1.png
+A    working_copy_1/AiSD/Lista5/plots/1000Bin4.png
+A    working_copy_1/AiSD/Lista5/plots/1000Fib1.png
+A    working_copy_1/AiSD/Lista5/plots/1000Fib0.png
+A    working_copy_1/AiSD/Lista5/plots/1000Fib3.png
+A    working_copy_1/AiSD/Lista5/plots/500Bin1.png
+A    working_copy_1/AiSD/Lista5/plots/500Bin0.png
+A    working_copy_1/AiSD/Lista5/plots/1000Fib4.png
+A    working_copy_1/AiSD/Lista5/plots/500Bin2.png
+A    working_copy_1/AiSD/Lista5/plots/500Bin4.png
+A    working_copy_1/AiSD/Lista5/plots/500Fib0.png
+A    working_copy_1/AiSD/Lista5/plots/500Bin3.png
+A    working_copy_1/AiSD/Lista5/plots/500Fib1.png
+A    working_copy_1/AiSD/Lista5/plots/500Fib3.png
+A    working_copy_1/AiSD/Lista5/src/lib.rs
+A    working_copy_1/ŚP/Lista1/3.sh
+A    working_copy_1/ŚP/Lista1/l1_demo.cast
+A    working_copy_1/AiSD/Lista5/plots/500Fib4.png
+A    working_copy_1/AiSD/Lista5/src/main.rs
+A    working_copy_1/ŚP/Lista1/4.sh
+A    working_copy_1/AiSD/Lista5/plots/500Fib2.png
+A    working_copy_1/AiSD/Lista5/plots/HeapCmps.png
+A    working_copy_1/ŚP/Lista1/1.sh
+A    working_copy_1/ŚP/Lista1/5.sh
+A    working_copy_1/AiSD/Lista5/plots/lcs.png
+A    working_copy_1/ŚP/Lista1/2.sh
+A    working_copy_1/ŚP/Lista1/6.sh
+Checked out revision 11.
+# stworzenie testowego pliku
+spiryd@SpirydRoot:/mnt/c/Users/neuma/Desktop/tmp/working_copy_1$ echo "Initial line" > testfile.txt
+spiryd@SpirydRoot:/mnt/c/Users/neuma/Desktop/tmp/working_copy_1$ svn add testfile.txt
+A         testfile.txt
+spiryd@SpirydRoot:/mnt/c/Users/neuma/Desktop/tmp/working_copy_1$ svn commit -m "Add testfile.txt with initial content"
+Authentication realm: <https://repo.cs.pwr.edu.pl:443> Subversion Repository
+Password for '268451': 
+
+Adding         testfile.txt
+Transmitting file data .done
+Committing transaction...
+Committed revision 12.
+# klon 2
+spiryd@SpirydRoot:/mnt/c/Users/neuma/Desktop/tmp/working_copy_1$ cd ..
+spiryd@SpirydRoot:/mnt/c/Users/neuma/Desktop/tmp$ svn checkout https://repo.cs.pwr.edu.pl/268451-dir/mk1 ./working_copy_2
+Authentication realm: <https://repo.cs.pwr.edu.pl:443> Subversion Repository
+Password for '268451': 
+
+A    working_copy_2/AiSD
+A    working_copy_2/AiSD/Lista1
+A    working_copy_2/AiSD/Lista2
+A    working_copy_2/AiSD/Lista2/plots
+A    working_copy_2/AiSD/Lista2/src
+A    working_copy_2/AiSD/Lista2/src/bin
+A    working_copy_2/AiSD/Lista3
+A    working_copy_2/AiSD/Lista3/plots
+A    working_copy_2/AiSD/Lista3/src
+A    working_copy_2/AiSD/Lista3/src/bin
+A    working_copy_2/AiSD/Lista1/1.c
+A    working_copy_2/AiSD/Lista1/2.cpp
+A    working_copy_2/AiSD/Lista1/3.cpp
+A    working_copy_2/AiSD/Lista4
+A    working_copy_2/AiSD/Lista1/l1
+A    working_copy_2/AiSD/Lista2/Cargo.toml
+A    working_copy_2/AiSD/Lista2/gen_plots.py
+A    working_copy_2/AiSD/Lista2/l2
+A    working_copy_2/AiSD/Lista4/plots
+A    working_copy_2/AiSD/Lista3/src/bin/gen_sorted.rs
+A    working_copy_2/AiSD/Lista4/gen_plots.py
+A    working_copy_2/AiSD/Lista2/plots/cmps.png
+A    working_copy_2/AiSD/Lista3/plots/344383180_533397892112864_8247343934926995077_n.png
+A    working_copy_2/AiSD/Lista3/src/bin/bin_search.rs
+A    working_copy_2/AiSD/Lista3/src/bin/gen_reversed.rs
+A    working_copy_2/AiSD/Lista3/src/lib.rs
+A    working_copy_2/AiSD/Lista2/plots/cn.png
+A    working_copy_2/AiSD/Lista2/plots/sn.png
+A    working_copy_2/AiSD/Lista4/src
+A    working_copy_2/AiSD/Lista5
+A    working_copy_2/AiSD/Lista4/plots/348365094_645485913747686_6855632548552141091_n.png
+A    working_copy_2/AiSD/Lista5/plots
+A    working_copy_2/AiSD/Lista3/plots/344116588_577750287517037_5547574509565218915_n.png
+A    working_copy_2/AiSD/Lista2/plots/swaps.png
+A    working_copy_2/AiSD/Lista2/src/bin/collect_data.rs
+A    working_copy_2/AiSD/Lista2/src/bin/dp_quik_sort.rs
+A    working_copy_2/AiSD/Lista2/src/bin/dp_quikins_sort.rs
+A    working_copy_2/AiSD/Lista2/src/bin/gen_random.rs
+A    working_copy_2/AiSD/Lista2/src/bin/gen_reversed.rs
+A    working_copy_2/AiSD/Lista2/src/bin/gen_sorted.rs
+A    working_copy_2/AiSD/Lista2/src/bin/ins_sort.rs
+A    working_copy_2/AiSD/Lista2/src/bin/mrg_sort.rs
+A    working_copy_2/AiSD/Lista2/src/bin/quik_sort.rs
+A    working_copy_2/AiSD/Lista2/src/lib.rs
+A    working_copy_2/AiSD/Lista3/gen_plots.py
+A    working_copy_2/AiSD/Lista3/l3
+A    working_copy_2/AiSD/Lista4/plots/348365375_562707572716435_7604932337805734037_n.png
+A    working_copy_2/AiSD/Lista4/src/lib.rs
+A    working_copy_2/AiSD/Lista4/plots/348388560_946550763136674_6939534681149045386_n.png
+A    working_copy_2/AiSD/Lista5/l5.cast
+A    working_copy_2/AiSD/Lista3/plots/344202880_975113583685186_4165642192021315929_n.png
+A    working_copy_2/AiSD/Lista3/plots/344000431_1054697688825156_2188631539953523483_n.png
+A    working_copy_2/AiSD/Lista5/src
+A    working_copy_2/AiSD/Lista3/plots/344289293_929917201582088_5122778720998017733_n.png
+A    working_copy_2/AiSD/Lista3/plots/344068498_205407688949560_1386395070074970952_n.png
+A    working_copy_2/AiSD/Lista3/plots/344145758_2512017225616418_1286256232551315721_n.png
+A    working_copy_2/ŚP
+A    working_copy_2/ŚP/Lista1
+A    working_copy_2/AiSD/Lista3/plots/344293412_268030852311862_2846470232500518280_n.png
+A    working_copy_2/AiSD/Lista3/plots/344309152_764925508374420_153172709603005909_n.png
+A    working_copy_2/AiSD/Lista3/plots/344288494_597768375636798_9215944025685171914_n.png
+A    working_copy_2/AiSD/Lista3/plots/344556106_999241807912343_7825313919674798321_n.png
+A    working_copy_2/AiSD/Lista3/src/bin/gen_random.rs
+A    working_copy_2/AiSD/Lista3/src/bin/select.rs
+A    working_copy_2/AiSD/Lista3/plots/344293115_1187675521907676_1366776899568677331_n.png
+A    working_copy_2/AiSD/Lista4/plots/348361647_203381959276182_108420213491817817_n.png
+A    working_copy_2/AiSD/Lista4/plots/348385913_116299924815768_5816054004476085102_n.png
+A    working_copy_2/AiSD/Lista5/heaps.py
+A    working_copy_2/AiSD/Lista3/plots/344295445_624138192894658_3278853279482047875_n.png
+A    working_copy_2/AiSD/Lista3/plots/344401827_1298743844404496_2187539043413982439_n.png
+A    working_copy_2/AiSD/Lista3/src/bin/collect_data.rs
+A    working_copy_2/AiSD/Lista3/src/bin/rand_select.rs
+A    working_copy_2/AiSD/Lista4/l4.cast
+A    working_copy_2/AiSD/Lista4/plots/348373449_1638460693339509_4353523558145092387_n.png
+A    working_copy_2/AiSD/Lista4/src/main.rs
+A    working_copy_2/AiSD/Lista5/plots/1000Bin3.png
+A    working_copy_2/AiSD/Lista5/plots/1000Bin0.png
+A    working_copy_2/AiSD/Lista5/plots/1000Bin2.png
+A    working_copy_2/AiSD/Lista5/plots/1000Bin1.png
+A    working_copy_2/AiSD/Lista5/plots/1000Fib2.png
+A    working_copy_2/AiSD/Lista5/plots/1000Bin4.png
+A    working_copy_2/AiSD/Lista5/plots/1000Fib1.png
+A    working_copy_2/AiSD/Lista5/plots/1000Fib0.png
+A    working_copy_2/AiSD/Lista5/plots/1000Fib3.png
+A    working_copy_2/AiSD/Lista5/plots/500Bin1.png
+A    working_copy_2/AiSD/Lista5/plots/1000Fib4.png
+A    working_copy_2/AiSD/Lista5/plots/500Bin2.png
+A    working_copy_2/AiSD/Lista5/plots/500Bin0.png
+A    working_copy_2/AiSD/Lista5/plots/500Fib0.png
+A    working_copy_2/AiSD/Lista5/plots/500Bin3.png
+A    working_copy_2/AiSD/Lista5/plots/500Bin4.png
+A    working_copy_2/AiSD/Lista5/plots/500Fib2.png
+A    working_copy_2/AiSD/Lista5/plots/500Fib1.png
+A    working_copy_2/AiSD/Lista5/plots/500Fib3.png
+A    working_copy_2/AiSD/Lista5/src/lib.rs
+A    working_copy_2/ŚP/Lista1/2.sh
+A    working_copy_2/ŚP/Lista1/6.sh
+A    working_copy_2/AiSD/Lista5/plots/lcs.png
+A    working_copy_2/ŚP/Lista1/1.sh
+A    working_copy_2/ŚP/Lista1/5.sh
+A    working_copy_2/AiSD/Lista5/plots/500Fib4.png
+A    working_copy_2/AiSD/Lista5/src/main.rs
+A    working_copy_2/ŚP/Lista1/3.sh
+A    working_copy_2/ŚP/Lista1/l1_demo.cast
+A    working_copy_2/AiSD/Lista5/plots/HeapCmps.png
+A    working_copy_2/testfile.txt
+A    working_copy_2/ŚP/Lista1/4.sh
+Checked out revision 12.
+# robienie konfiktu
+spiryd@SpirydRoot:/mnt/c/Users/neuma/Desktop/tmp$ cd working_copy_1
+spiryd@SpirydRoot:/mnt/c/Users/neuma/Desktop/tmp/working_copy_1$ echo "Change from working_copy_1" >> testfile.txt
+spiryd@SpirydRoot:/mnt/c/Users/neuma/Desktop/tmp/working_copy_1$ svn commit -m "Edit from working_copy_1"
+Authentication realm: <https://repo.cs.pwr.edu.pl:443> Subversion Repository
+Password for '268451': 
+
+Sending        testfile.txt
+Transmitting file data .done
+Committing transaction...
+Committed revision 13.
+spiryd@SpirydRoot:/mnt/c/Users/neuma/Desktop/tmp/working_copy_1$ cd ../working_copy_2
+spiryd@SpirydRoot:/mnt/c/Users/neuma/Desktop/tmp/working_copy_2$ svn commit -m "Edit from working_copy_2"
+Authentication realm: <https://repo.cs.pwr.edu.pl:443> Subversion Repository
+Password for '268451': 
+
+Sending        testfile.txt
+Transmitting file data .svn: E155011: Commit failed (details follow):
+svn: E155011: File '/mnt/c/Users/neuma/Desktop/tmp/working_copy_2/testfile.txt' is out of date
+svn: E170004: While preparing '/mnt/c/Users/neuma/Desktop/tmp/working_copy_2/testfile.txt' for commit
+svn: E170004: File '/testfile.txt' is out of date
+spiryd@SpirydRoot:/mnt/c/Users/neuma/Desktop/tmp/working_copy_2$ ls
+AiSD  testfile.txt  testfile.txt.mine  testfile.txt.r12  testfile.txt.r13  ŚP
+spiryd@SpirydRoot:/mnt/c/Users/neuma/Desktop/tmp/working_copy_2$ cat testfile.txt
+Initial line
+<<<<<<< .mine
+Change from working_copy_2
+||||||| .r12
+=======
+Change from working_copy_1
+>>>>>>> .r13
+spiryd@SpirydRoot:/mnt/c/Users/neuma/Desktop/tmp/working_copy_2$ cat testfile.txt.mine
+Initial line
+Change from working_copy_2
+spiryd@SpirydRoot:/mnt/c/Users/neuma/Desktop/tmp/working_copy_2$ cat testfile.txt.r12
+Initial line
+spiryd@SpirydRoot:/mnt/c/Users/neuma/Desktop/tmp/working_copy_2$ cat testfile.txt.r13
+Initial line
+Change from working_copy_1
+spiryd@SpirydRoot:/mnt/c/Users/neuma/Desktop/tmp/working_copy_2$ nano testfile.txt
+spiryd@SpirydRoot:/mnt/c/Users/neuma/Desktop/tmp/working_copy_2$ cat testfile.txt
+Initial line
+Change from working_copy_2
+Change from working_copy_1
+spiryd@SpirydRoot:/mnt/c/Users/neuma/Desktop/tmp/working_copy_2$ svn resolve --accept=working testfile.txt
+Merge conflicts in 'testfile.txt' marked as resolved.
+spiryd@SpirydRoot:/mnt/c/Users/neuma/Desktop/tmp/working_copy_2$ svn commit -m "Resolved conflict in testfile.txt"
+Authentication realm: <https://repo.cs.pwr.edu.pl:443> Subversion Repository
+Password for '268451': 
+
+Sending        testfile.txt
+Transmitting file data .done
+Committing transaction...
+Committed revision 14.
+spiryd@SpirydRoot:/mnt/c/Users/neuma/Desktop/tmp/working_copy_2$ svn log -v
+Authentication realm: <https://repo.cs.pwr.edu.pl:443> Subversion Repository
+Password for '268451': 
+
+------------------------------------------------------------------------
+r13 | 268451 | 2024-11-04 20:31:15 +0100 (Mon, 04 Nov 2024) | 1 line
+Changed paths:
+   M /testfile.txt
+
+Edit from working_copy_1
+------------------------------------------------------------------------
+r12 | 268451 | 2024-11-04 20:28:43 +0100 (Mon, 04 Nov 2024) | 1 line
+Changed paths:
+   A /testfile.txt
+
+Add testfile.txt with initial content
+------------------------------------------------------------------------
+r11 | 268451 | 2024-11-04 20:26:27 +0100 (Mon, 04 Nov 2024) | 1 line
+Changed paths:
+   D /testfile.txt
+
+ok
+------------------------------------------------------------------------
+r10 | 268451 | 2024-11-04 20:16:56 +0100 (Mon, 04 Nov 2024) | 1 line
+Changed paths:
+   M /testfile.txt
+
+Edit from working_copy_1
+------------------------------------------------------------------------
+r9 | 268451 | 2024-11-04 20:14:35 +0100 (Mon, 04 Nov 2024) | 1 line
+Changed paths:
+   A /testfile.txt
+
+Add testfile.txt with initial content
+------------------------------------------------------------------------
+r8 | 268451 | 2024-10-22 19:44:51 +0200 (Tue, 22 Oct 2024) | 1 line
+Changed paths:
+   A /ŚP
+   A /ŚP/Lista1
+   A /ŚP/Lista1/1.sh
+   A /ŚP/Lista1/2.sh
+   A /ŚP/Lista1/3.sh
+   A /ŚP/Lista1/4.sh
+   A /ŚP/Lista1/5.sh
+   A /ŚP/Lista1/6.sh
+   A /ŚP/Lista1/l1_demo.cast
+
+chore: add Lista1
+------------------------------------------------------------------------
+r7 | 268451 | 2023-06-15 07:51:47 +0200 (Thu, 15 Jun 2023) | 1 line
+Changed paths:
+   A /AiSD/Lista5
+   A /AiSD/Lista5/heaps.py
+   A /AiSD/Lista5/l5.cast
+   A /AiSD/Lista5/plots
+   A /AiSD/Lista5/plots/1000Bin0.png
+   A /AiSD/Lista5/plots/1000Bin1.png
+   A /AiSD/Lista5/plots/1000Bin2.png
+   A /AiSD/Lista5/plots/1000Bin3.png
+   A /AiSD/Lista5/plots/1000Bin4.png
+   A /AiSD/Lista5/plots/1000Fib0.png
+   A /AiSD/Lista5/plots/1000Fib1.png
+   A /AiSD/Lista5/plots/1000Fib2.png
+   A /AiSD/Lista5/plots/1000Fib3.png
+   A /AiSD/Lista5/plots/1000Fib4.png
+   A /AiSD/Lista5/plots/500Bin0.png
+   A /AiSD/Lista5/plots/500Bin1.png
+   A /AiSD/Lista5/plots/500Bin2.png
+   A /AiSD/Lista5/plots/500Bin3.png
+   A /AiSD/Lista5/plots/500Bin4.png
+   A /AiSD/Lista5/plots/500Fib0.png
+   A /AiSD/Lista5/plots/500Fib1.png
+   A /AiSD/Lista5/plots/500Fib2.png
+   A /AiSD/Lista5/plots/500Fib3.png
+   A /AiSD/Lista5/plots/500Fib4.png
+   A /AiSD/Lista5/plots/HeapCmps.png
+   A /AiSD/Lista5/plots/lcs.png
+   A /AiSD/Lista5/src
+   A /AiSD/Lista5/src/lib.rs
+   A /AiSD/Lista5/src/main.rs
+
+l5
+------------------------------------------------------------------------
+r6 | 268451 | 2023-06-04 21:31:39 +0200 (Sun, 04 Jun 2023) | 1 line
+Changed paths:
+   A /AiSD/Lista4
+   A /AiSD/Lista4/gen_plots.py
+   A /AiSD/Lista4/l4.cast
+   A /AiSD/Lista4/plots
+   A /AiSD/Lista4/plots/348361647_203381959276182_108420213491817817_n.png
+   A /AiSD/Lista4/plots/348365094_645485913747686_6855632548552141091_n.png
+   A /AiSD/Lista4/plots/348365375_562707572716435_7604932337805734037_n.png
+   A /AiSD/Lista4/plots/348373449_1638460693339509_4353523558145092387_n.png
+   A /AiSD/Lista4/plots/348385913_116299924815768_5816054004476085102_n.png
+   A /AiSD/Lista4/plots/348388560_946550763136674_6939534681149045386_n.png
+   A /AiSD/Lista4/src
+   A /AiSD/Lista4/src/lib.rs
+   A /AiSD/Lista4/src/main.rs
+
+l4
+------------------------------------------------------------------------
+r5 | 268451 | 2023-05-09 09:30:39 +0200 (Tue, 09 May 2023) | 1 line
+Changed paths:
+   M /AiSD/Lista3/plots/344000431_1054697688825156_2188631539953523483_n.png
+   M /AiSD/Lista3/plots/344068498_205407688949560_1386395070074970952_n.png
+   M /AiSD/Lista3/plots/344116588_577750287517037_5547574509565218915_n.png
+   M /AiSD/Lista3/plots/344145758_2512017225616418_1286256232551315721_n.png
+   M /AiSD/Lista3/plots/344202880_975113583685186_4165642192021315929_n.png
+   M /AiSD/Lista3/plots/344288494_597768375636798_9215944025685171914_n.png
+   M /AiSD/Lista3/plots/344289293_929917201582088_5122778720998017733_n.png
+   M /AiSD/Lista3/plots/344293115_1187675521907676_1366776899568677331_n.png
+   M /AiSD/Lista3/plots/344293412_268030852311862_2846470232500518280_n.png
+   M /AiSD/Lista3/plots/344295445_624138192894658_3278853279482047875_n.png
+   M /AiSD/Lista3/plots/344309152_764925508374420_153172709603005909_n.png
+   M /AiSD/Lista3/plots/344383180_533397892112864_8247343934926995077_n.png
+   M /AiSD/Lista3/plots/344401827_1298743844404496_2187539043413982439_n.png
+   M /AiSD/Lista3/plots/344556106_999241807912343_7825313919674798321_n.png
+   M /AiSD/Lista3/src/bin/bin_search.rs
+   M /AiSD/Lista3/src/bin/collect_data.rs
+   M /AiSD/Lista3/src/bin/gen_random.rs
+   M /AiSD/Lista3/src/bin/gen_reversed.rs
+   M /AiSD/Lista3/src/bin/gen_sorted.rs
+   M /AiSD/Lista3/src/bin/rand_select.rs
+   M /AiSD/Lista3/src/bin/select.rs
+   M /AiSD/Lista3/src/lib.rs
+
+lista3 revised
+------------------------------------------------------------------------
+r4 | 268451 | 2023-05-09 09:23:34 +0200 (Tue, 09 May 2023) | 1 line
+Changed paths:
+   A /AiSD/Lista3
+   A /AiSD/Lista3/gen_plots.py
+   A /AiSD/Lista3/l3
+   A /AiSD/Lista3/plots
+   A /AiSD/Lista3/plots/344000431_1054697688825156_2188631539953523483_n.png
+   A /AiSD/Lista3/plots/344068498_205407688949560_1386395070074970952_n.png
+   A /AiSD/Lista3/plots/344116588_577750287517037_5547574509565218915_n.png
+   A /AiSD/Lista3/plots/344145758_2512017225616418_1286256232551315721_n.png
+   A /AiSD/Lista3/plots/344202880_975113583685186_4165642192021315929_n.png
+   A /AiSD/Lista3/plots/344288494_597768375636798_9215944025685171914_n.png
+   A /AiSD/Lista3/plots/344289293_929917201582088_5122778720998017733_n.png
+   A /AiSD/Lista3/plots/344293115_1187675521907676_1366776899568677331_n.png
+   A /AiSD/Lista3/plots/344293412_268030852311862_2846470232500518280_n.png
+   A /AiSD/Lista3/plots/344295445_624138192894658_3278853279482047875_n.png
+   A /AiSD/Lista3/plots/344309152_764925508374420_153172709603005909_n.png
+   A /AiSD/Lista3/plots/344383180_533397892112864_8247343934926995077_n.png
+   A /AiSD/Lista3/plots/344401827_1298743844404496_2187539043413982439_n.png
+   A /AiSD/Lista3/plots/344556106_999241807912343_7825313919674798321_n.png
+   A /AiSD/Lista3/src
+   A /AiSD/Lista3/src/bin
+   A /AiSD/Lista3/src/bin/bin_search.rs
+   A /AiSD/Lista3/src/bin/collect_data.rs
+   A /AiSD/Lista3/src/bin/gen_random.rs
+   A /AiSD/Lista3/src/bin/gen_reversed.rs
+   A /AiSD/Lista3/src/bin/gen_sorted.rs
+   A /AiSD/Lista3/src/bin/rand_select.rs
+   A /AiSD/Lista3/src/bin/select.rs
+   A /AiSD/Lista3/src/lib.rs
+
+lista3
+------------------------------------------------------------------------
+r3 | 268451 | 2023-04-25 09:37:38 +0200 (Tue, 25 Apr 2023) | 1 line
+Changed paths:
+   M /AiSD/Lista2/src/lib.rs
+
+
+------------------------------------------------------------------------
+r2 | 268451 | 2023-04-02 14:43:17 +0200 (Sun, 02 Apr 2023) | 1 line
+Changed paths:
+   A /AiSD/Lista2
+   A /AiSD/Lista2/Cargo.toml
+   A /AiSD/Lista2/gen_plots.py
+   A /AiSD/Lista2/l2
+   A /AiSD/Lista2/plots
+   A /AiSD/Lista2/plots/cmps.png
+   A /AiSD/Lista2/plots/cn.png
+   A /AiSD/Lista2/plots/sn.png
+   A /AiSD/Lista2/plots/swaps.png
+   A /AiSD/Lista2/src
+   A /AiSD/Lista2/src/bin
+   A /AiSD/Lista2/src/bin/collect_data.rs
+   A /AiSD/Lista2/src/bin/dp_quik_sort.rs
+   A /AiSD/Lista2/src/bin/dp_quikins_sort.rs
+   A /AiSD/Lista2/src/bin/gen_random.rs
+   A /AiSD/Lista2/src/bin/gen_reversed.rs
+   A /AiSD/Lista2/src/bin/gen_sorted.rs
+   A /AiSD/Lista2/src/bin/ins_sort.rs
+   A /AiSD/Lista2/src/bin/mrg_sort.rs
+   A /AiSD/Lista2/src/bin/quik_sort.rs
+   A /AiSD/Lista2/src/lib.rs
+
+lista 1
+------------------------------------------------------------------------
+r1 | 268451 | 2023-03-13 20:52:37 +0100 (Mon, 13 Mar 2023) | 1 line
+Changed paths:
+   A /AiSD
+   A /AiSD/Lista1
+   A /AiSD/Lista1/1.c
+   A /AiSD/Lista1/2.cpp
+   A /AiSD/Lista1/3.cpp
+   A /AiSD/Lista1/l1
+
+lista 1
+------------------------------------------------------------------------
+Authentication realm: <https://repo.cs.pwr.edu.pl:443> Subversion Repository
+Password for '268451': 
+
+------------------------------------------------------------------------
+r13 | 268451 | 2024-11-04 20:31:15 +0100 (Mon, 04 Nov 2024) | 1 line
+Changed paths:
+   M /testfile.txt
+
+Edit from working_copy_1
+------------------------------------------------------------------------
+r12 | 268451 | 2024-11-04 20:28:43 +0100 (Mon, 04 Nov 2024) | 1 line
+Changed paths:
+   A /testfile.txt
+
+Add testfile.txt with initial content
+------------------------------------------------------------------------
+r11 | 268451 | 2024-11-04 20:26:27 +0100 (Mon, 04 Nov 2024) | 1 line
+Changed paths:
+   D /testfile.txt
+
+ok
+------------------------------------------------------------------------
+r10 | 268451 | 2024-11-04 20:16:56 +0100 (Mon, 04 Nov 2024) | 1 line
+Changed paths:
+   M /testfile.txt
+
+Edit from working_copy_1
+------------------------------------------------------------------------
+r9 | 268451 | 2024-11-04 20:14:35 +0100 (Mon, 04 Nov 2024) | 1 line
+Changed paths:
+   A /testfile.txt
+
+Add testfile.txt with initial content
+------------------------------------------------------------------------
+r8 | 268451 | 2024-10-22 19:44:51 +0200 (Tue, 22 Oct 2024) | 1 line
+Changed paths:
+   A /ŚP
+   A /ŚP/Lista1
+   A /ŚP/Lista1/1.sh
+   A /ŚP/Lista1/2.sh
+   A /ŚP/Lista1/3.sh
+   A /ŚP/Lista1/4.sh
+   A /ŚP/Lista1/5.sh
+   A /ŚP/Lista1/6.sh
+   A /ŚP/Lista1/l1_demo.cast
+
+chore: add Lista1
+------------------------------------------------------------------------
+r7 | 268451 | 2023-06-15 07:51:47 +0200 (Thu, 15 Jun 2023) | 1 line
+Changed paths:
+   A /AiSD/Lista5
+   A /AiSD/Lista5/heaps.py
+   A /AiSD/Lista5/l5.cast
+   A /AiSD/Lista5/plots
+   A /AiSD/Lista5/plots/1000Bin0.png
+   A /AiSD/Lista5/plots/1000Bin1.png
+   A /AiSD/Lista5/plots/1000Bin2.png
+   A /AiSD/Lista5/plots/1000Bin3.png
+   A /AiSD/Lista5/plots/1000Bin4.png
+   A /AiSD/Lista5/plots/1000Fib0.png
+   A /AiSD/Lista5/plots/1000Fib1.png
+   A /AiSD/Lista5/plots/1000Fib2.png
+   A /AiSD/Lista5/plots/1000Fib3.png
+   A /AiSD/Lista5/plots/1000Fib4.png
+   A /AiSD/Lista5/plots/500Bin0.png
+   A /AiSD/Lista5/plots/500Bin1.png
+   A /AiSD/Lista5/plots/500Bin2.png
+   A /AiSD/Lista5/plots/500Bin3.png
+   A /AiSD/Lista5/plots/500Bin4.png
+   A /AiSD/Lista5/plots/500Fib0.png
+   A /AiSD/Lista5/plots/500Fib1.png
+   A /AiSD/Lista5/plots/500Fib2.png
+   A /AiSD/Lista5/plots/500Fib3.png
+   A /AiSD/Lista5/plots/500Fib4.png
+   A /AiSD/Lista5/plots/HeapCmps.png
+   A /AiSD/Lista5/plots/lcs.png
+   A /AiSD/Lista5/src
+   A /AiSD/Lista5/src/lib.rs
+   A /AiSD/Lista5/src/main.rs
+
+l5
+------------------------------------------------------------------------
+r6 | 268451 | 2023-06-04 21:31:39 +0200 (Sun, 04 Jun 2023) | 1 line
+Changed paths:
+   A /AiSD/Lista4
+   A /AiSD/Lista4/gen_plots.py
+   A /AiSD/Lista4/l4.cast
+   A /AiSD/Lista4/plots
+   A /AiSD/Lista4/plots/348361647_203381959276182_108420213491817817_n.png
+   A /AiSD/Lista4/plots/348365094_645485913747686_6855632548552141091_n.png
+   A /AiSD/Lista4/plots/348365375_562707572716435_7604932337805734037_n.png
+   A /AiSD/Lista4/plots/348373449_1638460693339509_4353523558145092387_n.png
+   A /AiSD/Lista4/plots/348385913_116299924815768_5816054004476085102_n.png
+   A /AiSD/Lista4/plots/348388560_946550763136674_6939534681149045386_n.png
+   A /AiSD/Lista4/src
+   A /AiSD/Lista4/src/lib.rs
+   A /AiSD/Lista4/src/main.rs
+
+l4
+------------------------------------------------------------------------
+r5 | 268451 | 2023-05-09 09:30:39 +0200 (Tue, 09 May 2023) | 1 line
+Changed paths:
+   M /AiSD/Lista3/plots/344000431_1054697688825156_2188631539953523483_n.png
+   M /AiSD/Lista3/plots/344068498_205407688949560_1386395070074970952_n.png
+   M /AiSD/Lista3/plots/344116588_577750287517037_5547574509565218915_n.png
+   M /AiSD/Lista3/plots/344145758_2512017225616418_1286256232551315721_n.png
+   M /AiSD/Lista3/plots/344202880_975113583685186_4165642192021315929_n.png
+   M /AiSD/Lista3/plots/344288494_597768375636798_9215944025685171914_n.png
+   M /AiSD/Lista3/plots/344289293_929917201582088_5122778720998017733_n.png
+   M /AiSD/Lista3/plots/344293115_1187675521907676_1366776899568677331_n.png
+   M /AiSD/Lista3/plots/344293412_268030852311862_2846470232500518280_n.png
+   M /AiSD/Lista3/plots/344295445_624138192894658_3278853279482047875_n.png
+   M /AiSD/Lista3/plots/344309152_764925508374420_153172709603005909_n.png
+   M /AiSD/Lista3/plots/344383180_533397892112864_8247343934926995077_n.png
+   M /AiSD/Lista3/plots/344401827_1298743844404496_2187539043413982439_n.png
+   M /AiSD/Lista3/plots/344556106_999241807912343_7825313919674798321_n.png
+   M /AiSD/Lista3/src/bin/bin_search.rs
+   M /AiSD/Lista3/src/bin/collect_data.rs
+   M /AiSD/Lista3/src/bin/gen_random.rs
+   M /AiSD/Lista3/src/bin/gen_reversed.rs
+   M /AiSD/Lista3/src/bin/gen_sorted.rs
+   M /AiSD/Lista3/src/bin/rand_select.rs
+   M /AiSD/Lista3/src/bin/select.rs
+   M /AiSD/Lista3/src/lib.rs
+
+lista3 revised
+------------------------------------------------------------------------
+r4 | 268451 | 2023-05-09 09:23:34 +0200 (Tue, 09 May 2023) | 1 line
+Changed paths:
+   A /AiSD/Lista3
+   A /AiSD/Lista3/gen_plots.py
+   A /AiSD/Lista3/l3
+   A /AiSD/Lista3/plots
+   A /AiSD/Lista3/plots/344000431_1054697688825156_2188631539953523483_n.png
+   A /AiSD/Lista3/plots/344068498_205407688949560_1386395070074970952_n.png
+   A /AiSD/Lista3/plots/344116588_577750287517037_5547574509565218915_n.png
+   A /AiSD/Lista3/plots/344145758_2512017225616418_1286256232551315721_n.png
+   A /AiSD/Lista3/plots/344202880_975113583685186_4165642192021315929_n.png
+   A /AiSD/Lista3/plots/344288494_597768375636798_9215944025685171914_n.png
+   A /AiSD/Lista3/plots/344289293_929917201582088_5122778720998017733_n.png
+   A /AiSD/Lista3/plots/344293115_1187675521907676_1366776899568677331_n.png
+   A /AiSD/Lista3/plots/344293412_268030852311862_2846470232500518280_n.png
+   A /AiSD/Lista3/plots/344295445_624138192894658_3278853279482047875_n.png
+   A /AiSD/Lista3/plots/344309152_764925508374420_153172709603005909_n.png
+   A /AiSD/Lista3/plots/344383180_533397892112864_8247343934926995077_n.png
+   A /AiSD/Lista3/plots/344401827_1298743844404496_2187539043413982439_n.png
+   A /AiSD/Lista3/plots/344556106_999241807912343_7825313919674798321_n.png
+   A /AiSD/Lista3/src
+   A /AiSD/Lista3/src/bin
+   A /AiSD/Lista3/src/bin/bin_search.rs
+   A /AiSD/Lista3/src/bin/collect_data.rs
+   A /AiSD/Lista3/src/bin/gen_random.rs
+   A /AiSD/Lista3/src/bin/gen_reversed.rs
+   A /AiSD/Lista3/src/bin/gen_sorted.rs
+   A /AiSD/Lista3/src/bin/rand_select.rs
+   A /AiSD/Lista3/src/bin/select.rs
+   A /AiSD/Lista3/src/lib.rs
+
+lista3
+------------------------------------------------------------------------
+r3 | 268451 | 2023-04-25 09:37:38 +0200 (Tue, 25 Apr 2023) | 1 line
+Changed paths:
+   M /AiSD/Lista2/src/lib.rs
+
+
+------------------------------------------------------------------------
+r2 | 268451 | 2023-04-02 14:43:17 +0200 (Sun, 02 Apr 2023) | 1 line
+Changed paths:
+   A /AiSD/Lista2
+   A /AiSD/Lista2/Cargo.toml
+   A /AiSD/Lista2/gen_plots.py
+   A /AiSD/Lista2/l2
+   A /AiSD/Lista2/plots
+   A /AiSD/Lista2/plots/cmps.png
+   A /AiSD/Lista2/plots/cn.png
+   A /AiSD/Lista2/plots/sn.png
+   A /AiSD/Lista2/plots/swaps.png
+   A /AiSD/Lista2/src
+   A /AiSD/Lista2/src/bin
+   A /AiSD/Lista2/src/bin/collect_data.rs
+   A /AiSD/Lista2/src/bin/dp_quik_sort.rs
+   A /AiSD/Lista2/src/bin/dp_quikins_sort.rs
+   A /AiSD/Lista2/src/bin/gen_random.rs
+   A /AiSD/Lista2/src/bin/gen_reversed.rs
+   A /AiSD/Lista2/src/bin/gen_sorted.rs
+   A /AiSD/Lista2/src/bin/ins_sort.rs
+   A /AiSD/Lista2/src/bin/mrg_sort.rs
+   A /AiSD/Lista2/src/bin/quik_sort.rs
+   A /AiSD/Lista2/src/lib.rs
+
+lista 1
+------------------------------------------------------------------------
+r1 | 268451 | 2023-03-13 20:52:37 +0100 (Mon, 13 Mar 2023) | 1 line
+Changed paths:
+   A /AiSD
+   A /AiSD/Lista1
+   A /AiSD/Lista1/1.c
+   A /AiSD/Lista1/2.cpp
+   A /AiSD/Lista1/3.cpp
+   A /AiSD/Lista1/l1
+
+lista 1
+------------------------------------------------------------------------
+spiryd@SpirydRoot:/mnt/c/Users/neuma/Desktop/tmp/working_copy_2$ cd ../working_copy_1
+spiryd@SpirydRoot:/mnt/c/Users/neuma/Desktop/tmp/working_copy_1$ svn log -v
+Authentication realm: <https://repo.cs.pwr.edu.pl:443> Subversion Repository
+Password for '268451': 
+
+------------------------------------------------------------------------
+r11 | 268451 | 2024-11-04 20:26:27 +0100 (Mon, 04 Nov 2024) | 1 line
+Changed paths:
+   D /testfile.txt
+
+ok
+------------------------------------------------------------------------
+r10 | 268451 | 2024-11-04 20:16:56 +0100 (Mon, 04 Nov 2024) | 1 line
+Changed paths:
+   M /testfile.txt
+
+Edit from working_copy_1
+------------------------------------------------------------------------
+r9 | 268451 | 2024-11-04 20:14:35 +0100 (Mon, 04 Nov 2024) | 1 line
+Changed paths:
+   A /testfile.txt
+
+Add testfile.txt with initial content
+------------------------------------------------------------------------
+r8 | 268451 | 2024-10-22 19:44:51 +0200 (Tue, 22 Oct 2024) | 1 line
+Changed paths:
+   A /ŚP
+   A /ŚP/Lista1
+   A /ŚP/Lista1/1.sh
+   A /ŚP/Lista1/2.sh
+   A /ŚP/Lista1/3.sh
+   A /ŚP/Lista1/4.sh
+   A /ŚP/Lista1/5.sh
+   A /ŚP/Lista1/6.sh
+   A /ŚP/Lista1/l1_demo.cast
+
+chore: add Lista1
+------------------------------------------------------------------------
+r7 | 268451 | 2023-06-15 07:51:47 +0200 (Thu, 15 Jun 2023) | 1 line
+Changed paths:
+   A /AiSD/Lista5
+   A /AiSD/Lista5/heaps.py
+   A /AiSD/Lista5/l5.cast
+   A /AiSD/Lista5/plots
+   A /AiSD/Lista5/plots/1000Bin0.png
+   A /AiSD/Lista5/plots/1000Bin1.png
+   A /AiSD/Lista5/plots/1000Bin2.png
+   A /AiSD/Lista5/plots/1000Bin3.png
+   A /AiSD/Lista5/plots/1000Bin4.png
+   A /AiSD/Lista5/plots/1000Fib0.png
+   A /AiSD/Lista5/plots/1000Fib1.png
+   A /AiSD/Lista5/plots/1000Fib2.png
+   A /AiSD/Lista5/plots/1000Fib3.png
+   A /AiSD/Lista5/plots/1000Fib4.png
+   A /AiSD/Lista5/plots/500Bin0.png
+   A /AiSD/Lista5/plots/500Bin1.png
+   A /AiSD/Lista5/plots/500Bin2.png
+   A /AiSD/Lista5/plots/500Bin3.png
+   A /AiSD/Lista5/plots/500Bin4.png
+   A /AiSD/Lista5/plots/500Fib0.png
+   A /AiSD/Lista5/plots/500Fib1.png
+   A /AiSD/Lista5/plots/500Fib2.png
+   A /AiSD/Lista5/plots/500Fib3.png
+   A /AiSD/Lista5/plots/500Fib4.png
+   A /AiSD/Lista5/plots/HeapCmps.png
+   A /AiSD/Lista5/plots/lcs.png
+   A /AiSD/Lista5/src
+   A /AiSD/Lista5/src/lib.rs
+   A /AiSD/Lista5/src/main.rs
+
+l5
+------------------------------------------------------------------------
+r6 | 268451 | 2023-06-04 21:31:39 +0200 (Sun, 04 Jun 2023) | 1 line
+Changed paths:
+   A /AiSD/Lista4
+   A /AiSD/Lista4/gen_plots.py
+   A /AiSD/Lista4/l4.cast
+   A /AiSD/Lista4/plots
+   A /AiSD/Lista4/plots/348361647_203381959276182_108420213491817817_n.png
+   A /AiSD/Lista4/plots/348365094_645485913747686_6855632548552141091_n.png
+   A /AiSD/Lista4/plots/348365375_562707572716435_7604932337805734037_n.png
+   A /AiSD/Lista4/plots/348373449_1638460693339509_4353523558145092387_n.png
+   A /AiSD/Lista4/plots/348385913_116299924815768_5816054004476085102_n.png
+   A /AiSD/Lista4/plots/348388560_946550763136674_6939534681149045386_n.png
+   A /AiSD/Lista4/src
+   A /AiSD/Lista4/src/lib.rs
+   A /AiSD/Lista4/src/main.rs
+
+l4
+------------------------------------------------------------------------
+r5 | 268451 | 2023-05-09 09:30:39 +0200 (Tue, 09 May 2023) | 1 line
+Changed paths:
+   M /AiSD/Lista3/plots/344000431_1054697688825156_2188631539953523483_n.png
+   M /AiSD/Lista3/plots/344068498_205407688949560_1386395070074970952_n.png
+   M /AiSD/Lista3/plots/344116588_577750287517037_5547574509565218915_n.png
+   M /AiSD/Lista3/plots/344145758_2512017225616418_1286256232551315721_n.png
+   M /AiSD/Lista3/plots/344202880_975113583685186_4165642192021315929_n.png
+   M /AiSD/Lista3/plots/344288494_597768375636798_9215944025685171914_n.png
+   M /AiSD/Lista3/plots/344289293_929917201582088_5122778720998017733_n.png
+   M /AiSD/Lista3/plots/344293115_1187675521907676_1366776899568677331_n.png
+   M /AiSD/Lista3/plots/344293412_268030852311862_2846470232500518280_n.png
+   M /AiSD/Lista3/plots/344295445_624138192894658_3278853279482047875_n.png
+   M /AiSD/Lista3/plots/344309152_764925508374420_153172709603005909_n.png
+   M /AiSD/Lista3/plots/344383180_533397892112864_8247343934926995077_n.png
+   M /AiSD/Lista3/plots/344401827_1298743844404496_2187539043413982439_n.png
+   M /AiSD/Lista3/plots/344556106_999241807912343_7825313919674798321_n.png
+   M /AiSD/Lista3/src/bin/bin_search.rs
+   M /AiSD/Lista3/src/bin/collect_data.rs
+   M /AiSD/Lista3/src/bin/gen_random.rs
+   M /AiSD/Lista3/src/bin/gen_reversed.rs
+   M /AiSD/Lista3/src/bin/gen_sorted.rs
+   M /AiSD/Lista3/src/bin/rand_select.rs
+   M /AiSD/Lista3/src/bin/select.rs
+   M /AiSD/Lista3/src/lib.rs
+
+lista3 revised
+------------------------------------------------------------------------
+r4 | 268451 | 2023-05-09 09:23:34 +0200 (Tue, 09 May 2023) | 1 line
+Changed paths:
+   A /AiSD/Lista3
+   A /AiSD/Lista3/gen_plots.py
+   A /AiSD/Lista3/l3
+   A /AiSD/Lista3/plots
+   A /AiSD/Lista3/plots/344000431_1054697688825156_2188631539953523483_n.png
+   A /AiSD/Lista3/plots/344068498_205407688949560_1386395070074970952_n.png
+   A /AiSD/Lista3/plots/344116588_577750287517037_5547574509565218915_n.png
+   A /AiSD/Lista3/plots/344145758_2512017225616418_1286256232551315721_n.png
+   A /AiSD/Lista3/plots/344202880_975113583685186_4165642192021315929_n.png
+   A /AiSD/Lista3/plots/344288494_597768375636798_9215944025685171914_n.png
+   A /AiSD/Lista3/plots/344289293_929917201582088_5122778720998017733_n.png
+   A /AiSD/Lista3/plots/344293115_1187675521907676_1366776899568677331_n.png
+   A /AiSD/Lista3/plots/344293412_268030852311862_2846470232500518280_n.png
+   A /AiSD/Lista3/plots/344295445_624138192894658_3278853279482047875_n.png
+   A /AiSD/Lista3/plots/344309152_764925508374420_153172709603005909_n.png
+   A /AiSD/Lista3/plots/344383180_533397892112864_8247343934926995077_n.png
+   A /AiSD/Lista3/plots/344401827_1298743844404496_2187539043413982439_n.png
+   A /AiSD/Lista3/plots/344556106_999241807912343_7825313919674798321_n.png
+   A /AiSD/Lista3/src
+   A /AiSD/Lista3/src/bin
+   A /AiSD/Lista3/src/bin/bin_search.rs
+   A /AiSD/Lista3/src/bin/collect_data.rs
+   A /AiSD/Lista3/src/bin/gen_random.rs
+   A /AiSD/Lista3/src/bin/gen_reversed.rs
+   A /AiSD/Lista3/src/bin/gen_sorted.rs
+   A /AiSD/Lista3/src/bin/rand_select.rs
+   A /AiSD/Lista3/src/bin/select.rs
+   A /AiSD/Lista3/src/lib.rs
+
+lista3
+------------------------------------------------------------------------
+r3 | 268451 | 2023-04-25 09:37:38 +0200 (Tue, 25 Apr 2023) | 1 line
+Changed paths:
+   M /AiSD/Lista2/src/lib.rs
+
+
+------------------------------------------------------------------------
+r2 | 268451 | 2023-04-02 14:43:17 +0200 (Sun, 02 Apr 2023) | 1 line
+Changed paths:
+   A /AiSD/Lista2
+   A /AiSD/Lista2/Cargo.toml
+   A /AiSD/Lista2/gen_plots.py
+   A /AiSD/Lista2/l2
+   A /AiSD/Lista2/plots
+   A /AiSD/Lista2/plots/cmps.png
+   A /AiSD/Lista2/plots/cn.png
+   A /AiSD/Lista2/plots/sn.png
+   A /AiSD/Lista2/plots/swaps.png
+   A /AiSD/Lista2/src
+   A /AiSD/Lista2/src/bin
+   A /AiSD/Lista2/src/bin/collect_data.rs
+   A /AiSD/Lista2/src/bin/dp_quik_sort.rs
+   A /AiSD/Lista2/src/bin/dp_quikins_sort.rs
+   A /AiSD/Lista2/src/bin/gen_random.rs
+   A /AiSD/Lista2/src/bin/gen_reversed.rs
+   A /AiSD/Lista2/src/bin/gen_sorted.rs
+   A /AiSD/Lista2/src/bin/ins_sort.rs
+   A /AiSD/Lista2/src/bin/mrg_sort.rs
+   A /AiSD/Lista2/src/bin/quik_sort.rs
+   A /AiSD/Lista2/src/lib.rs
+
+lista 1
+------------------------------------------------------------------------
+r1 | 268451 | 2023-03-13 20:52:37 +0100 (Mon, 13 Mar 2023) | 1 line
+Changed paths:
+   A /AiSD
+   A /AiSD/Lista1
+   A /AiSD/Lista1/1.c
+   A /AiSD/Lista1/2.cpp
+   A /AiSD/Lista1/3.cpp
+   A /AiSD/Lista1/l1
+
+lista 1
+------------------------------------------------------------------------

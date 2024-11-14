@@ -1,0 +1,629 @@
+# Maksymilian Neumann 268451
+spiryd@SpirydRoot:/mnt/c/Users/neuma/Desktop$ rm -rf tmp
+spiryd@SpirydRoot:/mnt/c/Users/neuma/Desktop$ mkdir tmp
+spiryd@SpirydRoot:/mnt/c/Users/neuma/Desktop$ svn checkout https://repo.cs.pwr.edu.pl/268451-dir/mk1 tmp
+Authentication realm: <https://repo.cs.pwr.edu.pl:443> Subversion Repository
+Password for '268451': 
+
+A    tmp/AiSD
+A    tmp/AiSD/Lista1
+A    tmp/AiSD/Lista2
+A    tmp/AiSD/Lista2/plots
+A    tmp/AiSD/Lista2/src
+A    tmp/AiSD/Lista2/src/bin
+A    tmp/AiSD/Lista3
+A    tmp/AiSD/Lista3/plots
+A    tmp/AiSD/Lista3/src
+A    tmp/AiSD/Lista3/src/bin
+A    tmp/AiSD/Lista1/1.c
+A    tmp/AiSD/Lista1/2.cpp
+A    tmp/AiSD/Lista1/3.cpp
+A    tmp/AiSD/Lista4
+A    tmp/AiSD/Lista1/l1
+A    tmp/AiSD/Lista2/Cargo.toml
+A    tmp/AiSD/Lista2/gen_plots.py
+A    tmp/AiSD/Lista2/l2
+A    tmp/AiSD/Lista4/plots
+A    tmp/AiSD/Lista3/plots/344383180_533397892112864_8247343934926995077_n.png
+A    tmp/AiSD/Lista3/src/bin/bin_search.rs
+A    tmp/AiSD/Lista3/src/bin/gen_reversed.rs
+A    tmp/AiSD/Lista3/src/lib.rs
+A    tmp/AiSD/Lista3/src/bin/gen_sorted.rs
+A    tmp/AiSD/Lista4/gen_plots.py
+A    tmp/AiSD/Lista4/src
+A    tmp/AiSD/Lista5
+A    tmp/AiSD/Lista2/plots/cmps.png
+A    tmp/AiSD/Lista2/plots/cn.png
+A    tmp/AiSD/Lista2/plots/sn.png
+A    tmp/AiSD/Lista4/plots/348365094_645485913747686_6855632548552141091_n.png
+A    tmp/AiSD/Lista4/plots/348388560_946550763136674_6939534681149045386_n.png
+A    tmp/AiSD/Lista4/plots/348365375_562707572716435_7604932337805734037_n.png
+A    tmp/AiSD/Lista4/src/lib.rs
+A    tmp/AiSD/Lista5/plots
+A    tmp/AiSD/Lista3/plots/344116588_577750287517037_5547574509565218915_n.png
+A    tmp/AiSD/Lista2/plots/swaps.png
+A    tmp/AiSD/Lista2/src/bin/collect_data.rs
+A    tmp/AiSD/Lista2/src/bin/dp_quik_sort.rs
+A    tmp/AiSD/Lista2/src/bin/dp_quikins_sort.rs
+A    tmp/AiSD/Lista2/src/bin/gen_random.rs
+A    tmp/AiSD/Lista2/src/bin/gen_reversed.rs
+A    tmp/AiSD/Lista2/src/bin/gen_sorted.rs
+A    tmp/AiSD/Lista2/src/bin/ins_sort.rs
+A    tmp/AiSD/Lista2/src/bin/mrg_sort.rs
+A    tmp/AiSD/Lista2/src/bin/quik_sort.rs
+A    tmp/AiSD/Lista2/src/lib.rs
+A    tmp/AiSD/Lista3/gen_plots.py
+A    tmp/AiSD/Lista3/l3
+A    tmp/AiSD/Lista5/src
+A    tmp/AiSD/Lista5/l5.cast
+A    tmp/AiSD/Lista3/plots/344202880_975113583685186_4165642192021315929_n.png
+A    tmp/AiSD/Lista3/plots/344000431_1054697688825156_2188631539953523483_n.png
+A    tmp/AiSD/Lista3/plots/344289293_929917201582088_5122778720998017733_n.png
+A    tmp/AiSD/Lista3/plots/344068498_205407688949560_1386395070074970952_n.png
+A    tmp/AiSD/Lista3/plots/344145758_2512017225616418_1286256232551315721_n.png
+A    tmp/ŚP
+A    tmp/ŚP/Lista1
+A    tmp/AiSD/Lista3/plots/344293412_268030852311862_2846470232500518280_n.png
+A    tmp/AiSD/Lista3/plots/344309152_764925508374420_153172709603005909_n.png
+A    tmp/AiSD/Lista3/plots/344288494_597768375636798_9215944025685171914_n.png
+A    tmp/AiSD/Lista3/plots/344556106_999241807912343_7825313919674798321_n.png
+A    tmp/AiSD/Lista3/src/bin/gen_random.rs
+A    tmp/AiSD/Lista3/src/bin/select.rs
+A    tmp/AiSD/Lista3/plots/344293115_1187675521907676_1366776899568677331_n.png
+A    tmp/AiSD/Lista4/plots/348361647_203381959276182_108420213491817817_n.png
+A    tmp/AiSD/Lista4/plots/348385913_116299924815768_5816054004476085102_n.png
+A    tmp/AiSD/Lista5/heaps.py
+A    tmp/AiSD/Lista3/plots/344295445_624138192894658_3278853279482047875_n.png
+A    tmp/AiSD/Lista3/plots/344401827_1298743844404496_2187539043413982439_n.png
+A    tmp/AiSD/Lista3/src/bin/collect_data.rs
+A    tmp/AiSD/Lista3/src/bin/rand_select.rs
+A    tmp/AiSD/Lista4/l4.cast
+A    tmp/AiSD/Lista4/plots/348373449_1638460693339509_4353523558145092387_n.png
+A    tmp/AiSD/Lista4/src/main.rs
+A    tmp/AiSD/Lista5/plots/1000Bin3.png
+A    tmp/AiSD/Lista5/plots/1000Bin0.png
+A    tmp/AiSD/Lista5/plots/1000Bin2.png
+A    tmp/AiSD/Lista5/plots/1000Bin1.png
+A    tmp/AiSD/Lista5/plots/1000Fib2.png
+A    tmp/AiSD/Lista5/plots/1000Bin4.png
+A    tmp/AiSD/Lista5/plots/1000Fib1.png
+A    tmp/AiSD/Lista5/plots/1000Fib0.png
+A    tmp/AiSD/Lista5/plots/1000Fib3.png
+A    tmp/AiSD/Lista5/plots/500Bin1.png
+A    tmp/AiSD/Lista5/plots/500Bin0.png
+A    tmp/AiSD/Lista5/plots/1000Fib4.png
+A    tmp/AiSD/Lista5/plots/500Fib0.png
+A    tmp/AiSD/Lista5/plots/500Bin2.png
+A    tmp/AiSD/Lista5/plots/500Bin4.png
+A    tmp/AiSD/Lista5/plots/500Bin3.png
+A    tmp/AiSD/Lista5/plots/500Fib4.png
+A    tmp/AiSD/Lista5/src/main.rs
+A    tmp/ŚP/Lista1/4.sh
+A    tmp/AiSD/Lista5/plots/500Fib1.png
+A    tmp/AiSD/Lista5/plots/500Fib3.png
+A    tmp/AiSD/Lista5/src/lib.rs
+A    tmp/ŚP/Lista1/3.sh
+A    tmp/ŚP/Lista1/l1_demo.cast
+A    tmp/AiSD/Lista5/plots/500Fib2.png
+A    tmp/AiSD/Lista5/plots/HeapCmps.png
+A    tmp/ŚP/Lista1/1.sh
+A    tmp/ŚP/Lista1/5.sh
+A    tmp/AiSD/Lista5/plots/lcs.png
+A    tmp/ŚP/Lista1/2.sh
+A    tmp/ŚP/Lista1/6.sh
+Checked out revision 15.
+spiryd@SpirydRoot:/mnt/c/Users/neuma/Desktop$ cd tmp/
+# step 1
+spiryd@SpirydRoot:/mnt/c/Users/neuma/Desktop/tmp$ svn mkdir a b
+A         a
+A         b
+spiryd@SpirydRoot:/mnt/c/Users/neuma/Desktop/tmp$ echo "Content of a.txt" > a/a.txt
+spiryd@SpirydRoot:/mnt/c/Users/neuma/Desktop/tmp$ echo "Content of b.txt" > b/b.txt
+spiryd@SpirydRoot:/mnt/c/Users/neuma/Desktop/tmp$ echo "Content of a.txt" > a/a.txt
+spiryd@SpirydRoot:/mnt/c/Users/neuma/Desktop/tmp$ echo "Content of b.txt" > b/b.txt
+spiryd@SpirydRoot:/mnt/c/Users/neuma/Desktop/tmp$ svn add a/a.txt b/b.txt
+A         a/a.txt
+A         b/b.txt
+spiryd@SpirydRoot:/mnt/c/Users/neuma/Desktop/tmp$ svn commit -m "Step 1: Add directories a and b with files a.txt and b.txt"
+Authentication realm: <https://repo.cs.pwr.edu.pl:443> Subversion Repository
+Password for '268451': 
+
+Adding         a
+Adding         a/a.txt
+Adding         b
+Adding         b/b.txt
+Transmitting file data ..done
+Committing transaction...
+Committed revision 16.
+# step 2
+spiryd@SpirydRoot:/mnt/c/Users/neuma/Desktop/tmp$ svn move b/b.txt a/b.txt
+A         a/b.txt
+D         b/b.txt
+spiryd@SpirydRoot:/mnt/c/Users/neuma/Desktop/tmp$ svn move a/a.txt b/a.txt
+A         b/a.txt
+D         a/a.txt
+spiryd@SpirydRoot:/mnt/c/Users/neuma/Desktop/tmp$ echo "New line in a/b.txt" >> a/b.txt
+spiryd@SpirydRoot:/mnt/c/Users/neuma/Desktop/tmp$ echo "New line in b/a.txt" >> b/a.txt
+spiryd@SpirydRoot:/mnt/c/Users/neuma/Desktop/tmp$ svn commit -m "Step 2: Move b.txt to a and a.txt to b, add a line to each file"
+Authentication realm: <https://repo.cs.pwr.edu.pl:443> Subversion Repository
+Password for '268451': 
+
+Deleting       a/a.txt
+Adding         a/b.txt
+Adding         b/a.txt
+Deleting       b/b.txt
+Transmitting file data ..done
+Committing transaction...
+Committed revision 17.
+# step 3
+spiryd@SpirydRoot:/mnt/c/Users/neuma/Desktop/tmp$ svn move b/a.txt b/c.txt
+A         b/c.txt
+D         b/a.txt
+spiryd@SpirydRoot:/mnt/c/Users/neuma/Desktop/tmp$ echo "Additional line in b/c.txt" >> b/c.txt
+spiryd@SpirydRoot:/mnt/c/Users/neuma/Desktop/tmp$ svn commit -m "Step 3: Rename a.txt to c.txt and add a line"
+Authentication realm: <https://repo.cs.pwr.edu.pl:443> Subversion Repository
+Password for '268451': 
+
+Deleting       b/a.txt
+Adding         b/c.txt
+Transmitting file data .done
+Committing transaction...
+Committed revision 18.
+# step 4
+spiryd@SpirydRoot:/mnt/c/Users/neuma/Desktop/tmp$ svn move a/b.txt a/a.txt
+A         a/a.txt
+D         a/b.txt
+spiryd@SpirydRoot:/mnt/c/Users/neuma/Desktop/tmp$ echo "Additional line in a/a.txt" >> a/a.txt
+spiryd@SpirydRoot:/mnt/c/Users/neuma/Desktop/tmp$ svn commit -m "Step 4: Rename b.txt to a.txt and add a line"
+Authentication realm: <https://repo.cs.pwr.edu.pl:443> Subversion Repository
+Password for '268451': 
+
+Adding         a/a.txt
+Deleting       a/b.txt
+Transmitting file data .done
+Committing transaction...
+Committed revision 19.
+# step 5
+spiryd@SpirydRoot:/mnt/c/Users/neuma/Desktop/tmp$ echo "New file b.txt in b directory" > b/b.txt
+spiryd@SpirydRoot:/mnt/c/Users/neuma/Desktop/tmp$ svn add b/b.txt
+A         b/b.txt
+spiryd@SpirydRoot:/mnt/c/Users/neuma/Desktop/tmp$ svn commit -m "Step 5: Add new b.txt to directory b"
+Authentication realm: <https://repo.cs.pwr.edu.pl:443> Subversion Repository
+Password for '268451': 
+
+Adding         b/b.txt
+Transmitting file data .done
+Committing transaction...
+Committed revision 20.
+# check
+spiryd@SpirydRoot:/mnt/c/Users/neuma/Desktop/tmp$ svn log -v
+Authentication realm: <https://repo.cs.pwr.edu.pl:443> Subversion Repository
+Password for '268451': 
+
+------------------------------------------------------------------------
+r15 | 268451 | 2024-11-04 20:43:18 +0100 (Mon, 04 Nov 2024) | 1 line
+Changed paths:
+   D /testfile.txt
+
+
+------------------------------------------------------------------------
+r14 | 268451 | 2024-11-04 20:38:08 +0100 (Mon, 04 Nov 2024) | 1 line
+Changed paths:
+   M /testfile.txt
+
+Resolved conflict in testfile.txt
+------------------------------------------------------------------------
+r13 | 268451 | 2024-11-04 20:31:15 +0100 (Mon, 04 Nov 2024) | 1 line
+Changed paths:
+   M /testfile.txt
+
+Edit from working_copy_1
+------------------------------------------------------------------------
+r12 | 268451 | 2024-11-04 20:28:43 +0100 (Mon, 04 Nov 2024) | 1 line
+Changed paths:
+   A /testfile.txt
+
+Add testfile.txt with initial content
+------------------------------------------------------------------------
+r11 | 268451 | 2024-11-04 20:26:27 +0100 (Mon, 04 Nov 2024) | 1 line
+Changed paths:
+   D /testfile.txt
+
+ok
+------------------------------------------------------------------------
+r10 | 268451 | 2024-11-04 20:16:56 +0100 (Mon, 04 Nov 2024) | 1 line
+Changed paths:
+   M /testfile.txt
+
+Edit from working_copy_1
+------------------------------------------------------------------------
+r9 | 268451 | 2024-11-04 20:14:35 +0100 (Mon, 04 Nov 2024) | 1 line
+Changed paths:
+   A /testfile.txt
+
+Add testfile.txt with initial content
+------------------------------------------------------------------------
+r8 | 268451 | 2024-10-22 19:44:51 +0200 (Tue, 22 Oct 2024) | 1 line
+Changed paths:
+   A /ŚP
+   A /ŚP/Lista1
+   A /ŚP/Lista1/1.sh
+   A /ŚP/Lista1/2.sh
+   A /ŚP/Lista1/3.sh
+   A /ŚP/Lista1/4.sh
+   A /ŚP/Lista1/5.sh
+   A /ŚP/Lista1/6.sh
+   A /ŚP/Lista1/l1_demo.cast
+
+chore: add Lista1
+------------------------------------------------------------------------
+r7 | 268451 | 2023-06-15 07:51:47 +0200 (Thu, 15 Jun 2023) | 1 line
+Changed paths:
+   A /AiSD/Lista5
+   A /AiSD/Lista5/heaps.py
+   A /AiSD/Lista5/l5.cast
+   A /AiSD/Lista5/plots
+   A /AiSD/Lista5/plots/1000Bin0.png
+   A /AiSD/Lista5/plots/1000Bin1.png
+   A /AiSD/Lista5/plots/1000Bin2.png
+   A /AiSD/Lista5/plots/1000Bin3.png
+   A /AiSD/Lista5/plots/1000Bin4.png
+   A /AiSD/Lista5/plots/1000Fib0.png
+   A /AiSD/Lista5/plots/1000Fib1.png
+   A /AiSD/Lista5/plots/1000Fib2.png
+   A /AiSD/Lista5/plots/1000Fib3.png
+   A /AiSD/Lista5/plots/1000Fib4.png
+   A /AiSD/Lista5/plots/500Bin0.png
+   A /AiSD/Lista5/plots/500Bin1.png
+   A /AiSD/Lista5/plots/500Bin2.png
+   A /AiSD/Lista5/plots/500Bin3.png
+   A /AiSD/Lista5/plots/500Bin4.png
+   A /AiSD/Lista5/plots/500Fib0.png
+   A /AiSD/Lista5/plots/500Fib1.png
+   A /AiSD/Lista5/plots/500Fib2.png
+   A /AiSD/Lista5/plots/500Fib3.png
+   A /AiSD/Lista5/plots/500Fib4.png
+   A /AiSD/Lista5/plots/HeapCmps.png
+   A /AiSD/Lista5/plots/lcs.png
+   A /AiSD/Lista5/src
+   A /AiSD/Lista5/src/lib.rs
+   A /AiSD/Lista5/src/main.rs
+
+l5
+------------------------------------------------------------------------
+r6 | 268451 | 2023-06-04 21:31:39 +0200 (Sun, 04 Jun 2023) | 1 line
+Changed paths:
+   A /AiSD/Lista4
+   A /AiSD/Lista4/gen_plots.py
+   A /AiSD/Lista4/l4.cast
+   A /AiSD/Lista4/plots
+   A /AiSD/Lista4/plots/348361647_203381959276182_108420213491817817_n.png
+   A /AiSD/Lista4/plots/348365094_645485913747686_6855632548552141091_n.png
+   A /AiSD/Lista4/plots/348365375_562707572716435_7604932337805734037_n.png
+   A /AiSD/Lista4/plots/348373449_1638460693339509_4353523558145092387_n.png
+   A /AiSD/Lista4/plots/348385913_116299924815768_5816054004476085102_n.png
+   A /AiSD/Lista4/plots/348388560_946550763136674_6939534681149045386_n.png
+   A /AiSD/Lista4/src
+   A /AiSD/Lista4/src/lib.rs
+   A /AiSD/Lista4/src/main.rs
+
+l4
+------------------------------------------------------------------------
+r5 | 268451 | 2023-05-09 09:30:39 +0200 (Tue, 09 May 2023) | 1 line
+Changed paths:
+   M /AiSD/Lista3/plots/344000431_1054697688825156_2188631539953523483_n.png
+   M /AiSD/Lista3/plots/344068498_205407688949560_1386395070074970952_n.png
+   M /AiSD/Lista3/plots/344116588_577750287517037_5547574509565218915_n.png
+   M /AiSD/Lista3/plots/344145758_2512017225616418_1286256232551315721_n.png
+   M /AiSD/Lista3/plots/344202880_975113583685186_4165642192021315929_n.png
+   M /AiSD/Lista3/plots/344288494_597768375636798_9215944025685171914_n.png
+   M /AiSD/Lista3/plots/344289293_929917201582088_5122778720998017733_n.png
+   M /AiSD/Lista3/plots/344293115_1187675521907676_1366776899568677331_n.png
+   M /AiSD/Lista3/plots/344293412_268030852311862_2846470232500518280_n.png
+   M /AiSD/Lista3/plots/344295445_624138192894658_3278853279482047875_n.png
+   M /AiSD/Lista3/plots/344309152_764925508374420_153172709603005909_n.png
+   M /AiSD/Lista3/plots/344383180_533397892112864_8247343934926995077_n.png
+   M /AiSD/Lista3/plots/344401827_1298743844404496_2187539043413982439_n.png
+   M /AiSD/Lista3/plots/344556106_999241807912343_7825313919674798321_n.png
+   M /AiSD/Lista3/src/bin/bin_search.rs
+   M /AiSD/Lista3/src/bin/collect_data.rs
+   M /AiSD/Lista3/src/bin/gen_random.rs
+   M /AiSD/Lista3/src/bin/gen_reversed.rs
+   M /AiSD/Lista3/src/bin/gen_sorted.rs
+   M /AiSD/Lista3/src/bin/rand_select.rs
+   M /AiSD/Lista3/src/bin/select.rs
+   M /AiSD/Lista3/src/lib.rs
+
+lista3 revised
+------------------------------------------------------------------------
+r4 | 268451 | 2023-05-09 09:23:34 +0200 (Tue, 09 May 2023) | 1 line
+Changed paths:
+   A /AiSD/Lista3
+   A /AiSD/Lista3/gen_plots.py
+   A /AiSD/Lista3/l3
+   A /AiSD/Lista3/plots
+   A /AiSD/Lista3/plots/344000431_1054697688825156_2188631539953523483_n.png
+   A /AiSD/Lista3/plots/344068498_205407688949560_1386395070074970952_n.png
+   A /AiSD/Lista3/plots/344116588_577750287517037_5547574509565218915_n.png
+   A /AiSD/Lista3/plots/344145758_2512017225616418_1286256232551315721_n.png
+   A /AiSD/Lista3/plots/344202880_975113583685186_4165642192021315929_n.png
+   A /AiSD/Lista3/plots/344288494_597768375636798_9215944025685171914_n.png
+   A /AiSD/Lista3/plots/344289293_929917201582088_5122778720998017733_n.png
+   A /AiSD/Lista3/plots/344293115_1187675521907676_1366776899568677331_n.png
+   A /AiSD/Lista3/plots/344293412_268030852311862_2846470232500518280_n.png
+   A /AiSD/Lista3/plots/344295445_624138192894658_3278853279482047875_n.png
+   A /AiSD/Lista3/plots/344309152_764925508374420_153172709603005909_n.png
+   A /AiSD/Lista3/plots/344383180_533397892112864_8247343934926995077_n.png
+   A /AiSD/Lista3/plots/344401827_1298743844404496_2187539043413982439_n.png
+   A /AiSD/Lista3/plots/344556106_999241807912343_7825313919674798321_n.png
+   A /AiSD/Lista3/src
+   A /AiSD/Lista3/src/bin
+   A /AiSD/Lista3/src/bin/bin_search.rs
+   A /AiSD/Lista3/src/bin/collect_data.rs
+   A /AiSD/Lista3/src/bin/gen_random.rs
+   A /AiSD/Lista3/src/bin/gen_reversed.rs
+   A /AiSD/Lista3/src/bin/gen_sorted.rs
+   A /AiSD/Lista3/src/bin/rand_select.rs
+   A /AiSD/Lista3/src/bin/select.rs
+   A /AiSD/Lista3/src/lib.rs
+
+lista3
+------------------------------------------------------------------------
+r3 | 268451 | 2023-04-25 09:37:38 +0200 (Tue, 25 Apr 2023) | 1 line
+Changed paths:
+   M /AiSD/Lista2/src/lib.rs
+
+
+------------------------------------------------------------------------
+r2 | 268451 | 2023-04-02 14:43:17 +0200 (Sun, 02 Apr 2023) | 1 line
+Changed paths:
+   A /AiSD/Lista2
+   A /AiSD/Lista2/Cargo.toml
+   A /AiSD/Lista2/gen_plots.py
+   A /AiSD/Lista2/l2
+   A /AiSD/Lista2/plots
+   A /AiSD/Lista2/plots/cmps.png
+   A /AiSD/Lista2/plots/cn.png
+   A /AiSD/Lista2/plots/sn.png
+   A /AiSD/Lista2/plots/swaps.png
+   A /AiSD/Lista2/src
+   A /AiSD/Lista2/src/bin
+   A /AiSD/Lista2/src/bin/collect_data.rs
+   A /AiSD/Lista2/src/bin/dp_quik_sort.rs
+   A /AiSD/Lista2/src/bin/dp_quikins_sort.rs
+   A /AiSD/Lista2/src/bin/gen_random.rs
+   A /AiSD/Lista2/src/bin/gen_reversed.rs
+   A /AiSD/Lista2/src/bin/gen_sorted.rs
+   A /AiSD/Lista2/src/bin/ins_sort.rs
+   A /AiSD/Lista2/src/bin/mrg_sort.rs
+   A /AiSD/Lista2/src/bin/quik_sort.rs
+   A /AiSD/Lista2/src/lib.rs
+
+lista 1
+------------------------------------------------------------------------
+r1 | 268451 | 2023-03-13 20:52:37 +0100 (Mon, 13 Mar 2023) | 1 line
+Changed paths:
+   A /AiSD
+   A /AiSD/Lista1
+   A /AiSD/Lista1/1.c
+   A /AiSD/Lista1/2.cpp
+   A /AiSD/Lista1/3.cpp
+   A /AiSD/Lista1/l1
+
+lista 1
+------------------------------------------------------------------------
+spiryd@SpirydRoot:/mnt/c/Users/neuma/Desktop/tmp$ svn diff -r15:16
+Authentication realm: <https://repo.cs.pwr.edu.pl:443> Subversion Repository
+Password for '268451': 
+
+Index: a/a.txt
+===================================================================
+--- a/a.txt     (nonexistent)
++++ a/a.txt     (revision 16)
+@@ -0,0 +1 @@
++Content of a.txt
+
+Property changes on: a/a.txt
+___________________________________________________________________
+Added: svn:executable
+## -0,0 +1 ##
++*
+\ No newline at end of property
+Index: b/b.txt
+===================================================================
+--- b/b.txt     (nonexistent)
++++ b/b.txt     (revision 16)
+@@ -0,0 +1 @@
++Content of b.txt
+
+Property changes on: b/b.txt
+___________________________________________________________________
+Added: svn:executable
+## -0,0 +1 ##
++*
+\ No newline at end of property
+spiryd@SpirydRoot:/mnt/c/Users/neuma/Desktop/tmp$ svn diff -r16:17
+Authentication realm: <https://repo.cs.pwr.edu.pl:443> Subversion Repository
+Password for '268451': 
+
+Index: a/a.txt
+===================================================================
+--- a/a.txt     (revision 16)
++++ a/a.txt     (nonexistent)
+@@ -1 +0,0 @@
+-Content of a.txt
+
+Property changes on: a/a.txt
+___________________________________________________________________
+Deleted: svn:executable
+## -1 +0,0 ##
+-*
+\ No newline at end of property
+Index: a/b.txt
+===================================================================
+--- a/b.txt     (nonexistent)
++++ a/b.txt     (revision 17)
+@@ -0,0 +1,2 @@
++Content of b.txt
++New line in a/b.txt
+
+Property changes on: a/b.txt
+___________________________________________________________________
+Added: svn:executable
+## -0,0 +1 ##
++*
+\ No newline at end of property
+Index: b/b.txt
+===================================================================
+--- b/b.txt     (revision 16)
++++ b/b.txt     (nonexistent)
+@@ -1 +0,0 @@
+-Content of b.txt
+
+Property changes on: b/b.txt
+___________________________________________________________________
+Deleted: svn:executable
+## -1 +0,0 ##
+-*
+\ No newline at end of property
+Index: b/a.txt
+===================================================================
+--- b/a.txt     (nonexistent)
++++ b/a.txt     (revision 17)
+@@ -0,0 +1,2 @@
++Content of a.txt
++New line in b/a.txt
+
+Property changes on: b/a.txt
+___________________________________________________________________
+Added: svn:executable
+## -0,0 +1 ##
++*
+\ No newline at end of property
+spiryd@SpirydRoot:/mnt/c/Users/neuma/Desktop/tmp$ svn diff -r17:18
+Authentication realm: <https://repo.cs.pwr.edu.pl:443> Subversion Repository
+Password for '268451': 
+
+Index: b/a.txt
+===================================================================
+--- b/a.txt     (revision 17)
++++ b/a.txt     (nonexistent)
+@@ -1,2 +0,0 @@
+-Content of a.txt
+-New line in b/a.txt
+
+Property changes on: b/a.txt
+___________________________________________________________________
+Deleted: svn:executable
+## -1 +0,0 ##
+-*
+\ No newline at end of property
+Index: b/c.txt
+===================================================================
+--- b/c.txt     (nonexistent)
++++ b/c.txt     (revision 18)
+@@ -0,0 +1,3 @@
++Content of a.txt
++New line in b/a.txt
++Additional line in b/c.txt
+
+Property changes on: b/c.txt
+___________________________________________________________________
+Added: svn:executable
+## -0,0 +1 ##
++*
+\ No newline at end of property
+spiryd@SpirydRoot:/mnt/c/Users/neuma/Desktop/tmp$ svn diff -r18:19
+Authentication realm: <https://repo.cs.pwr.edu.pl:443> Subversion Repository
+Password for '268451': 
+
+Index: a/b.txt
+===================================================================
+--- a/b.txt     (revision 18)
++++ a/b.txt     (nonexistent)
+@@ -1,2 +0,0 @@
+-Content of b.txt
+-New line in a/b.txt
+
+Property changes on: a/b.txt
+___________________________________________________________________
+Deleted: svn:executable
+## -1 +0,0 ##
+-*
+\ No newline at end of property
+Index: a/a.txt
+===================================================================
+--- a/a.txt     (nonexistent)
++++ a/a.txt     (revision 19)
+@@ -0,0 +1,3 @@
++Content of b.txt
++New line in a/b.txt
++Additional line in a/a.txt
+
+Property changes on: a/a.txt
+___________________________________________________________________
+Added: svn:executable
+## -0,0 +1 ##
++*
+\ No newline at end of property
+spiryd@SpirydRoot:/mnt/c/Users/neuma/Desktop/tmp$ svn diff -r19:20
+Authentication realm: <https://repo.cs.pwr.edu.pl:443> Subversion Repository
+Password for '268451': 
+
+Index: b/b.txt
+===================================================================
+--- b/b.txt     (nonexistent)
++++ b/b.txt     (revision 20)
+@@ -0,0 +1 @@
++New file b.txt in b directory
+
+Property changes on: b/b.txt
+___________________________________________________________________
+Added: svn:executable
+## -0,0 +1 ##
++*
+\ No newline at end of property
+
+spiryd@SpirydRoot:/mnt/c/Users/neuma/Desktop/tmp$ svn cat a/a.txt@16
+Authentication realm: <https://repo.cs.pwr.edu.pl:443> Subversion Repository
+Password for '268451': 
+
+Content of a.txt
+spiryd@SpirydRoot:/mnt/c/Users/neuma/Desktop/tmp$ svn cat a/b.txt@17
+Authentication realm: <https://repo.cs.pwr.edu.pl:443> Subversion Repository
+Password for '268451': 
+
+Content of b.txt
+New line in a/b.txt
+spiryd@SpirydRoot:/mnt/c/Users/neuma/Desktop/tmp$ svn cat b/c.txt@18
+Authentication realm: <https://repo.cs.pwr.edu.pl:443> Subversion Repository
+Password for '268451': 
+
+Content of a.txt
+New line in b/a.txt
+Additional line in b/c.txt
+spiryd@SpirydRoot:/mnt/c/Users/neuma/Desktop/tmp$ svn cat b/b.txt@20
+Authentication realm: <https://repo.cs.pwr.edu.pl:443> Subversion Repository
+Password for '268451': 
+
+New file b.txt in b directory
+spiryd@SpirydRoot:/mnt/c/Users/neuma/Desktop/tmp$ svn cat a/a.txt -r 16
+Authentication realm: <https://repo.cs.pwr.edu.pl:443> Subversion Repository
+Password for '268451': 
+
+Content of b.txt
+spiryd@SpirydRoot:/mnt/c/Users/neuma/Desktop/tmp$ svn cat a/a.txt -r 17
+Authentication realm: <https://repo.cs.pwr.edu.pl:443> Subversion Repository
+Password for '268451': 
+
+Content of b.txt
+New line in a/b.txt
+spiryd@SpirydRoot:/mnt/c/Users/neuma/Desktop/tmp$ svn cat a/a.txt@17
+Authentication realm: <https://repo.cs.pwr.edu.pl:443> Subversion Repository
+Password for '268451': 
+
+svn: warning: W160013: '/268451-dir/mk1/!svn/rvr/17/a/a.txt' path not found
+svn: E200009: Could not cat all targets because some targets don't exist
+svn: E200009: Illegal target for the requested operation
+# Peg-revision: Pokazuje konkretną rewizję pliku lub ścieżki w momencie, gdy tam istniał, bez uwzględnienia historii przenosin.
+# Operative revision: Śledzi historię przenosin pliku i odnajduje go w jego aktualnej lokalizacji, bazując na rewizji.

@@ -1,0 +1,1155 @@
+# Maksymilian Neumann 268451
+# setup
+spiryd@SpirydRoot:/mnt/c/Users/neuma/Desktop$ rm -rf tmp/
+spiryd@SpirydRoot:/mnt/c/Users/neuma/Desktop$ mkdir tmp
+spiryd@SpirydRoot:/mnt/c/Users/neuma/Desktop$ cd tmp
+spiryd@SpirydRoot:/mnt/c/Users/neuma/Desktop/tmp$ mkdir tmp0
+spiryd@SpirydRoot:/mnt/c/Users/neuma/Desktop/tmp$ svn checkout https://repo.cs.pwr.edu.pl/268451-dir/mk1 ./tmp0
+Authentication realm: <https://repo.cs.pwr.edu.pl:443> Subversion Repository
+Password for '268451': 
+
+A    tmp0/AiSD
+A    tmp0/AiSD/Lista1
+A    tmp0/AiSD/Lista2
+A    tmp0/AiSD/Lista2/plots
+A    tmp0/AiSD/Lista2/src
+A    tmp0/AiSD/Lista2/src/bin
+A    tmp0/AiSD/Lista3
+A    tmp0/AiSD/Lista3/plots
+A    tmp0/AiSD/Lista3/src
+A    tmp0/AiSD/Lista3/src/bin
+A    tmp0/AiSD/Lista1/1.c
+A    tmp0/AiSD/Lista1/2.cpp
+A    tmp0/AiSD/Lista1/3.cpp
+A    tmp0/AiSD/Lista4
+A    tmp0/AiSD/Lista1/l1
+A    tmp0/AiSD/Lista2/Cargo.toml
+A    tmp0/AiSD/Lista2/gen_plots.py
+A    tmp0/AiSD/Lista2/l2
+A    tmp0/AiSD/Lista4/plots
+A    tmp0/AiSD/Lista3/plots/344383180_533397892112864_8247343934926995077_n.png
+A    tmp0/AiSD/Lista3/src/bin/bin_search.rs
+A    tmp0/AiSD/Lista3/src/bin/gen_reversed.rs
+A    tmp0/AiSD/Lista3/src/lib.rs
+A    tmp0/AiSD/Lista3/src/bin/gen_sorted.rs
+A    tmp0/AiSD/Lista4/gen_plots.py
+A    tmp0/AiSD/Lista4/src
+A    tmp0/AiSD/Lista5
+A    tmp0/AiSD/Lista2/plots/cmps.png
+A    tmp0/AiSD/Lista2/plots/cn.png
+A    tmp0/AiSD/Lista2/plots/sn.png
+A    tmp0/AiSD/Lista4/plots/348365094_645485913747686_6855632548552141091_n.png
+A    tmp0/AiSD/Lista4/plots/348388560_946550763136674_6939534681149045386_n.png
+A    tmp0/AiSD/Lista3/plots/344116588_577750287517037_5547574509565218915_n.png
+A    tmp0/AiSD/Lista4/plots/348365375_562707572716435_7604932337805734037_n.png
+A    tmp0/AiSD/Lista4/src/lib.rs
+A    tmp0/AiSD/Lista5/plots
+A    tmp0/AiSD/Lista3/plots/344202880_975113583685186_4165642192021315929_n.png
+A    tmp0/AiSD/Lista2/plots/swaps.png
+A    tmp0/AiSD/Lista2/src/bin/collect_data.rs
+A    tmp0/AiSD/Lista2/src/bin/dp_quik_sort.rs
+A    tmp0/AiSD/Lista2/src/bin/dp_quikins_sort.rs
+A    tmp0/AiSD/Lista2/src/bin/gen_random.rs
+A    tmp0/AiSD/Lista2/src/bin/gen_reversed.rs
+A    tmp0/AiSD/Lista2/src/bin/gen_sorted.rs
+A    tmp0/AiSD/Lista2/src/bin/ins_sort.rs
+A    tmp0/AiSD/Lista2/src/bin/mrg_sort.rs
+A    tmp0/AiSD/Lista2/src/bin/quik_sort.rs
+A    tmp0/AiSD/Lista2/src/lib.rs
+A    tmp0/AiSD/Lista3/gen_plots.py
+A    tmp0/AiSD/Lista3/l3
+A    tmp0/AiSD/Lista5/src
+A    tmp0/AiSD/Lista5/l5.cast
+A    tmp0/AiSD/Lista3/plots/344289293_929917201582088_5122778720998017733_n.png
+A    tmp0/AiSD/Lista3/plots/344000431_1054697688825156_2188631539953523483_n.png
+A    tmp0/AiSD/Lista3/plots/344068498_205407688949560_1386395070074970952_n.png
+A    tmp0/AiSD/Lista3/plots/344293412_268030852311862_2846470232500518280_n.png
+A    tmp0/AiSD/Lista3/plots/344145758_2512017225616418_1286256232551315721_n.png
+A    tmp0/ŚP
+A    tmp0/ŚP/Lista1
+A    tmp0/AiSD/Lista3/plots/344309152_764925508374420_153172709603005909_n.png
+A    tmp0/AiSD/Lista3/plots/344288494_597768375636798_9215944025685171914_n.png
+A    tmp0/AiSD/Lista3/plots/344556106_999241807912343_7825313919674798321_n.png
+A    tmp0/AiSD/Lista3/src/bin/gen_random.rs
+A    tmp0/AiSD/Lista3/src/bin/select.rs
+A    tmp0/AiSD/Lista4/plots/348361647_203381959276182_108420213491817817_n.png
+A    tmp0/AiSD/Lista3/plots/344293115_1187675521907676_1366776899568677331_n.png
+A    tmp0/AiSD/Lista4/plots/348385913_116299924815768_5816054004476085102_n.png
+A    tmp0/AiSD/Lista5/heaps.py
+A    tmp0/AiSD/Lista3/plots/344295445_624138192894658_3278853279482047875_n.png
+A    tmp0/AiSD/Lista3/plots/344401827_1298743844404496_2187539043413982439_n.png
+A    tmp0/AiSD/Lista3/src/bin/collect_data.rs
+A    tmp0/AiSD/Lista3/src/bin/rand_select.rs
+A    tmp0/AiSD/Lista4/l4.cast
+A    tmp0/AiSD/Lista4/plots/348373449_1638460693339509_4353523558145092387_n.png
+A    tmp0/AiSD/Lista4/src/main.rs
+A    tmp0/AiSD/Lista5/plots/1000Bin3.png
+A    tmp0/AiSD/Lista5/plots/1000Bin0.png
+A    tmp0/AiSD/Lista5/plots/1000Bin2.png
+A    tmp0/AiSD/Lista5/plots/1000Bin1.png
+A    tmp0/AiSD/Lista5/plots/1000Fib2.png
+A    tmp0/AiSD/Lista5/plots/1000Bin4.png
+A    tmp0/AiSD/Lista5/plots/1000Fib1.png
+A    tmp0/AiSD/Lista5/plots/1000Fib0.png
+A    tmp0/AiSD/Lista5/plots/1000Fib3.png
+A    tmp0/AiSD/Lista5/plots/500Bin1.png
+A    tmp0/AiSD/Lista5/plots/500Bin0.png
+A    tmp0/AiSD/Lista5/plots/1000Fib4.png
+A    tmp0/AiSD/Lista5/plots/500Bin2.png
+A    tmp0/AiSD/Lista5/plots/500Fib0.png
+A    tmp0/AiSD/Lista5/plots/500Bin4.png
+A    tmp0/AiSD/Lista5/plots/500Bin3.png
+A    tmp0/AiSD/Lista5/plots/500Fib1.png
+A    tmp0/AiSD/Lista5/plots/500Fib4.png
+A    tmp0/AiSD/Lista5/src/main.rs
+A    tmp0/ŚP/Lista1/4.sh
+A    tmp0/AiSD/Lista5/plots/500Fib3.png
+A    tmp0/AiSD/Lista5/src/lib.rs
+A    tmp0/ŚP/Lista1/3.sh
+A    tmp0/ŚP/Lista1/l1_demo.cast
+A    tmp0/AiSD/Lista5/plots/500Fib2.png
+A    tmp0/AiSD/Lista5/plots/HeapCmps.png
+A    tmp0/ŚP/Lista1/1.sh
+A    tmp0/ŚP/Lista1/5.sh
+A    tmp0/AiSD/Lista5/plots/lcs.png
+A    tmp0/ŚP/Lista1/2.sh
+A    tmp0/ŚP/Lista1/6.sh
+Checked out revision 23.
+spiryd@SpirydRoot:/mnt/c/Users/neuma/Desktop/tmp$ cd tmp0/
+# ustawienie
+spiryd@SpirydRoot:/mnt/c/Users/neuma/Desktop/tmp/tmp0$ svn mkdir externals
+A         externals
+spiryd@SpirydRoot:/mnt/c/Users/neuma/Desktop/tmp/tmp0$ svn commit -m "Utworzenie podkatalogu externals"
+Authentication realm: <https://repo.cs.pwr.edu.pl:443> Subversion Repository
+Password for '268451': 
+
+Adding         externals
+Committing transaction...
+Committed revision 24.
+spiryd@SpirydRoot:/mnt/c/Users/neuma/Desktop/tmp/tmp0$ svn propset svn:externals "external_repo https://repo.cs.pwr.edu.pl/info/" externals
+property 'svn:externals' set on 'externals'
+spiryd@SpirydRoot:/mnt/c/Users/neuma/Desktop/tmp/tmp0$ svn commit -m "Ustawienie właściwości svn:externals na podkatalogu externals"
+Authentication realm: <https://repo.cs.pwr.edu.pl:443> Subversion Repository
+Password for '268451': 
+
+Sending        externals
+Committing transaction...
+Committed revision 25.
+# sprawdzenie co bez  
+Authentication realm: <https://repo.cs.pwr.edu.pl:443> Subversion Repository
+Password for '268451': 
+
+A    tmp1/AiSD
+A    tmp1/AiSD/Lista1
+A    tmp1/AiSD/Lista2
+A    tmp1/AiSD/Lista2/plots
+A    tmp1/AiSD/Lista2/src
+A    tmp1/AiSD/Lista2/src/bin
+A    tmp1/AiSD/Lista3
+A    tmp1/AiSD/Lista3/plots
+A    tmp1/AiSD/Lista3/src
+A    tmp1/AiSD/Lista3/src/bin
+A    tmp1/AiSD/Lista1/1.c
+A    tmp1/AiSD/Lista1/2.cpp
+A    tmp1/AiSD/Lista1/3.cpp
+A    tmp1/AiSD/Lista4
+A    tmp1/AiSD/Lista1/l1
+A    tmp1/AiSD/Lista2/Cargo.toml
+A    tmp1/AiSD/Lista2/gen_plots.py
+A    tmp1/AiSD/Lista2/l2
+A    tmp1/AiSD/Lista4/plots
+A    tmp1/AiSD/Lista3/plots/344383180_533397892112864_8247343934926995077_n.png
+A    tmp1/AiSD/Lista3/src/bin/bin_search.rs
+A    tmp1/AiSD/Lista3/src/bin/gen_reversed.rs
+A    tmp1/AiSD/Lista3/src/lib.rs
+A    tmp1/AiSD/Lista3/src/bin/gen_sorted.rs
+A    tmp1/AiSD/Lista4/gen_plots.py
+A    tmp1/AiSD/Lista4/src
+A    tmp1/AiSD/Lista5
+A    tmp1/AiSD/Lista2/plots/cmps.png
+A    tmp1/AiSD/Lista2/plots/cn.png
+A    tmp1/AiSD/Lista2/plots/sn.png
+A    tmp1/AiSD/Lista4/plots/348365094_645485913747686_6855632548552141091_n.png
+A    tmp1/AiSD/Lista4/plots/348388560_946550763136674_6939534681149045386_n.png
+A    tmp1/AiSD/Lista3/plots/344116588_577750287517037_5547574509565218915_n.png
+A    tmp1/AiSD/Lista4/plots/348365375_562707572716435_7604932337805734037_n.png
+A    tmp1/AiSD/Lista4/src/lib.rs
+A    tmp1/AiSD/Lista5/plots
+A    tmp1/AiSD/Lista3/plots/344202880_975113583685186_4165642192021315929_n.png
+A    tmp1/AiSD/Lista2/plots/swaps.png
+A    tmp1/AiSD/Lista2/src/bin/collect_data.rs
+A    tmp1/AiSD/Lista2/src/bin/dp_quik_sort.rs
+A    tmp1/AiSD/Lista2/src/bin/dp_quikins_sort.rs
+A    tmp1/AiSD/Lista2/src/bin/gen_random.rs
+A    tmp1/AiSD/Lista2/src/bin/gen_reversed.rs
+A    tmp1/AiSD/Lista2/src/bin/gen_sorted.rs
+A    tmp1/AiSD/Lista2/src/bin/ins_sort.rs
+A    tmp1/AiSD/Lista2/src/bin/mrg_sort.rs
+A    tmp1/AiSD/Lista2/src/bin/quik_sort.rs
+A    tmp1/AiSD/Lista2/src/lib.rs
+A    tmp1/AiSD/Lista3/gen_plots.py
+A    tmp1/AiSD/Lista3/l3
+A    tmp1/AiSD/Lista5/src
+A    tmp1/AiSD/Lista5/l5.cast
+A    tmp1/AiSD/Lista3/plots/344289293_929917201582088_5122778720998017733_n.png
+A    tmp1/AiSD/Lista3/plots/344000431_1054697688825156_2188631539953523483_n.png
+A    tmp1/AiSD/Lista3/plots/344068498_205407688949560_1386395070074970952_n.png
+A    tmp1/AiSD/Lista3/plots/344293412_268030852311862_2846470232500518280_n.png
+A    tmp1/AiSD/Lista3/plots/344145758_2512017225616418_1286256232551315721_n.png
+A    tmp1/externals
+A    tmp1/ŚP
+A    tmp1/ŚP/Lista1
+A    tmp1/AiSD/Lista3/plots/344309152_764925508374420_153172709603005909_n.png
+A    tmp1/AiSD/Lista3/plots/344288494_597768375636798_9215944025685171914_n.png
+A    tmp1/AiSD/Lista3/plots/344556106_999241807912343_7825313919674798321_n.png
+A    tmp1/AiSD/Lista3/src/bin/gen_random.rs
+A    tmp1/AiSD/Lista3/src/bin/select.rs
+A    tmp1/AiSD/Lista4/plots/348361647_203381959276182_108420213491817817_n.png
+A    tmp1/AiSD/Lista3/plots/344293115_1187675521907676_1366776899568677331_n.png
+A    tmp1/AiSD/Lista4/plots/348385913_116299924815768_5816054004476085102_n.png
+A    tmp1/AiSD/Lista5/heaps.py
+A    tmp1/AiSD/Lista3/plots/344295445_624138192894658_3278853279482047875_n.png
+A    tmp1/AiSD/Lista3/plots/344401827_1298743844404496_2187539043413982439_n.png
+A    tmp1/AiSD/Lista3/src/bin/collect_data.rs
+A    tmp1/AiSD/Lista3/src/bin/rand_select.rs
+A    tmp1/AiSD/Lista4/l4.cast
+A    tmp1/AiSD/Lista4/plots/348373449_1638460693339509_4353523558145092387_n.png
+A    tmp1/AiSD/Lista4/src/main.rs
+A    tmp1/AiSD/Lista5/plots/1000Bin3.png
+A    tmp1/AiSD/Lista5/plots/1000Bin0.png
+A    tmp1/AiSD/Lista5/plots/1000Bin2.png
+A    tmp1/AiSD/Lista5/plots/1000Bin1.png
+A    tmp1/AiSD/Lista5/plots/1000Fib2.png
+A    tmp1/AiSD/Lista5/plots/1000Bin4.png
+A    tmp1/AiSD/Lista5/plots/1000Fib1.png
+A    tmp1/AiSD/Lista5/plots/1000Fib0.png
+A    tmp1/AiSD/Lista5/plots/1000Fib3.png
+A    tmp1/AiSD/Lista5/plots/500Bin1.png
+A    tmp1/AiSD/Lista5/plots/500Bin0.png
+A    tmp1/AiSD/Lista5/plots/1000Fib4.png
+A    tmp1/AiSD/Lista5/plots/500Fib0.png
+A    tmp1/AiSD/Lista5/plots/500Bin2.png
+A    tmp1/AiSD/Lista5/plots/500Bin4.png
+A    tmp1/AiSD/Lista5/plots/500Bin3.png
+A    tmp1/AiSD/Lista5/plots/500Fib4.png
+A    tmp1/AiSD/Lista5/src/main.rs
+A    tmp1/ŚP/Lista1/4.sh
+A    tmp1/AiSD/Lista5/plots/500Fib1.png
+A    tmp1/AiSD/Lista5/plots/500Fib3.png
+A    tmp1/AiSD/Lista5/src/lib.rs
+A    tmp1/ŚP/Lista1/3.sh
+A    tmp1/ŚP/Lista1/l1_demo.cast
+A    tmp1/AiSD/Lista5/plots/500Fib2.png
+A    tmp1/AiSD/Lista5/plots/HeapCmps.png
+A    tmp1/ŚP/Lista1/1.sh
+A    tmp1/ŚP/Lista1/5.sh
+A    tmp1/AiSD/Lista5/plots/lcs.png
+A    tmp1/ŚP/Lista1/2.sh
+A    tmp1/ŚP/Lista1/6.sh
+
+Fetching external item into 'tmp1/externals/external_repo':
+A    tmp1/externals/external_repo/skrypty
+A    tmp1/externals/external_repo/skrypty/test-dir
+A    tmp1/externals/external_repo/SP
+A    tmp1/externals/external_repo/SP/l3
+A    tmp1/externals/external_repo/SP/l3/a
+A    tmp1/externals/external_repo/SP/l3/a/baa
+A    tmp1/externals/external_repo/SP/l3/a/baa/b
+A    tmp1/externals/external_repo/SP/l3/a/ba
+A    tmp1/externals/external_repo/SP/l3/a/ba/b
+A    tmp1/externals/external_repo/SP/l3/a/a
+A    tmp1/externals/external_repo/SP/l3/a/a/b
+A    tmp1/externals/external_repo/SP/l3/a/aa
+A    tmp1/externals/external_repo/SP/l3/a/aa/b
+A    tmp1/externals/external_repo/SP/l3/a/aaa
+A    tmp1/externals/external_repo/SP/l3/a/aaa/b
+A    tmp1/externals/external_repo/SP/l3/a/aab
+A    tmp1/externals/external_repo/SP/l3/a/aab/b
+A    tmp1/externals/external_repo/SP/l3/a/ab
+A    tmp1/externals/external_repo/SP/l3/a/ab/b
+A    tmp1/externals/external_repo/SP/l3/a/aba
+A    tmp1/externals/external_repo/SP/l3/a/aba/b
+A    tmp1/externals/external_repo/SP/l3/a/abb
+A    tmp1/externals/external_repo/SP/l3/a/abb/b
+A    tmp1/externals/external_repo/SP/l3/a/bab
+A    tmp1/externals/external_repo/SP/l3/a/bab/b
+A    tmp1/externals/external_repo/SP/l3/a/bba
+A    tmp1/externals/external_repo/SP/l3/a/bba/b
+A    tmp1/externals/external_repo/SP/l3/a/bbb
+A    tmp1/externals/external_repo/SP/l3/a/bbb/b
+A    tmp1/externals/external_repo/SP/l1
+A    tmp1/externals/external_repo/SP/l1/a
+A    tmp1/externals/external_repo/SP/l1/a/a
+A    tmp1/externals/external_repo/SP/l1/a/a/b
+A    tmp1/externals/external_repo/SP/l1/a/aa
+A    tmp1/externals/external_repo/SP/l1/a/aa/b
+A    tmp1/externals/external_repo/SP/l1/a/aaa
+A    tmp1/externals/external_repo/SP/l1/a/aaa/b
+A    tmp1/externals/external_repo/SP/l1/a/aab
+A    tmp1/externals/external_repo/SP/l1/a/aab/b
+A    tmp1/externals/external_repo/SP/l1/a/ab
+A    tmp1/externals/external_repo/SP/l1/a/ab/b
+A    tmp1/externals/external_repo/SP/l1/a/aba
+A    tmp1/externals/external_repo/SP/l1/a/aba/b
+A    tmp1/externals/external_repo/SP/l1/a/abb
+A    tmp1/externals/external_repo/SP/l1/a/abb/b
+A    tmp1/externals/external_repo/SP/l1/a/b
+A    tmp1/externals/external_repo/SP/l1/a/b/b
+A    tmp1/externals/external_repo/SP/l1/a/ba
+A    tmp1/externals/external_repo/SP/l1/a/ba/b
+A    tmp1/externals/external_repo/SP/l1/a/baa
+A    tmp1/externals/external_repo/SP/l1/a/baa/b
+A    tmp1/externals/external_repo/SP/l1/a/bab
+A    tmp1/externals/external_repo/SP/l1/a/bab/b
+A    tmp1/externals/external_repo/SP/l1/a/bb
+A    tmp1/externals/external_repo/SP/l1/a/bb/b
+A    tmp1/externals/external_repo/SP/l1/a/bba
+A    tmp1/externals/external_repo/SP/l1/a/bba/b
+A    tmp1/externals/external_repo/SP/l1/a/bbb
+A    tmp1/externals/external_repo/SP/l1/a/bbb/b
+A    tmp1/externals/external_repo/asciinema
+A    tmp1/externals/external_repo/SP/l1/a/b/b/abb
+A    tmp1/externals/external_repo/SP/l1/a/baa/b/abaab
+A    tmp1/externals/external_repo/SP/l1/a/bb/b/abbb
+A    tmp1/externals/external_repo/SP/l1/a/bbb/b/abbbb
+A    tmp1/externals/external_repo/asciinema/5_generowanie_kluczy.cast
+A    tmp1/externals/external_repo/asciinema/2_pierwsze_zadanie.cast
+A    tmp1/externals/external_repo/repozytorium-svn.txt
+A    tmp1/externals/external_repo/skrypty/test-dir/t2
+A    tmp1/externals/external_repo/skrypty/test
+A    tmp1/externals/external_repo/skrypty/view-casts-curl.bash
+A    tmp1/externals/external_repo/skrypty/view-casts.bash
+A    tmp1/externals/external_repo/SP/l3/a/baa/dc
+A    tmp1/externals/external_repo/SP/l3/a/baa/b/abaab
+A    tmp1/externals/external_repo/SP/l3/a/ba/b/abab
+A    tmp1/externals/external_repo/SP/l3/a/a/b/aab
+A    tmp1/externals/external_repo/SP/l3/a/aa/b/aaab
+A    tmp1/externals/external_repo/SP/l3/a/aaa/b/aaaab
+A    tmp1/externals/external_repo/SP/l3/a/aab/b/aaabb
+A    tmp1/externals/external_repo/SP/l3/a/ab/b/aabb
+A    tmp1/externals/external_repo/SP/l3/a/aba/b/aabab
+A    tmp1/externals/external_repo/SP/l3/a/abb/b/aabbb
+A    tmp1/externals/external_repo/SP/l3/a/bab/b/ababb
+A    tmp1/externals/external_repo/SP/l3/a/bba/b/abbab
+A    tmp1/externals/external_repo/SP/l3/a/bbb/b/abbbb
+A    tmp1/externals/external_repo/SP/l1/a/a/b/aab
+A    tmp1/externals/external_repo/SP/l1/a/aa/b/aaab
+A    tmp1/externals/external_repo/SP/l1/a/aaa/b/aaaab
+A    tmp1/externals/external_repo/SP/l1/a/aab/b/aaabb
+A    tmp1/externals/external_repo/SP/l1/a/ab/b/aabb
+A    tmp1/externals/external_repo/SP/l1/a/aba/b/aabab
+A    tmp1/externals/external_repo/SP/l1/a/abb/b/aabbb
+A    tmp1/externals/external_repo/SP/l1/a/b/ab
+A    tmp1/externals/external_repo/SP/l1/a/ba/b/abab
+A    tmp1/externals/external_repo/SP/l1/a/bab/b/ababb
+A    tmp1/externals/external_repo/SP/l1/a/bba/b/abbab
+A    tmp1/externals/external_repo/asciinema/6_sklejanie_prezentacji.cast
+A    tmp1/externals/external_repo/asciinema/3_drugie_zadanie.cast
+A    tmp1/externals/external_repo/index.html
+A    tmp1/externals/external_repo/asciinema/4_meta-sprawozdanie.cast
+A    tmp1/externals/external_repo/asciinema/1_pierwszy_checkout.cast
+Checked out external at revision 25.
+
+Checked out revision 25.
+# co z flagą
+spiryd@SpirydRoot:/mnt/c/Users/neuma/Desktop/tmp$ svn checkout https://repo.cs.pwr.edu.pl/268451-dir/mk1 ./tmp2 --ignore-externals
+Authentication realm: <https://repo.cs.pwr.edu.pl:443> Subversion Repository
+Password for '268451': 
+
+A    tmp2/AiSD
+A    tmp2/AiSD/Lista1
+A    tmp2/AiSD/Lista2
+A    tmp2/AiSD/Lista2/plots
+A    tmp2/AiSD/Lista2/src
+A    tmp2/AiSD/Lista2/src/bin
+A    tmp2/AiSD/Lista3
+A    tmp2/AiSD/Lista3/plots
+A    tmp2/AiSD/Lista3/src
+A    tmp2/AiSD/Lista3/src/bin
+A    tmp2/AiSD/Lista1/1.c
+A    tmp2/AiSD/Lista1/2.cpp
+A    tmp2/AiSD/Lista1/3.cpp
+A    tmp2/AiSD/Lista1/l1
+A    tmp2/AiSD/Lista2/Cargo.toml
+A    tmp2/AiSD/Lista2/gen_plots.py
+A    tmp2/AiSD/Lista2/l2
+A    tmp2/AiSD/Lista4
+A    tmp2/AiSD/Lista4/plots
+A    tmp2/AiSD/Lista2/plots/cmps.png
+A    tmp2/AiSD/Lista3/src/bin/gen_sorted.rs
+A    tmp2/AiSD/Lista4/gen_plots.py
+A    tmp2/AiSD/Lista2/plots/cn.png
+A    tmp2/AiSD/Lista3/plots/344383180_533397892112864_8247343934926995077_n.png
+A    tmp2/AiSD/Lista3/src/bin/bin_search.rs
+A    tmp2/AiSD/Lista3/src/bin/gen_reversed.rs
+A    tmp2/AiSD/Lista3/src/lib.rs
+A    tmp2/AiSD/Lista2/plots/sn.png
+A    tmp2/AiSD/Lista4/plots/348365375_562707572716435_7604932337805734037_n.png
+A    tmp2/AiSD/Lista4/src
+A    tmp2/AiSD/Lista5
+A    tmp2/AiSD/Lista5/plots
+A    tmp2/AiSD/Lista4/plots/348365094_645485913747686_6855632548552141091_n.png
+A    tmp2/AiSD/Lista3/plots/344116588_577750287517037_5547574509565218915_n.png
+A    tmp2/AiSD/Lista2/plots/swaps.png
+A    tmp2/AiSD/Lista2/src/bin/collect_data.rs
+A    tmp2/AiSD/Lista2/src/bin/dp_quik_sort.rs
+A    tmp2/AiSD/Lista2/src/bin/dp_quikins_sort.rs
+A    tmp2/AiSD/Lista2/src/bin/gen_random.rs
+A    tmp2/AiSD/Lista2/src/bin/gen_reversed.rs
+A    tmp2/AiSD/Lista2/src/bin/gen_sorted.rs
+A    tmp2/AiSD/Lista2/src/bin/ins_sort.rs
+A    tmp2/AiSD/Lista2/src/bin/mrg_sort.rs
+A    tmp2/AiSD/Lista2/src/bin/quik_sort.rs
+A    tmp2/AiSD/Lista2/src/lib.rs
+A    tmp2/AiSD/Lista3/gen_plots.py
+A    tmp2/AiSD/Lista3/l3
+A    tmp2/AiSD/Lista3/plots/344000431_1054697688825156_2188631539953523483_n.png
+A    tmp2/AiSD/Lista3/plots/344202880_975113583685186_4165642192021315929_n.png
+A    tmp2/AiSD/Lista3/plots/344068498_205407688949560_1386395070074970952_n.png
+A    tmp2/AiSD/Lista5/src
+A    tmp2/AiSD/Lista4/plots/348388560_946550763136674_6939534681149045386_n.png
+A    tmp2/AiSD/Lista5/l5.cast
+A    tmp2/AiSD/Lista3/plots/344289293_929917201582088_5122778720998017733_n.png
+A    tmp2/AiSD/Lista4/src/lib.rs
+A    tmp2/AiSD/Lista3/plots/344145758_2512017225616418_1286256232551315721_n.png
+A    tmp2/externals
+A    tmp2/ŚP
+A    tmp2/ŚP/Lista1
+A    tmp2/AiSD/Lista3/plots/344293412_268030852311862_2846470232500518280_n.png
+A    tmp2/AiSD/Lista3/plots/344288494_597768375636798_9215944025685171914_n.png
+A    tmp2/AiSD/Lista3/plots/344309152_764925508374420_153172709603005909_n.png
+A    tmp2/AiSD/Lista3/plots/344293115_1187675521907676_1366776899568677331_n.png
+A    tmp2/AiSD/Lista3/plots/344556106_999241807912343_7825313919674798321_n.png
+A    tmp2/AiSD/Lista3/src/bin/gen_random.rs
+A    tmp2/AiSD/Lista3/src/bin/select.rs
+A    tmp2/AiSD/Lista4/plots/348361647_203381959276182_108420213491817817_n.png
+A    tmp2/AiSD/Lista3/plots/344295445_624138192894658_3278853279482047875_n.png
+A    tmp2/AiSD/Lista4/plots/348385913_116299924815768_5816054004476085102_n.png
+A    tmp2/AiSD/Lista5/heaps.py
+A    tmp2/AiSD/Lista3/plots/344401827_1298743844404496_2187539043413982439_n.png
+A    tmp2/AiSD/Lista3/src/bin/collect_data.rs
+A    tmp2/AiSD/Lista3/src/bin/rand_select.rs
+A    tmp2/AiSD/Lista4/l4.cast
+A    tmp2/AiSD/Lista4/plots/348373449_1638460693339509_4353523558145092387_n.png
+A    tmp2/AiSD/Lista4/src/main.rs
+A    tmp2/AiSD/Lista5/plots/1000Bin3.png
+A    tmp2/AiSD/Lista5/plots/1000Bin0.png
+A    tmp2/AiSD/Lista5/plots/1000Bin2.png
+A    tmp2/AiSD/Lista5/plots/1000Bin1.png
+A    tmp2/AiSD/Lista5/plots/1000Bin4.png
+A    tmp2/AiSD/Lista5/plots/1000Fib2.png
+A    tmp2/AiSD/Lista5/plots/1000Fib0.png
+A    tmp2/AiSD/Lista5/plots/500Bin1.png
+A    tmp2/AiSD/Lista5/plots/1000Fib4.png
+A    tmp2/AiSD/Lista5/plots/1000Fib1.png
+A    tmp2/AiSD/Lista5/plots/1000Fib3.png
+A    tmp2/AiSD/Lista5/plots/500Fib0.png
+A    tmp2/AiSD/Lista5/plots/500Bin3.png
+A    tmp2/AiSD/Lista5/plots/500Bin0.png
+A    tmp2/AiSD/Lista5/plots/500Fib4.png
+A    tmp2/AiSD/Lista5/src/main.rs
+A    tmp2/ŚP/Lista1/4.sh
+A    tmp2/AiSD/Lista5/plots/500Bin2.png
+A    tmp2/AiSD/Lista5/plots/500Bin4.png
+A    tmp2/AiSD/Lista5/plots/500Fib2.png
+A    tmp2/AiSD/Lista5/plots/500Fib3.png
+A    tmp2/AiSD/Lista5/src/lib.rs
+A    tmp2/ŚP/Lista1/3.sh
+A    tmp2/ŚP/Lista1/l1_demo.cast
+A    tmp2/AiSD/Lista5/plots/500Fib1.png
+A    tmp2/AiSD/Lista5/plots/lcs.png
+A    tmp2/ŚP/Lista1/2.sh
+A    tmp2/ŚP/Lista1/6.sh
+A    tmp2/AiSD/Lista5/plots/HeapCmps.png
+A    tmp2/ŚP/Lista1/1.sh
+A    tmp2/ŚP/Lista1/5.sh
+Checked out revision 25.
+# svn up z flagą
+spiryd@SpirydRoot:/mnt/c/Users/neuma/Desktop/tmp/tmp2$ svn up --ignore-externals
+Updating '.':
+Authentication realm: <https://repo.cs.pwr.edu.pl:443> Subversion Repository
+Password for '268451': 
+
+At revision 25.
+# bez flagi
+spiryd@SpirydRoot:/mnt/c/Users/neuma/Desktop/tmp/tmp2$ svn up
+Updating '.':
+Authentication realm: <https://repo.cs.pwr.edu.pl:443> Subversion Repository
+Password for '268451': 
+
+
+Fetching external item into 'externals/external_repo':
+A    externals/external_repo/skrypty
+A    externals/external_repo/skrypty/test-dir
+A    externals/external_repo/SP
+A    externals/external_repo/SP/l3
+A    externals/external_repo/SP/l3/a
+A    externals/external_repo/SP/l3/a/baa
+A    externals/external_repo/SP/l3/a/baa/b
+A    externals/external_repo/SP/l3/a/ba
+A    externals/external_repo/SP/l3/a/ba/b
+A    externals/external_repo/SP/l3/a/a
+A    externals/external_repo/SP/l3/a/a/b
+A    externals/external_repo/SP/l3/a/aa
+A    externals/external_repo/SP/l3/a/aa/b
+A    externals/external_repo/SP/l3/a/aaa
+A    externals/external_repo/SP/l3/a/aaa/b
+A    externals/external_repo/SP/l3/a/aab
+A    externals/external_repo/SP/l3/a/aab/b
+A    externals/external_repo/SP/l3/a/ab
+A    externals/external_repo/SP/l3/a/ab/b
+A    externals/external_repo/SP/l3/a/aba
+A    externals/external_repo/SP/l3/a/aba/b
+A    externals/external_repo/SP/l3/a/abb
+A    externals/external_repo/SP/l3/a/abb/b
+A    externals/external_repo/SP/l3/a/bab
+A    externals/external_repo/SP/l3/a/bab/b
+A    externals/external_repo/SP/l3/a/bba
+A    externals/external_repo/SP/l3/a/bba/b
+A    externals/external_repo/SP/l3/a/bbb
+A    externals/external_repo/SP/l3/a/bbb/b
+A    externals/external_repo/SP/l1
+A    externals/external_repo/SP/l1/a
+A    externals/external_repo/SP/l1/a/a
+A    externals/external_repo/SP/l1/a/a/b
+A    externals/external_repo/SP/l1/a/aa
+A    externals/external_repo/SP/l1/a/aa/b
+A    externals/external_repo/SP/l1/a/aaa
+A    externals/external_repo/SP/l1/a/aaa/b
+A    externals/external_repo/SP/l1/a/aab
+A    externals/external_repo/SP/l1/a/aab/b
+A    externals/external_repo/SP/l1/a/ab
+A    externals/external_repo/SP/l1/a/ab/b
+A    externals/external_repo/SP/l1/a/aba
+A    externals/external_repo/SP/l1/a/aba/b
+A    externals/external_repo/SP/l1/a/abb
+A    externals/external_repo/SP/l1/a/abb/b
+A    externals/external_repo/SP/l1/a/b
+A    externals/external_repo/SP/l1/a/b/b
+A    externals/external_repo/SP/l1/a/ba
+A    externals/external_repo/SP/l1/a/ba/b
+A    externals/external_repo/SP/l1/a/baa
+A    externals/external_repo/SP/l1/a/baa/b
+A    externals/external_repo/SP/l1/a/bab
+A    externals/external_repo/SP/l1/a/bab/b
+A    externals/external_repo/SP/l1/a/bb
+A    externals/external_repo/SP/l1/a/bb/b
+A    externals/external_repo/SP/l1/a/bba
+A    externals/external_repo/SP/l1/a/bba/b
+A    externals/external_repo/SP/l1/a/bbb
+A    externals/external_repo/SP/l1/a/bbb/b
+A    externals/external_repo/asciinema
+A    externals/external_repo/SP/l1/a/b/b/abb
+A    externals/external_repo/SP/l1/a/baa/b/abaab
+A    externals/external_repo/SP/l1/a/bb/b/abbb
+A    externals/external_repo/SP/l1/a/bbb/b/abbbb
+A    externals/external_repo/asciinema/5_generowanie_kluczy.cast
+A    externals/external_repo/asciinema/2_pierwsze_zadanie.cast
+A    externals/external_repo/repozytorium-svn.txt
+A    externals/external_repo/skrypty/test-dir/t2
+A    externals/external_repo/skrypty/test
+A    externals/external_repo/skrypty/view-casts-curl.bash
+A    externals/external_repo/skrypty/view-casts.bash
+A    externals/external_repo/SP/l3/a/baa/dc
+A    externals/external_repo/SP/l3/a/baa/b/abaab
+A    externals/external_repo/SP/l3/a/ba/b/abab
+A    externals/external_repo/SP/l3/a/a/b/aab
+A    externals/external_repo/SP/l3/a/aa/b/aaab
+A    externals/external_repo/SP/l3/a/aaa/b/aaaab
+A    externals/external_repo/SP/l3/a/aab/b/aaabb
+A    externals/external_repo/SP/l3/a/ab/b/aabb
+A    externals/external_repo/SP/l3/a/aba/b/aabab
+A    externals/external_repo/SP/l3/a/abb/b/aabbb
+A    externals/external_repo/SP/l3/a/bab/b/ababb
+A    externals/external_repo/SP/l3/a/bba/b/abbab
+A    externals/external_repo/SP/l3/a/bbb/b/abbbb
+A    externals/external_repo/SP/l1/a/a/b/aab
+A    externals/external_repo/SP/l1/a/aa/b/aaab
+A    externals/external_repo/SP/l1/a/aaa/b/aaaab
+A    externals/external_repo/SP/l1/a/aab/b/aaabb
+A    externals/external_repo/SP/l1/a/ab/b/aabb
+A    externals/external_repo/SP/l1/a/aba/b/aabab
+A    externals/external_repo/SP/l1/a/abb/b/aabbb
+A    externals/external_repo/SP/l1/a/b/ab
+A    externals/external_repo/SP/l1/a/ba/b/abab
+A    externals/external_repo/SP/l1/a/bab/b/ababb
+A    externals/external_repo/SP/l1/a/bba/b/abbab
+A    externals/external_repo/asciinema/6_sklejanie_prezentacji.cast
+A    externals/external_repo/asciinema/3_drugie_zadanie.cast
+A    externals/external_repo/index.html
+A    externals/external_repo/asciinema/4_meta-sprawozdanie.cast
+A    externals/external_repo/asciinema/1_pierwszy_checkout.cast
+Updated external to revision 25.
+
+At revision 25.
+spiryd@SpirydRoot:/mnt/c/Users/neuma/Desktop/tmp/tmp2$ svn log -v
+Authentication realm: <https://repo.cs.pwr.edu.pl:443> Subversion Repository
+Password for '268451': 
+
+------------------------------------------------------------------------
+r25 | 268451 | 2024-11-05 21:02:28 +0100 (Tue, 05 Nov 2024) | 1 line
+Changed paths:
+   M /externals
+
+Ustawienie właściwości svn:externals na podkatalogu externals
+------------------------------------------------------------------------
+r24 | 268451 | 2024-11-05 21:01:25 +0100 (Tue, 05 Nov 2024) | 1 line
+Changed paths:
+   A /externals
+
+Utworzenie podkatalogu externals
+------------------------------------------------------------------------
+r23 | 268451 | 2024-11-05 20:34:17 +0100 (Tue, 05 Nov 2024) | 1 line
+Changed paths:
+   D /testfile.txt
+
+clean
+------------------------------------------------------------------------
+r22 | 268451 | 2024-11-05 19:56:32 +0100 (Tue, 05 Nov 2024) | 1 line
+Changed paths:
+   A /testfile.txt
+
+Add testfile.txt for lock testing
+------------------------------------------------------------------------
+r21 | 268451 | 2024-11-05 19:51:10 +0100 (Tue, 05 Nov 2024) | 1 line
+Changed paths:
+   D /a
+   D /b
+
+cleaning
+------------------------------------------------------------------------
+r20 | 268451 | 2024-11-05 19:17:09 +0100 (Tue, 05 Nov 2024) | 1 line
+Changed paths:
+   A /b/b.txt
+
+Step 5: Add new b.txt to directory b
+------------------------------------------------------------------------
+r19 | 268451 | 2024-11-05 19:13:02 +0100 (Tue, 05 Nov 2024) | 1 line
+Changed paths:
+   A /a/a.txt (from /a/b.txt:18)
+   D /a/b.txt
+
+Step 4: Rename b.txt to a.txt and add a line
+------------------------------------------------------------------------
+r18 | 268451 | 2024-11-05 19:12:05 +0100 (Tue, 05 Nov 2024) | 1 line
+Changed paths:
+   D /b/a.txt
+   A /b/c.txt (from /b/a.txt:17)
+
+Step 3: Rename a.txt to c.txt and add a line
+------------------------------------------------------------------------
+r17 | 268451 | 2024-11-05 19:10:52 +0100 (Tue, 05 Nov 2024) | 1 line
+Changed paths:
+   D /a/a.txt
+   A /a/b.txt (from /b/b.txt:16)
+   A /b/a.txt (from /a/a.txt:16)
+   D /b/b.txt
+
+Step 2: Move b.txt to a and a.txt to b, add a line to each file
+------------------------------------------------------------------------
+r16 | 268451 | 2024-11-05 19:09:10 +0100 (Tue, 05 Nov 2024) | 1 line
+Changed paths:
+   A /a
+   A /a/a.txt
+   A /b
+   A /b/b.txt
+
+Step 1: Add directories a and b with files a.txt and b.txt
+------------------------------------------------------------------------
+r15 | 268451 | 2024-11-04 20:43:18 +0100 (Mon, 04 Nov 2024) | 1 line
+Changed paths:
+   D /testfile.txt
+
+
+------------------------------------------------------------------------
+r14 | 268451 | 2024-11-04 20:38:08 +0100 (Mon, 04 Nov 2024) | 1 line
+Changed paths:
+   M /testfile.txt
+
+Resolved conflict in testfile.txt
+------------------------------------------------------------------------
+r13 | 268451 | 2024-11-04 20:31:15 +0100 (Mon, 04 Nov 2024) | 1 line
+Changed paths:
+   M /testfile.txt
+
+Edit from working_copy_1
+------------------------------------------------------------------------
+r12 | 268451 | 2024-11-04 20:28:43 +0100 (Mon, 04 Nov 2024) | 1 line
+Changed paths:
+   A /testfile.txt
+
+Add testfile.txt with initial content
+------------------------------------------------------------------------
+r11 | 268451 | 2024-11-04 20:26:27 +0100 (Mon, 04 Nov 2024) | 1 line
+Changed paths:
+   D /testfile.txt
+
+ok
+------------------------------------------------------------------------
+r10 | 268451 | 2024-11-04 20:16:56 +0100 (Mon, 04 Nov 2024) | 1 line
+Changed paths:
+   M /testfile.txt
+
+Edit from working_copy_1
+------------------------------------------------------------------------
+r9 | 268451 | 2024-11-04 20:14:35 +0100 (Mon, 04 Nov 2024) | 1 line
+Changed paths:
+   A /testfile.txt
+
+Add testfile.txt with initial content
+------------------------------------------------------------------------
+r8 | 268451 | 2024-10-22 19:44:51 +0200 (Tue, 22 Oct 2024) | 1 line
+Changed paths:
+   A /ŚP
+   A /ŚP/Lista1
+   A /ŚP/Lista1/1.sh
+   A /ŚP/Lista1/2.sh
+   A /ŚP/Lista1/3.sh
+   A /ŚP/Lista1/4.sh
+   A /ŚP/Lista1/5.sh
+   A /ŚP/Lista1/6.sh
+   A /ŚP/Lista1/l1_demo.cast
+
+chore: add Lista1
+------------------------------------------------------------------------
+r7 | 268451 | 2023-06-15 07:51:47 +0200 (Thu, 15 Jun 2023) | 1 line
+Changed paths:
+   A /AiSD/Lista5
+   A /AiSD/Lista5/heaps.py
+   A /AiSD/Lista5/l5.cast
+   A /AiSD/Lista5/plots
+   A /AiSD/Lista5/plots/1000Bin0.png
+   A /AiSD/Lista5/plots/1000Bin1.png
+   A /AiSD/Lista5/plots/1000Bin2.png
+   A /AiSD/Lista5/plots/1000Bin3.png
+   A /AiSD/Lista5/plots/1000Bin4.png
+   A /AiSD/Lista5/plots/1000Fib0.png
+   A /AiSD/Lista5/plots/1000Fib1.png
+   A /AiSD/Lista5/plots/1000Fib2.png
+   A /AiSD/Lista5/plots/1000Fib3.png
+   A /AiSD/Lista5/plots/1000Fib4.png
+   A /AiSD/Lista5/plots/500Bin0.png
+   A /AiSD/Lista5/plots/500Bin1.png
+   A /AiSD/Lista5/plots/500Bin2.png
+   A /AiSD/Lista5/plots/500Bin3.png
+   A /AiSD/Lista5/plots/500Bin4.png
+   A /AiSD/Lista5/plots/500Fib0.png
+   A /AiSD/Lista5/plots/500Fib1.png
+   A /AiSD/Lista5/plots/500Fib2.png
+   A /AiSD/Lista5/plots/500Fib3.png
+   A /AiSD/Lista5/plots/500Fib4.png
+   A /AiSD/Lista5/plots/HeapCmps.png
+   A /AiSD/Lista5/plots/lcs.png
+   A /AiSD/Lista5/src
+   A /AiSD/Lista5/src/lib.rs
+   A /AiSD/Lista5/src/main.rs
+
+l5
+------------------------------------------------------------------------
+r6 | 268451 | 2023-06-04 21:31:39 +0200 (Sun, 04 Jun 2023) | 1 line
+Changed paths:
+   A /AiSD/Lista4
+   A /AiSD/Lista4/gen_plots.py
+   A /AiSD/Lista4/l4.cast
+   A /AiSD/Lista4/plots
+   A /AiSD/Lista4/plots/348361647_203381959276182_108420213491817817_n.png
+   A /AiSD/Lista4/plots/348365094_645485913747686_6855632548552141091_n.png
+   A /AiSD/Lista4/plots/348365375_562707572716435_7604932337805734037_n.png
+   A /AiSD/Lista4/plots/348373449_1638460693339509_4353523558145092387_n.png
+   A /AiSD/Lista4/plots/348385913_116299924815768_5816054004476085102_n.png
+   A /AiSD/Lista4/plots/348388560_946550763136674_6939534681149045386_n.png
+   A /AiSD/Lista4/src
+   A /AiSD/Lista4/src/lib.rs
+   A /AiSD/Lista4/src/main.rs
+
+l4
+------------------------------------------------------------------------
+r5 | 268451 | 2023-05-09 09:30:39 +0200 (Tue, 09 May 2023) | 1 line
+Changed paths:
+   M /AiSD/Lista3/plots/344000431_1054697688825156_2188631539953523483_n.png
+   M /AiSD/Lista3/plots/344068498_205407688949560_1386395070074970952_n.png
+   M /AiSD/Lista3/plots/344116588_577750287517037_5547574509565218915_n.png
+   M /AiSD/Lista3/plots/344145758_2512017225616418_1286256232551315721_n.png
+   M /AiSD/Lista3/plots/344202880_975113583685186_4165642192021315929_n.png
+   M /AiSD/Lista3/plots/344288494_597768375636798_9215944025685171914_n.png
+   M /AiSD/Lista3/plots/344289293_929917201582088_5122778720998017733_n.png
+   M /AiSD/Lista3/plots/344293115_1187675521907676_1366776899568677331_n.png
+   M /AiSD/Lista3/plots/344293412_268030852311862_2846470232500518280_n.png
+   M /AiSD/Lista3/plots/344295445_624138192894658_3278853279482047875_n.png
+   M /AiSD/Lista3/plots/344309152_764925508374420_153172709603005909_n.png
+   M /AiSD/Lista3/plots/344383180_533397892112864_8247343934926995077_n.png
+   M /AiSD/Lista3/plots/344401827_1298743844404496_2187539043413982439_n.png
+   M /AiSD/Lista3/plots/344556106_999241807912343_7825313919674798321_n.png
+   M /AiSD/Lista3/src/bin/bin_search.rs
+   M /AiSD/Lista3/src/bin/collect_data.rs
+   M /AiSD/Lista3/src/bin/gen_random.rs
+   M /AiSD/Lista3/src/bin/gen_reversed.rs
+   M /AiSD/Lista3/src/bin/gen_sorted.rs
+   M /AiSD/Lista3/src/bin/rand_select.rs
+   M /AiSD/Lista3/src/bin/select.rs
+   M /AiSD/Lista3/src/lib.rs
+
+lista3 revised
+------------------------------------------------------------------------
+r4 | 268451 | 2023-05-09 09:23:34 +0200 (Tue, 09 May 2023) | 1 line
+Changed paths:
+   A /AiSD/Lista3
+   A /AiSD/Lista3/gen_plots.py
+   A /AiSD/Lista3/l3
+   A /AiSD/Lista3/plots
+   A /AiSD/Lista3/plots/344000431_1054697688825156_2188631539953523483_n.png
+   A /AiSD/Lista3/plots/344068498_205407688949560_1386395070074970952_n.png
+   A /AiSD/Lista3/plots/344116588_577750287517037_5547574509565218915_n.png
+   A /AiSD/Lista3/plots/344145758_2512017225616418_1286256232551315721_n.png
+   A /AiSD/Lista3/plots/344202880_975113583685186_4165642192021315929_n.png
+   A /AiSD/Lista3/plots/344288494_597768375636798_9215944025685171914_n.png
+   A /AiSD/Lista3/plots/344289293_929917201582088_5122778720998017733_n.png
+   A /AiSD/Lista3/plots/344293115_1187675521907676_1366776899568677331_n.png
+   A /AiSD/Lista3/plots/344293412_268030852311862_2846470232500518280_n.png
+   A /AiSD/Lista3/plots/344295445_624138192894658_3278853279482047875_n.png
+   A /AiSD/Lista3/plots/344309152_764925508374420_153172709603005909_n.png
+   A /AiSD/Lista3/plots/344383180_533397892112864_8247343934926995077_n.png
+   A /AiSD/Lista3/plots/344401827_1298743844404496_2187539043413982439_n.png
+   A /AiSD/Lista3/plots/344556106_999241807912343_7825313919674798321_n.png
+   A /AiSD/Lista3/src
+   A /AiSD/Lista3/src/bin
+   A /AiSD/Lista3/src/bin/bin_search.rs
+   A /AiSD/Lista3/src/bin/collect_data.rs
+   A /AiSD/Lista3/src/bin/gen_random.rs
+   A /AiSD/Lista3/src/bin/gen_reversed.rs
+   A /AiSD/Lista3/src/bin/gen_sorted.rs
+   A /AiSD/Lista3/src/bin/rand_select.rs
+   A /AiSD/Lista3/src/bin/select.rs
+   A /AiSD/Lista3/src/lib.rs
+
+lista3
+------------------------------------------------------------------------
+r3 | 268451 | 2023-04-25 09:37:38 +0200 (Tue, 25 Apr 2023) | 1 line
+Changed paths:
+   M /AiSD/Lista2/src/lib.rs
+
+
+------------------------------------------------------------------------
+r2 | 268451 | 2023-04-02 14:43:17 +0200 (Sun, 02 Apr 2023) | 1 line
+Changed paths:
+   A /AiSD/Lista2
+   A /AiSD/Lista2/Cargo.toml
+   A /AiSD/Lista2/gen_plots.py
+   A /AiSD/Lista2/l2
+   A /AiSD/Lista2/plots
+   A /AiSD/Lista2/plots/cmps.png
+   A /AiSD/Lista2/plots/cn.png
+   A /AiSD/Lista2/plots/sn.png
+   A /AiSD/Lista2/plots/swaps.png
+   A /AiSD/Lista2/src
+   A /AiSD/Lista2/src/bin
+   A /AiSD/Lista2/src/bin/collect_data.rs
+   A /AiSD/Lista2/src/bin/dp_quik_sort.rs
+   A /AiSD/Lista2/src/bin/dp_quikins_sort.rs
+   A /AiSD/Lista2/src/bin/gen_random.rs
+   A /AiSD/Lista2/src/bin/gen_reversed.rs
+   A /AiSD/Lista2/src/bin/gen_sorted.rs
+   A /AiSD/Lista2/src/bin/ins_sort.rs
+   A /AiSD/Lista2/src/bin/mrg_sort.rs
+   A /AiSD/Lista2/src/bin/quik_sort.rs
+   A /AiSD/Lista2/src/lib.rs
+
+lista 1
+------------------------------------------------------------------------
+r1 | 268451 | 2023-03-13 20:52:37 +0100 (Mon, 13 Mar 2023) | 1 line
+Changed paths:
+   A /AiSD
+   A /AiSD/Lista1
+   A /AiSD/Lista1/1.c
+   A /AiSD/Lista1/2.cpp
+   A /AiSD/Lista1/3.cpp
+   A /AiSD/Lista1/l1
+
+lista 1
+------------------------------------------------------------------------
+spiryd@SpirydRoot:/mnt/c/Users/neuma/Desktop/tmp/tmp2$ cd ../tmp1
+spiryd@SpirydRoot:/mnt/c/Users/neuma/Desktop/tmp/tmp1$ svn log -v
+Authentication realm: <https://repo.cs.pwr.edu.pl:443> Subversion Repository
+Password for '268451': 
+
+------------------------------------------------------------------------
+r25 | 268451 | 2024-11-05 21:02:28 +0100 (Tue, 05 Nov 2024) | 1 line
+Changed paths:
+   M /externals
+
+Ustawienie właściwości svn:externals na podkatalogu externals
+------------------------------------------------------------------------
+r24 | 268451 | 2024-11-05 21:01:25 +0100 (Tue, 05 Nov 2024) | 1 line
+Changed paths:
+   A /externals
+
+Utworzenie podkatalogu externals
+------------------------------------------------------------------------
+r23 | 268451 | 2024-11-05 20:34:17 +0100 (Tue, 05 Nov 2024) | 1 line
+Changed paths:
+   D /testfile.txt
+
+clean
+------------------------------------------------------------------------
+r22 | 268451 | 2024-11-05 19:56:32 +0100 (Tue, 05 Nov 2024) | 1 line
+Changed paths:
+   A /testfile.txt
+
+Add testfile.txt for lock testing
+------------------------------------------------------------------------
+r21 | 268451 | 2024-11-05 19:51:10 +0100 (Tue, 05 Nov 2024) | 1 line
+Changed paths:
+   D /a
+   D /b
+
+cleaning
+------------------------------------------------------------------------
+r20 | 268451 | 2024-11-05 19:17:09 +0100 (Tue, 05 Nov 2024) | 1 line
+Changed paths:
+   A /b/b.txt
+
+Step 5: Add new b.txt to directory b
+------------------------------------------------------------------------
+r19 | 268451 | 2024-11-05 19:13:02 +0100 (Tue, 05 Nov 2024) | 1 line
+Changed paths:
+   A /a/a.txt (from /a/b.txt:18)
+   D /a/b.txt
+
+Step 4: Rename b.txt to a.txt and add a line
+------------------------------------------------------------------------
+r18 | 268451 | 2024-11-05 19:12:05 +0100 (Tue, 05 Nov 2024) | 1 line
+Changed paths:
+   D /b/a.txt
+   A /b/c.txt (from /b/a.txt:17)
+
+Step 3: Rename a.txt to c.txt and add a line
+------------------------------------------------------------------------
+r17 | 268451 | 2024-11-05 19:10:52 +0100 (Tue, 05 Nov 2024) | 1 line
+Changed paths:
+   D /a/a.txt
+   A /a/b.txt (from /b/b.txt:16)
+   A /b/a.txt (from /a/a.txt:16)
+   D /b/b.txt
+
+Step 2: Move b.txt to a and a.txt to b, add a line to each file
+------------------------------------------------------------------------
+r16 | 268451 | 2024-11-05 19:09:10 +0100 (Tue, 05 Nov 2024) | 1 line
+Changed paths:
+   A /a
+   A /a/a.txt
+   A /b
+   A /b/b.txt
+
+Step 1: Add directories a and b with files a.txt and b.txt
+------------------------------------------------------------------------
+r15 | 268451 | 2024-11-04 20:43:18 +0100 (Mon, 04 Nov 2024) | 1 line
+Changed paths:
+   D /testfile.txt
+
+
+------------------------------------------------------------------------
+r14 | 268451 | 2024-11-04 20:38:08 +0100 (Mon, 04 Nov 2024) | 1 line
+Changed paths:
+   M /testfile.txt
+
+Resolved conflict in testfile.txt
+------------------------------------------------------------------------
+r13 | 268451 | 2024-11-04 20:31:15 +0100 (Mon, 04 Nov 2024) | 1 line
+Changed paths:
+   M /testfile.txt
+
+Edit from working_copy_1
+------------------------------------------------------------------------
+r12 | 268451 | 2024-11-04 20:28:43 +0100 (Mon, 04 Nov 2024) | 1 line
+Changed paths:
+   A /testfile.txt
+
+Add testfile.txt with initial content
+------------------------------------------------------------------------
+r11 | 268451 | 2024-11-04 20:26:27 +0100 (Mon, 04 Nov 2024) | 1 line
+Changed paths:
+   D /testfile.txt
+
+ok
+------------------------------------------------------------------------
+r10 | 268451 | 2024-11-04 20:16:56 +0100 (Mon, 04 Nov 2024) | 1 line
+Changed paths:
+   M /testfile.txt
+
+Edit from working_copy_1
+------------------------------------------------------------------------
+r9 | 268451 | 2024-11-04 20:14:35 +0100 (Mon, 04 Nov 2024) | 1 line
+Changed paths:
+   A /testfile.txt
+
+Add testfile.txt with initial content
+------------------------------------------------------------------------
+r8 | 268451 | 2024-10-22 19:44:51 +0200 (Tue, 22 Oct 2024) | 1 line
+Changed paths:
+   A /ŚP
+   A /ŚP/Lista1
+   A /ŚP/Lista1/1.sh
+   A /ŚP/Lista1/2.sh
+   A /ŚP/Lista1/3.sh
+   A /ŚP/Lista1/4.sh
+   A /ŚP/Lista1/5.sh
+   A /ŚP/Lista1/6.sh
+   A /ŚP/Lista1/l1_demo.cast
+
+chore: add Lista1
+------------------------------------------------------------------------
+r7 | 268451 | 2023-06-15 07:51:47 +0200 (Thu, 15 Jun 2023) | 1 line
+Changed paths:
+   A /AiSD/Lista5
+   A /AiSD/Lista5/heaps.py
+   A /AiSD/Lista5/l5.cast
+   A /AiSD/Lista5/plots
+   A /AiSD/Lista5/plots/1000Bin0.png
+   A /AiSD/Lista5/plots/1000Bin1.png
+   A /AiSD/Lista5/plots/1000Bin2.png
+   A /AiSD/Lista5/plots/1000Bin3.png
+   A /AiSD/Lista5/plots/1000Bin4.png
+   A /AiSD/Lista5/plots/1000Fib0.png
+   A /AiSD/Lista5/plots/1000Fib1.png
+   A /AiSD/Lista5/plots/1000Fib2.png
+   A /AiSD/Lista5/plots/1000Fib3.png
+   A /AiSD/Lista5/plots/1000Fib4.png
+   A /AiSD/Lista5/plots/500Bin0.png
+   A /AiSD/Lista5/plots/500Bin1.png
+   A /AiSD/Lista5/plots/500Bin2.png
+   A /AiSD/Lista5/plots/500Bin3.png
+   A /AiSD/Lista5/plots/500Bin4.png
+   A /AiSD/Lista5/plots/500Fib0.png
+   A /AiSD/Lista5/plots/500Fib1.png
+   A /AiSD/Lista5/plots/500Fib2.png
+   A /AiSD/Lista5/plots/500Fib3.png
+   A /AiSD/Lista5/plots/500Fib4.png
+   A /AiSD/Lista5/plots/HeapCmps.png
+   A /AiSD/Lista5/plots/lcs.png
+   A /AiSD/Lista5/src
+   A /AiSD/Lista5/src/lib.rs
+   A /AiSD/Lista5/src/main.rs
+
+l5
+------------------------------------------------------------------------
+r6 | 268451 | 2023-06-04 21:31:39 +0200 (Sun, 04 Jun 2023) | 1 line
+Changed paths:
+   A /AiSD/Lista4
+   A /AiSD/Lista4/gen_plots.py
+   A /AiSD/Lista4/l4.cast
+   A /AiSD/Lista4/plots
+   A /AiSD/Lista4/plots/348361647_203381959276182_108420213491817817_n.png
+   A /AiSD/Lista4/plots/348365094_645485913747686_6855632548552141091_n.png
+   A /AiSD/Lista4/plots/348365375_562707572716435_7604932337805734037_n.png
+   A /AiSD/Lista4/plots/348373449_1638460693339509_4353523558145092387_n.png
+   A /AiSD/Lista4/plots/348385913_116299924815768_5816054004476085102_n.png
+   A /AiSD/Lista4/plots/348388560_946550763136674_6939534681149045386_n.png
+   A /AiSD/Lista4/src
+   A /AiSD/Lista4/src/lib.rs
+   A /AiSD/Lista4/src/main.rs
+
+l4
+------------------------------------------------------------------------
+r5 | 268451 | 2023-05-09 09:30:39 +0200 (Tue, 09 May 2023) | 1 line
+Changed paths:
+   M /AiSD/Lista3/plots/344000431_1054697688825156_2188631539953523483_n.png
+   M /AiSD/Lista3/plots/344068498_205407688949560_1386395070074970952_n.png
+   M /AiSD/Lista3/plots/344116588_577750287517037_5547574509565218915_n.png
+   M /AiSD/Lista3/plots/344145758_2512017225616418_1286256232551315721_n.png
+   M /AiSD/Lista3/plots/344202880_975113583685186_4165642192021315929_n.png
+   M /AiSD/Lista3/plots/344288494_597768375636798_9215944025685171914_n.png
+   M /AiSD/Lista3/plots/344289293_929917201582088_5122778720998017733_n.png
+   M /AiSD/Lista3/plots/344293115_1187675521907676_1366776899568677331_n.png
+   M /AiSD/Lista3/plots/344293412_268030852311862_2846470232500518280_n.png
+   M /AiSD/Lista3/plots/344295445_624138192894658_3278853279482047875_n.png
+   M /AiSD/Lista3/plots/344309152_764925508374420_153172709603005909_n.png
+   M /AiSD/Lista3/plots/344383180_533397892112864_8247343934926995077_n.png
+   M /AiSD/Lista3/plots/344401827_1298743844404496_2187539043413982439_n.png
+   M /AiSD/Lista3/plots/344556106_999241807912343_7825313919674798321_n.png
+   M /AiSD/Lista3/src/bin/bin_search.rs
+   M /AiSD/Lista3/src/bin/collect_data.rs
+   M /AiSD/Lista3/src/bin/gen_random.rs
+   M /AiSD/Lista3/src/bin/gen_reversed.rs
+   M /AiSD/Lista3/src/bin/gen_sorted.rs
+   M /AiSD/Lista3/src/bin/rand_select.rs
+   M /AiSD/Lista3/src/bin/select.rs
+   M /AiSD/Lista3/src/lib.rs
+
+lista3 revised
+------------------------------------------------------------------------
+r4 | 268451 | 2023-05-09 09:23:34 +0200 (Tue, 09 May 2023) | 1 line
+Changed paths:
+   A /AiSD/Lista3
+   A /AiSD/Lista3/gen_plots.py
+   A /AiSD/Lista3/l3
+   A /AiSD/Lista3/plots
+   A /AiSD/Lista3/plots/344000431_1054697688825156_2188631539953523483_n.png
+   A /AiSD/Lista3/plots/344068498_205407688949560_1386395070074970952_n.png
+   A /AiSD/Lista3/plots/344116588_577750287517037_5547574509565218915_n.png
+   A /AiSD/Lista3/plots/344145758_2512017225616418_1286256232551315721_n.png
+   A /AiSD/Lista3/plots/344202880_975113583685186_4165642192021315929_n.png
+   A /AiSD/Lista3/plots/344288494_597768375636798_9215944025685171914_n.png
+   A /AiSD/Lista3/plots/344289293_929917201582088_5122778720998017733_n.png
+   A /AiSD/Lista3/plots/344293115_1187675521907676_1366776899568677331_n.png
+   A /AiSD/Lista3/plots/344293412_268030852311862_2846470232500518280_n.png
+   A /AiSD/Lista3/plots/344295445_624138192894658_3278853279482047875_n.png
+   A /AiSD/Lista3/plots/344309152_764925508374420_153172709603005909_n.png
+   A /AiSD/Lista3/plots/344383180_533397892112864_8247343934926995077_n.png
+   A /AiSD/Lista3/plots/344401827_1298743844404496_2187539043413982439_n.png
+   A /AiSD/Lista3/plots/344556106_999241807912343_7825313919674798321_n.png
+   A /AiSD/Lista3/src
+   A /AiSD/Lista3/src/bin
+   A /AiSD/Lista3/src/bin/bin_search.rs
+   A /AiSD/Lista3/src/bin/collect_data.rs
+   A /AiSD/Lista3/src/bin/gen_random.rs
+   A /AiSD/Lista3/src/bin/gen_reversed.rs
+   A /AiSD/Lista3/src/bin/gen_sorted.rs
+   A /AiSD/Lista3/src/bin/rand_select.rs
+   A /AiSD/Lista3/src/bin/select.rs
+   A /AiSD/Lista3/src/lib.rs
+
+lista3
+------------------------------------------------------------------------
+r3 | 268451 | 2023-04-25 09:37:38 +0200 (Tue, 25 Apr 2023) | 1 line
+Changed paths:
+   M /AiSD/Lista2/src/lib.rs
+
+
+------------------------------------------------------------------------
+r2 | 268451 | 2023-04-02 14:43:17 +0200 (Sun, 02 Apr 2023) | 1 line
+Changed paths:
+   A /AiSD/Lista2
+   A /AiSD/Lista2/Cargo.toml
+   A /AiSD/Lista2/gen_plots.py
+   A /AiSD/Lista2/l2
+   A /AiSD/Lista2/plots
+   A /AiSD/Lista2/plots/cmps.png
+   A /AiSD/Lista2/plots/cn.png
+   A /AiSD/Lista2/plots/sn.png
+   A /AiSD/Lista2/plots/swaps.png
+   A /AiSD/Lista2/src
+   A /AiSD/Lista2/src/bin
+   A /AiSD/Lista2/src/bin/collect_data.rs
+   A /AiSD/Lista2/src/bin/dp_quik_sort.rs
+   A /AiSD/Lista2/src/bin/dp_quikins_sort.rs
+   A /AiSD/Lista2/src/bin/gen_random.rs
+   A /AiSD/Lista2/src/bin/gen_reversed.rs
+   A /AiSD/Lista2/src/bin/gen_sorted.rs
+   A /AiSD/Lista2/src/bin/ins_sort.rs
+   A /AiSD/Lista2/src/bin/mrg_sort.rs
+   A /AiSD/Lista2/src/bin/quik_sort.rs
+   A /AiSD/Lista2/src/lib.rs
+
+lista 1
+------------------------------------------------------------------------
+r1 | 268451 | 2023-03-13 20:52:37 +0100 (Mon, 13 Mar 2023) | 1 line
+Changed paths:
+   A /AiSD
+   A /AiSD/Lista1
+   A /AiSD/Lista1/1.c
+   A /AiSD/Lista1/2.cpp
+   A /AiSD/Lista1/3.cpp
+   A /AiSD/Lista1/l1
+
+lista 1
+------------------------------------------------------------------------

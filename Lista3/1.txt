@@ -1,0 +1,1846 @@
+spiryd@SpirydRoot:/mnt/c/Users/neuma/Desktop/SP/Lista3$ svn checkout https://repo.cs.pwr.edu.pl/p-0/
+Authentication realm: <https://repo.cs.pwr.edu.pl:443> Subversion Repository 
+Password for '268451': 
+
+A    p-0/app_1
+A    p-0/app_1/tags
+A    p-0/app_1/tags/v_254652
+A    p-0/app_1/tags/v_268436
+A    p-0/app_1/tags/v_268436/s268444_podprogram.c
+A    p-0/app_1/tags/v_268436/s268424_podprogram.c
+A    p-0/app_1/tags/v_268436/s268442_podprogram.c
+A    p-0/app_1/tags/v_268436/s268421_podprogram.c
+A    p-0/app_1/tags/v_254652/README
+A    p-0/app_1/tags/v_254652/main.c
+A    p-0/app_1/tags/v_254652/makefile
+A    p-0/app_1/tags/v_254652/program.h
+A    p-0/app_1/tags/v_254652/s254652_podprogram.c
+A    p-0/app_1/tags/v_254652/s268436_podprogram.c
+A    p-0/app_1/tags/v_254652/s999_podprogram.c
+A    p-0/app_1/tags/v_254652/s268418_podprogram.c
+A    p-0/app_1/tags/v_254652/s268454_podprogram.c
+A    p-0/app_1/tags/v_254652/s268458_podprogram.c
+A    p-0/app_1/tags/v_254652/s268444_podprogram.c
+A    p-0/app_1/tags/v_254652/s254635_podprogram.c
+A    p-0/app_1/tags/v_254652/s268450_podprogram.c
+A    p-0/app_1/tags/v_254652/s268424_podprogram.c
+A    p-0/app_1/tags/v_254652/s261756_podprogram.c
+A    p-0/app_1/tags/v_254652/s268462_podprogram.c
+A    p-0/app_1/tags/v_254652/s268442_podprogram.c
+A    p-0/app_1/tags/v_254652/s268434_podprogram.c
+A    p-0/app_1/tags/v_254652/s268441_podprogram.c
+A    p-0/app_1/tags/v_254652/s268421_podprogram.c
+A    p-0/app_1/tags/v_254652/s268459_podprogram.c
+A    p-0/app_1/tags/v_254652/s268416_podprogram.c
+A    p-0/app_1/tags/v_254652/s268426_podprogram.c
+A    p-0/app_1/tags/v_254652/program_usage.c
+A    p-0/app_1/tags/v_254652/s0_podprogram.c
+A    p-0/app_1/tags/v_268436/main.c
+A    p-0/app_1/tags/v_268436/program.h
+A    p-0/app_1/tags/v_268436/s999_podprogram.c
+A    p-0/app_1/tags/v_268436/s268454_podprogram.c
+A    p-0/app_1/tags/v_268436/s254635_podprogram.c
+A    p-0/app_1/tags/v_268436/s261756_podprogram.c
+A    p-0/app_1/tags/v_268436/s268434_podprogram.c
+A    p-0/app_1/tags/v_268436/s268459_podprogram.c
+A    p-0/app_1/tags/v_268454
+A    p-0/app_1/tags/v_268418
+A    p-0/app_1/tags/v_268436/README
+A    p-0/app_1/tags/v_268436/makefile
+A    p-0/app_1/tags/v_268436/s268436_podprogram.c
+A    p-0/app_1/tags/v_268436/s268418_podprogram.c
+A    p-0/app_1/tags/v_268436/s268458_podprogram.c
+A    p-0/app_1/tags/v_268436/s268450_podprogram.c
+A    p-0/app_1/tags/v_268436/s268462_podprogram.c
+A    p-0/app_1/tags/v_268436/s268441_podprogram.c
+A    p-0/app_1/tags/v_268436/s268416_podprogram.c
+A    p-0/app_1/tags/v_268436/s268426_podprogram.c
+A    p-0/app_1/tags/v_268454/main.c
+A    p-0/app_1/tags/v_268454/s268454_podprogram.c
+A    p-0/app_1/tags/v_268454/s268450_podprogram.c
+A    p-0/app_1/tags/v_268454/s268442_podprogram.c
+A    p-0/app_1/tags/v_268454/s268459_podprogram.c
+A    p-0/app_1/tags/v_268454/s0_podprogram.c
+A    p-0/app_1/tags/v_268418/makefile
+A    p-0/app_1/tags/v_268418/s268458_podprogram.c
+A    p-0/app_1/tags/v_268418/s268424_podprogram.c
+A    p-0/app_1/tags/v_268458
+A    p-0/app_1/tags/v_268418/s268434_podprogram.c
+A    p-0/app_1/tags/v_268454/README
+A    p-0/app_1/tags/v_268454/s268418_podprogram.c
+A    p-0/app_1/tags/v_268454/s254635_podprogram.c
+A    p-0/app_1/tags/v_268454/s268462_podprogram.c
+A    p-0/app_1/tags/v_268454/s268421_podprogram.c
+A    p-0/app_1/tags/v_268454/program_usage.c
+A    p-0/app_1/tags/v_268418/main.c
+A    p-0/app_1/tags/v_268418/s268454_podprogram.c
+A    p-0/app_1/tags/v_268418/s268450_podprogram.c
+A    p-0/app_1/tags/v_268418/s268442_podprogram.c
+A    p-0/app_1/tags/v_268418/s268459_podprogram.c
+A    p-0/app_1/tags/v_268436/s0_podprogram.c
+A    p-0/app_1/tags/v_268454/program.h
+A    p-0/app_1/tags/v_268454/s268444_podprogram.c
+A    p-0/app_1/tags/v_268454/s261756_podprogram.c
+A    p-0/app_1/tags/v_268454/s268441_podprogram.c
+A    p-0/app_1/tags/v_268454/s268426_podprogram.c
+A    p-0/app_1/tags/v_268418/README
+A    p-0/app_1/tags/v_268418/s268418_podprogram.c
+A    p-0/app_1/tags/v_268418/s254635_podprogram.c
+A    p-0/app_1/tags/v_268418/s268462_podprogram.c
+A    p-0/app_1/tags/v_268418/s268421_podprogram.c
+A    p-0/app_1/tags/v_268436/program_usage.c
+A    p-0/app_1/tags/v_268454/makefile
+A    p-0/app_1/tags/v_268454/s268458_podprogram.c
+A    p-0/app_1/tags/v_268454/s268424_podprogram.c
+A    p-0/app_1/tags/v_268454/s268434_podprogram.c
+A    p-0/app_1/tags/v_268454/s268416_podprogram.c
+A    p-0/app_1/tags/v_268454/s999_podprogram.c
+A    p-0/app_1/tags/v_268418/program.h
+A    p-0/app_1/tags/v_268418/s268444_podprogram.c
+A    p-0/app_1/tags/v_268418/s261756_podprogram.c
+A    p-0/app_1/tags/v_268418/s268441_podprogram.c
+A    p-0/app_1/tags/v_268444
+A    p-0/app_1/tags/v_268418/s268416_podprogram.c
+A    p-0/app_1/tags/v_268418/s999_podprogram.c
+A    p-0/app_1/tags/v_268458/program.h
+A    p-0/app_1/tags/v_268418/s0_podprogram.c
+A    p-0/app_1/tags/v_268458/makefile
+A    p-0/app_1/tags/v_268458/s254635_podprogram.c
+A    p-0/app_1/tags/v_268418/program_usage.c
+A    p-0/app_1/tags/v_268458/main.c
+A    p-0/app_1/tags/v_268458/s268444_podprogram.c
+A    p-0/app_1/tags/v_268418/s268426_podprogram.c
+A    p-0/app_1/tags/v_268458/README
+A    p-0/app_1/tags/v_268458/s268458_podprogram.c
+A    p-0/app_1/tags/v_254635
+A    p-0/app_1/tags/v_268458/s268450_podprogram.c
+A    p-0/app_1/tags/v_268458/s268442_podprogram.c
+A    p-0/app_1/tags/v_268458/s268459_podprogram.c
+A    p-0/app_1/tags/v_268458/s0_podprogram.c
+A    p-0/app_1/tags/v_268444/makefile
+A    p-0/app_1/tags/v_268444/s268450_podprogram.c
+A    p-0/app_1/tags/v_268444/s268442_podprogram.c
+A    p-0/app_1/tags/v_268444/s268459_podprogram.c
+A    p-0/app_1/tags/v_268458/s268462_podprogram.c
+A    p-0/app_1/tags/v_268458/s268421_podprogram.c
+A    p-0/app_1/tags/v_268458/program_usage.c
+A    p-0/app_1/tags/v_268444/main.c
+A    p-0/app_1/tags/v_268444/s254635_podprogram.c
+A    p-0/app_1/tags/v_268444/s268462_podprogram.c
+A    p-0/app_1/tags/v_268444/s268421_podprogram.c
+A    p-0/app_1/tags/v_268444/program_usage.c
+A    p-0/app_1/tags/v_268458/s261756_podprogram.c
+A    p-0/app_1/tags/v_268458/s268441_podprogram.c
+A    p-0/app_1/tags/v_268458/s268426_podprogram.c
+A    p-0/app_1/tags/v_268444/README
+A    p-0/app_1/tags/v_268444/s268444_podprogram.c
+A    p-0/app_1/tags/v_268444/s261756_podprogram.c
+A    p-0/app_1/tags/v_268444/s268441_podprogram.c
+A    p-0/app_1/tags/v_268444/s268426_podprogram.c
+A    p-0/app_1/tags/v_268458/s268424_podprogram.c
+A    p-0/app_1/tags/v_268458/s268434_podprogram.c
+A    p-0/app_1/tags/v_268458/s268416_podprogram.c
+A    p-0/app_1/tags/v_268458/s999_podprogram.c
+A    p-0/app_1/tags/v_268444/program.h
+A    p-0/app_1/tags/v_268444/s268424_podprogram.c
+A    p-0/app_1/tags/v_268444/s268434_podprogram.c
+A    p-0/app_1/tags/v_268444/s268416_podprogram.c
+A    p-0/app_1/tags/v_268450
+A    p-0/app_1/tags/v_268424
+A    p-0/app_1/tags/v_268444/s0_podprogram.c
+A    p-0/app_1/tags/v_254635/makefile
+A    p-0/app_1/tags/v_254635/s268424_podprogram.c
+A    p-0/app_1/tags/v_254635/main.c
+A    p-0/app_1/tags/v_254635/s268450_podprogram.c
+A    p-0/app_1/tags/v_254635/s268442_podprogram.c
+A    p-0/app_1/tags/v_254635/README
+A    p-0/app_1/tags/v_254635/s254635_podprogram.c
+A    p-0/app_1/tags/v_254635/s268462_podprogram.c
+A    p-0/app_1/tags/v_268444/s999_podprogram.c
+A    p-0/app_1/tags/v_254635/program.h
+A    p-0/app_1/tags/v_254635/s261756_podprogram.c
+A    p-0/app_1/tags/v_254635/s268434_podprogram.c
+A    p-0/app_1/tags/v_254635/s268416_podprogram.c
+A    p-0/app_1/tags/v_254635/s999_podprogram.c
+A    p-0/app_1/tags/v_268450/s268416_podprogram.c
+A    p-0/app_1/tags/v_268450/s268434_podprogram.c
+A    p-0/app_1/tags/v_268450/s268462_podprogram.c
+A    p-0/app_1/tags/v_268450/makefile
+A    p-0/app_1/tags/v_268424/main.c
+A    p-0/app_1/tags/v_254635/s268459_podprogram.c
+A    p-0/app_1/tags/v_254635/s0_podprogram.c
+A    p-0/app_1/tags/v_268450/s261756_podprogram.c
+A    p-0/app_1/tags/v_268450/s268426_podprogram.c
+A    p-0/app_1/tags/v_268450/s268459_podprogram.c
+A    p-0/app_1/tags/v_268450/main.c
+A    p-0/app_1/tags/v_268424/README
+A    p-0/app_1/tags/v_254635/s268421_podprogram.c
+A    p-0/app_1/tags/v_254635/program_usage.c
+A    p-0/app_1/tags/v_268450/s0_podprogram.c
+A    p-0/app_1/tags/v_268450/s268424_podprogram.c
+A    p-0/app_1/tags/v_268450/s268442_podprogram.c
+A    p-0/app_1/tags/v_268450/README
+A    p-0/app_1/tags/v_268450/s268450_podprogram.c
+A    p-0/app_1/tags/v_261756
+A    p-0/app_1/tags/v_268462
+A    p-0/app_1/tags/v_268424/s261756_podprogram.c
+A    p-0/app_1/tags/v_268424/s268441_podprogram.c
+A    p-0/app_1/tags/v_268424/s268426_podprogram.c
+A    p-0/app_1/tags/v_268424/s268424_podprogram.c
+A    p-0/app_1/tags/v_268424/s268434_podprogram.c
+A    p-0/app_1/tags/v_268424/s268416_podprogram.c
+A    p-0/app_1/tags/v_268424/s999_podprogram.c
+A    p-0/app_1/tags/v_268424/program.h
+A    p-0/app_1/tags/v_268424/s268442_podprogram.c
+A    p-0/app_1/tags/v_268424/s268459_podprogram.c
+A    p-0/app_1/tags/v_268424/s0_podprogram.c
+A    p-0/app_1/tags/v_254635/s268441_podprogram.c
+A    p-0/app_1/tags/v_254635/s268426_podprogram.c
+A    p-0/app_1/tags/v_268450/program_usage.c
+A    p-0/app_1/tags/v_268450/s268421_podprogram.c
+A    p-0/app_1/tags/v_268450/s268441_podprogram.c
+A    p-0/app_1/tags/v_268450/s999_podprogram.c
+A    p-0/app_1/tags/v_268450/program.h
+A    p-0/app_1/tags/v_268424/makefile
+A    p-0/app_1/tags/v_268424/s268462_podprogram.c
+A    p-0/app_1/tags/v_268424/s268421_podprogram.c
+A    p-0/app_1/tags/v_268424/program_usage.c
+A    p-0/app_1/tags/v_268442
+A    p-0/app_1/tags/v_261756/main.c
+A    p-0/app_1/tags/v_261756/README
+A    p-0/app_1/tags/v_261756/s268441_podprogram.c
+A    p-0/app_1/tags/v_261756/s268426_podprogram.c
+A    p-0/app_1/tags/v_268462/README
+A    p-0/app_1/tags/v_268462/s268462_podprogram.c
+A    p-0/app_1/tags/v_261756/s261756_podprogram.c
+A    p-0/app_1/tags/v_261756/s268434_podprogram.c
+A    p-0/app_1/tags/v_261756/s268416_podprogram.c
+A    p-0/app_1/tags/v_261756/s999_podprogram.c
+A    p-0/app_1/tags/v_268462/program.h
+A    p-0/app_1/tags/v_268462/s268441_podprogram.c
+A    p-0/app_1/tags/v_261756/program.h
+A    p-0/app_1/tags/v_261756/s268442_podprogram.c
+A    p-0/app_1/tags/v_261756/s268459_podprogram.c
+A    p-0/app_1/tags/v_261756/s0_podprogram.c
+A    p-0/app_1/tags/v_268462/makefile
+A    p-0/app_1/tags/v_268462/s268434_podprogram.c
+A    p-0/app_1/tags/v_261756/makefile
+A    p-0/app_1/tags/v_261756/s268462_podprogram.c
+A    p-0/app_1/tags/v_261756/s268421_podprogram.c
+A    p-0/app_1/tags/v_261756/program_usage.c
+A    p-0/app_1/tags/v_268462/main.c
+A    p-0/app_1/tags/v_268462/s268442_podprogram.c
+A    p-0/app_1/tags/v_268434
+A    p-0/app_1/tags/v_268430
+A    p-0/app_1/tags/v_268430/trunk
+A    p-0/app_1/tags/v_268462/s268421_podprogram.c
+A    p-0/app_1/tags/v_268462/program_usage.c
+A    p-0/app_1/tags/v_268442/main.c
+A    p-0/app_1/tags/v_268442/s268434_podprogram.c
+A    p-0/app_1/tags/v_268442/s268416_podprogram.c
+A    p-0/app_1/tags/v_268462/s268426_podprogram.c
+A    p-0/app_1/tags/v_268442/README
+A    p-0/app_1/tags/v_268442/s268442_podprogram.c
+A    p-0/app_1/tags/v_268442/s268459_podprogram.c
+A    p-0/app_1/tags/v_268462/s268416_podprogram.c
+A    p-0/app_1/tags/v_268462/s999_podprogram.c
+A    p-0/app_1/tags/v_268442/program.h
+A    p-0/app_1/tags/v_268442/s268421_podprogram.c
+A    p-0/app_1/tags/v_268462/s268459_podprogram.c
+A    p-0/app_1/tags/v_268462/s0_podprogram.c
+A    p-0/app_1/tags/v_268442/makefile
+A    p-0/app_1/tags/v_268442/s268441_podprogram.c
+A    p-0/app_1/tags/v_268442/s268426_podprogram.c
+A    p-0/app_1/tags/268430
+A    p-0/app_1/tags/v_268442/s999_podprogram.c
+A    p-0/app_1/tags/v_268434/program.h
+A    p-0/app_1/tags/v_268434/s268459_podprogram.c
+A    p-0/app_1/tags/v_268434/s0_podprogram.c
+A    p-0/app_1/tags/v_268430/trunk/program.h
+A    p-0/app_1/tags/v_268442/s0_podprogram.c
+A    p-0/app_1/tags/v_268434/makefile
+A    p-0/app_1/tags/v_268434/s268421_podprogram.c
+A    p-0/app_1/tags/v_268434/program_usage.c
+A    p-0/app_1/tags/v_268430/trunk/makefile
+A    p-0/app_1/tags/v_268430/trunk/s268421_podprogram.c
+A    p-0/app_1/tags/v_268442/program_usage.c
+A    p-0/app_1/tags/v_268434/main.c
+A    p-0/app_1/tags/v_268434/s268441_podprogram.c
+A    p-0/app_1/tags/v_268434/s268426_podprogram.c
+A    p-0/app_1/tags/v_268430/trunk/main.c
+A    p-0/app_1/tags/v_268430/trunk/README
+A    p-0/app_1/tags/v_268434/README
+A    p-0/app_1/tags/v_268434/s268434_podprogram.c
+A    p-0/app_1/tags/v_268434/s268416_podprogram.c
+A    p-0/app_1/tags/v_268434/s999_podprogram.c
+A    p-0/app_1/tags/v_268430/trunk/s268441_podprogram.c
+A    p-0/app_1/tags/v_268441
+A    p-0/app_1/tags/v_268421
+A    p-0/app_1/tags/v_268430/trunk/s268459_podprogram.c
+A    p-0/app_1/tags/v_268430/trunk/s0_podprogram.c
+A    p-0/app_1/tags/v_268430/program.h
+A    p-0/app_1/tags/v_268430/s268459_podprogram.c
+A    p-0/app_1/tags/v_268430/s0_podprogram.c
+A    p-0/app_1/tags/v_268430/trunk/program_usage.c
+A    p-0/app_1/tags/v_268430/makefile
+A    p-0/app_1/tags/v_268430/s268421_podprogram.c
+A    p-0/app_1/tags/v_268430/program_usage.c
+A    p-0/app_1/tags/v_268430/trunk/s268426_podprogram.c
+A    p-0/app_1/tags/v_268430/main.c
+A    p-0/app_1/tags/v_268430/README
+A    p-0/app_1/tags/v_268430/s268426_podprogram.c
+A    p-0/app_1/tags/v_268430/trunk/s268416_podprogram.c
+A    p-0/app_1/tags/v_268430/trunk/s999_podprogram.c
+A    p-0/app_1/tags/v_268430/s268441_podprogram.c
+A    p-0/app_1/tags/v_268430/s268416_podprogram.c
+A    p-0/app_1/tags/v_268430/s999_podprogram.c
+A    p-0/app_1/tags/v_268459
+A    p-0/app_1/tags/268430/program.h
+A    p-0/app_1/tags/268430/s268459_podprogram.c
+A    p-0/app_1/tags/268430/s0_podprogram.c
+A    p-0/app_1/tags/v_268441/makefile
+A    p-0/app_1/tags/v_268441/s268416_podprogram.c
+A    p-0/app_1/tags/v_268441/s268459_podprogram.c
+A    p-0/app_1/tags/268430/makefile
+A    p-0/app_1/tags/268430/s268421_podprogram.c
+A    p-0/app_1/tags/268430/program_usage.c
+A    p-0/app_1/tags/v_268441/main.c
+A    p-0/app_1/tags/v_268441/s0_podprogram.c
+A    p-0/app_1/tags/v_268441/s268441_podprogram.c
+A    p-0/app_1/tags/v_268421/s0_podprogram.c
+A    p-0/app_1/tags/268430/main.c
+A    p-0/app_1/tags/268430/README
+A    p-0/app_1/tags/268430/s268426_podprogram.c
+A    p-0/app_1/tags/v_268441/README
+A    p-0/app_1/tags/v_268441/program_usage.c
+A    p-0/app_1/tags/v_268441/s268426_podprogram.c
+A    p-0/app_1/tags/v_268421/program_usage.c
+A    p-0/app_1/tags/268430/s268441_podprogram.c
+A    p-0/app_1/tags/268430/s268416_podprogram.c
+A    p-0/app_1/tags/268430/s999_podprogram.c
+A    p-0/app_1/tags/v_268441/program.h
+A    p-0/app_1/tags/v_268441/s268421_podprogram.c
+A    p-0/app_1/tags/v_268441/s999_podprogram.c
+A    p-0/app_1/tags/v_268416
+A    p-0/app_1/tags/v_268426
+A    p-0/app_1/tags/v_999
+A    p-0/app_1/tags/v_268421/s268416_podprogram.c
+A    p-0/app_1/tags/v_268421/README
+A    p-0/app_1/tags/v_268421/s268421_podprogram.c
+A    p-0/app_1/tags/v_268459/main.c
+A    p-0/app_1/tags/v_268459/program_usage.c
+A    p-0/app_1/tags/v_268421/s999_podprogram.c
+A    p-0/app_1/tags/v_268421/program.h
+A    p-0/app_1/tags/v_268459/program.h
+A    p-0/app_1/tags/v_268459/s268426_podprogram.c
+A    p-0/app_1/tags/v_268421/s268459_podprogram.c
+A    p-0/app_1/tags/v_268421/makefile
+A    p-0/app_1/tags/v_268459/s268459_podprogram.c
+A    p-0/app_1/tags/v_268459/s268416_podprogram.c
+A    p-0/app_1/tags/v_268459/s999_podprogram.c
+A    p-0/app_1/tags/v_268421/s268426_podprogram.c
+A    p-0/app_1/tags/v_268421/main.c
+A    p-0/app_1/tags/v_268459/makefile
+A    p-0/app_1/tags/v_268459/README
+A    p-0/app_1/tags/v_268459/s0_podprogram.c
+A    p-0/app_1/branches
+A    p-0/app_1/branches/268423
+A    p-0/app_1/tags/v_268416/main.c
+A    p-0/app_1/tags/v_268416/s268426_podprogram.c
+A    p-0/app_1/tags/v_268426/README
+A    p-0/app_1/tags/v_268426/s268426_podprogram.c
+A    p-0/app_1/tags/v_999/README
+A    p-0/app_1/tags/v_999/program_usage.c
+A    p-0/app_1/tags/v_268416/README
+A    p-0/app_1/tags/v_268416/program.h
+A    p-0/app_1/tags/v_268416/s999_podprogram.c
+A    p-0/app_1/tags/v_268426/program.h
+A    p-0/app_1/tags/v_268426/s999_podprogram.c
+A    p-0/app_1/tags/v_999/program.h
+A    p-0/app_1/tags/v_268416/makefile
+A    p-0/app_1/tags/v_268416/program_usage.c
+A    p-0/app_1/tags/v_268426/main.c
+A    p-0/app_1/tags/v_268426/program_usage.c
+A    p-0/app_1/tags/v_999/main.c
+A    p-0/app_1/tags/v_999/s0_podprogram.c
+A    p-0/app_1/branches/268417
+A    p-0/app_1/branches/268423/main.c
+A    p-0/app_1/branches/268423/s268436_podprogram.c
+A    p-0/app_1/branches/268423/s268458_podprogram.c
+A    p-0/app_1/branches/268423/s268424_podprogram.c
+A    p-0/app_1/branches/268423/README
+A    p-0/app_1/branches/268423/s254652_podprogram.c
+A    p-0/app_1/branches/268423/s268454_podprogram.c
+A    p-0/app_1/branches/268423/s268450_podprogram.c
+A    p-0/app_1/branches/268423/makefile
+A    p-0/app_1/branches/268423/s999_podprogram.c
+A    p-0/app_1/branches/268423/s268444_podprogram.c
+A    p-0/app_1/branches/268423/s261756_podprogram.c
+A    p-0/app_1/branches/999
+A    p-0/app_1/branches/268423/s268434_podprogram.c
+A    p-0/app_1/branches/268423/s268416_podprogram.c
+A    p-0/app_1/branches/268417/README
+A    p-0/app_1/branches/268417/s268444_podprogram.c
+A    p-0/app_1/branches/268417/s261756_podprogram.c
+A    p-0/app_1/branches/268423/s268442_podprogram.c
+A    p-0/app_1/branches/268423/s268459_podprogram.c
+A    p-0/app_1/branches/268423/s0_podprogram.c
+A    p-0/app_1/branches/268417/program.h
+A    p-0/app_1/branches/268417/s268424_podprogram.c
+A    p-0/app_1/branches/268423/s268441_podprogram.c
+A    p-0/app_1/branches/268423/s268426_podprogram.c
+A    p-0/app_1/branches/268417/main.c
+A    p-0/app_1/branches/268417/s254635_podprogram.c
+A    p-0/app_1/branches/268417/s268462_podprogram.c
+A    p-0/app_1/branches/999/trunk
+A    p-0/app_1/branches/268417/s268441_podprogram.c
+A    p-0/app_1/branches/268417/s268426_podprogram.c
+A    p-0/app_1/branches/999/README
+A    p-0/app_1/branches/268417/s268434_podprogram.c
+A    p-0/app_1/branches/268417/s268416_podprogram.c
+A    p-0/app_1/branches/268417/s999_podprogram.c
+A    p-0/app_1/tags/v_268416/s268416_podprogram.c
+A    p-0/app_1/tags/v_268416/s0_podprogram.c
+A    p-0/app_1/tags/v_268426/makefile
+A    p-0/app_1/tags/v_268426/s0_podprogram.c
+A    p-0/app_1/tags/v_999/makefile
+A    p-0/app_1/tags/v_999/s999_podprogram.c
+A    p-0/app_1/branches/268423/program.h
+A    p-0/app_1/branches/268423/s268418_podprogram.c
+A    p-0/app_1/branches/268423/s254635_podprogram.c
+A    p-0/app_1/branches/268423/s268462_podprogram.c
+A    p-0/app_1/branches/268423/s268421_podprogram.c
+A    p-0/app_1/branches/268423/program_usage.c
+A    p-0/app_1/branches/268417/makefile
+A    p-0/app_1/branches/268417/s268450_podprogram.c
+A    p-0/app_1/branches/268417/s268442_podprogram.c
+A    p-0/app_1/branches/268417/s268459_podprogram.c
+A    p-0/app_1/branches/268417/s0_podprogram.c
+A    p-0/app_1/branches/268417/s268421_podprogram.c
+A    p-0/app_1/branches/268417/program_usage.c
+A    p-0/app_1/branches/999/main.c
+A    p-0/app_1/trunk
+A    p-0/app_1/branches/999/s268416_podprogram.c
+A    p-0/app_1/branches/999/s268441_podprogram.c
+A    p-0/app_1/branches/999/trunk/program.h
+A    p-0/app_1/branches/999/trunk/s268459_podprogram.c
+A    p-0/app_1/branches/999/trunk/s0_podprogram.c
+A    p-0/app_1/branches/999/program.h
+A    p-0/app_1/branches/999/s268430_podprogram.c
+A    p-0/app_1/branches/999/trunk/makefile
+A    p-0/app_1/branches/999/trunk/s268421_podprogram.c
+A    p-0/app_1/branches/999/trunk/program_usage.c
+A    p-0/app_1/branches/999/makefile
+A    p-0/app_1/branches/999/s268426_podprogram.c
+A    p-0/app_1/branches/999/trunk/main.c
+A    p-0/app_1/branches/999/trunk/README
+A    p-0/app_1/branches/999/trunk/s268426_podprogram.c
+A    p-0/app_1/branches/999/s268421_podprogram.c
+A    p-0/app_1/branches/999/s268459_podprogram.c
+A    p-0/app_1/branches/999/trunk/s268441_podprogram.c
+A    p-0/app_1/branches/999/trunk/s268416_podprogram.c
+A    p-0/app_1/branches/999/s999_podprogram.c
+A    p-0/app_1/trunk/program.h
+A    p-0/app_1/trunk/s268418_podprogram.c
+A    p-0/app_1/trunk/s254635_podprogram.c
+A    p-0/app_1/trunk/s268462_podprogram.c
+A    p-0/app_1/trunk/s268421_podprogram.c
+A    p-0/app_1/branches/999/s0_podprogram.c
+A    p-0/app_1/trunk/makefile
+A    p-0/app_1/branches/999/program_usage.c
+A    p-0/app_1/trunk/main.c
+A    p-0/app_1/trunk/s268436_podprogram.c
+A    p-0/app_1/trunk/s268458_podprogram.c
+A    p-0/app_1/trunk/s268424_podprogram.c
+A    p-0/app_1/trunk/s268434_podprogram.c
+A    p-0/app_1/trunk/s268416_podprogram.c
+A    p-0/app_1/branches/999/trunk/s999_podprogram.c
+A    p-0/app_1/trunk/README
+A    p-0/app_1/trunk/s254652_podprogram.c
+A    p-0/app_1/trunk/s268454_podprogram.c
+A    p-0/app_1/trunk/s268450_podprogram.c
+A    p-0/app_1/trunk/program_usage.c
+A    p-0/app_1/trunk/s999_podprogram.c
+A    p-0/app_1/trunk/s268444_podprogram.c
+A    p-0/app_1/trunk/s261756_podprogram.c
+A    p-0/app_1/trunk/s268441_podprogram.c
+A    p-0/app_1/trunk/s268426_podprogram.c
+A    p-0/app_1/trunk/s268442_podprogram.c
+A    p-0/app_1/trunk/s268459_podprogram.c
+A    p-0/app_1/trunk/s0_podprogram.c
+ U   p-0
+Checked out revision 143.
+spiryd@SpirydRoot:/mnt/c/Users/neuma/Desktop/SP/Lista3/p-0/app_1/trunk$ cat README
+Ten plik README utworzony, żeby studenci mogli umieszczać
+tu opisy działania swoich podprogramów.
+
+
+Wywołanie programu:
+
+   program ARG
+
+Dla poszczególnych wartości ARG program działa następująco:
+
+         0 - wyświetla ogólny opis działania podprogramów;
+       999 - wczytuje liczbę i drukuje jej kwadrat.
+       268426 - wczytuje liczbę i sprawdza czy jest parzysta
+       268416 - pyta się, czy dzisiaj jest środa
+       268418 - wczytuje liczbę naturalna n i wypisuje jej rozkład na czynniki pierwsze
+       268421 - wczytuje liczbę i krzyczy na wskazaną ilość znaków
+       268434 - wczytuje liczbę i zwraca liczbę o jeden większą
+       268442 - wczytuje liczbę naturalną n i wypisuje pierwszych n wyrazów ciągu Fibonacciego
+       268462 - wczytuje liczbę naturalną n i drukuje choinkę o wysokości n
+       268424 - wczytuje liczbę naturalną n i sprawdza czy jest pierwsza
+       268450 - losuje liczbe z przedzialu [1,1]
+       254635 - wczytuje liczbę naturalną n i wypisuje n pierwszych linii inwokacji Pana Tadeusza
+       268444 - informuje, ze dziala prawidlowo
+       268458 - wyswietla alfabet
+       268454 - wczytuje liczbe i wypisuje wskazana liczbe linijek tekstu
+       268436 - wczytuje słowo i wypisuje jego długość
+       254652 - wczytuje liczbę naturalną i wypisuję liczbę o 10 większą
+
+Dodatkowo, po zreintegrowaniu swojej gałęzi do trunk-a student ma utworzyć
+w katalogu:
+
+^/app_1/tags
+
+własnego taga tej wersji o nazwie: v_<nr_indeksu>
+spiryd@SpirydRoot:/mnt/c/Users/neuma/Desktop/SP/Lista3/p-0/app_1$ svn copy ./trunk ./branches/268451
+A         branches/268451
+spiryd@SpirydRoot:/mnt/c/Users/neuma/Desktop/SP/Lista3/p-0/app_1/branches/268451$ svn add s268451_podprogram.c
+A         s268451_podprogram.c
+spiryd@SpirydRoot:/mnt/c/Users/neuma/Desktop/SP/Lista3/p-0/app_1/branches/268451$ svn status
+A  +    .
+M  +    README
+M  +    main.c
+M  +    makefile
+M  +    program.h
+A       s268451_podprogram.c
+spiryd@SpirydRoot:/mnt/c/Users/neuma/Desktop/SP/Lista3/p-0/app_1/branches/268451$ svn commit -m"268451 working"
+Authentication realm: <https://repo.cs.pwr.edu.pl:443> Subversion Repository 
+Password for '268451': 
+
+Adding         .
+Sending        README
+Sending        main.c
+Sending        makefile
+Sending        program.h
+Adding         s268451_podprogram.c
+Transmitting file data .....done
+Committing transaction...
+Committed revision 144.
+spiryd@SpirydRoot:/mnt/c/Users/neuma/Desktop/SP/Lista3/p-0/app_1/branches/268451$ svn merge https://repo.cs.pwr.edu.pl/p-0/app_1/trunk/
+Authentication realm: <https://repo.cs.pwr.edu.pl:443> Subversion Repository 
+Password for '268451': 
+
+--- Recording mergeinfo for merge of r144 through r145 into '.':
+ U   .
+spiryd@SpirydRoot:/mnt/c/Users/neuma/Desktop/SP/Lista3/p-0/app_1/branches/268451$ svn commit -m"synchronizacja 268451 z trunk"
+Authentication realm: <https://repo.cs.pwr.edu.pl:443> Subversion Repository 
+Password for '268451': 
+
+Sending        .
+Committing transaction...
+Committed revision 147.
+spiryd@SpirydRoot:/mnt/c/Users/neuma/Desktop/SP/Lista3/p-0/app_1/branches/268451$ svn mergeinfo ../../trunk
+Authentication realm: <https://repo.cs.pwr.edu.pl:443> Subversion Repository 
+Password for '268451': 
+
+    youngest common ancestor
+    |         last full merge
+    |         |        tip of branch
+    |         |        |         repository path
+
+    143                147
+    |                  |
+  -------| |------------         app_1/trunk
+     \
+      \
+       --| |------------         app_1/branches/268451
+                       |
+                       WC
+spiryd@SpirydRoot:/mnt/c/Users/neuma/Desktop/SP/Lista3/p-0/app_1/trunk$ svn merge --reintegrate https://repo.cs.pwr.edu.pl/p-0/app_1/branches/268451
+Authentication realm: <https://repo.cs.pwr.edu.pl:443> Subversion Repository 
+Password for '268451': 
+
+--- Merging differences between repository URLs into '.':
+U    README
+C    main.c
+C    makefile
+C    program.h
+A    s268451_podprogram.c
+ G   .
+--- Recording mergeinfo for merge between repository URLs into '.':
+ U   .
+Summary of conflicts:
+  Text conflicts: 3
+Merge conflict discovered in file 'main.c'.
+Select: (p) Postpone, (df) Show diff, (e) Edit file, (m) Merge,
+        (s) Show all options: p
+Merge conflict discovered in file 'makefile'.
+Select: (p) Postpone, (df) Show diff, (e) Edit file, (m) Merge,
+        (s) Show all options: p
+Merge conflict discovered in file 'program.h'.
+Select: (p) Postpone, (df) Show diff, (e) Edit file, (m) Merge,
+        (s) Show all options: p
+Summary of conflicts:
+  Text conflicts: 3
+spiryd@SpirydRoot:/mnt/c/Users/neuma/Desktop/SP/Lista3/p-0/app_1/trunk$ svn status
+ M      .
+M       README
+C       main.c
+?       main.c.merge-left.r145
+?       main.c.merge-right.r149
+?       main.c.working
+C       makefile
+?       makefile.merge-left.r145
+?       makefile.merge-right.r149
+?       makefile.working
+C       program.h
+?       program.h.merge-left.r145
+?       program.h.merge-right.r149
+?       program.h.working
+A  +    s268451_podprogram.c
+Summary of conflicts:
+  Text conflicts: 3
+spiryd@SpirydRoot:/mnt/c/Users/neuma/Desktop/SP/Lista3/p-0/app_1/trunk$ cat main.c
+#include "program.h"
+
+int main(int argc, char *argv[])
+{
+
+  if (argc != 2)
+  {
+    program_usage();
+    exit(EXIT_FAILURE);
+  }
+
+  {
+    int idx = atoi(argv[1]);
+    switch (idx)
+    {
+    case 0:
+      s0_podprogram(); // podprogram studenta o numerze indeksu 0
+      break;
+    case 999:
+      s999_podprogram(); // podprogram studenta o numerze indeksu 999
+      break;
+    case 268426:
+      s268426_podprogram();
+      break;
+    case 268416:
+      s268416_podprogram();
+      break;
+    case 268418:
+      s268418_podprogram();
+      break;
+    case 268459:
+      s268459_podprogram();
+      break;
+    case 268421:
+      s268421_podprogram();
+      break;
+    case 268441:
+      s268441_podprogram();
+      break;
+    case 268434:
+      s268434_podprogram();
+      break;
+    case 268442:
+      s268442_podprogram();
+      break;
+    case 268462:
+      s268462_podprogram();
+      break;
+    case 261756:
+      s261756_podprogram();
+      break;
+    case 268424:
+      s268424_podprogram();
+      break;
+    case 268450:
+      s268450_podprogram();
+      break;
+    case 254635:
+      s254635_podprogram();
+      break;
+    case 268444:
+      s268444_podprogram();
+      break;
+    case 268458:
+      s268458_podprogram();
+      break;
+    case 268454:
+      s268454_podprogram(); // podprogram studenta o indeksie 268454
+      break;
+    case 268436:
+      s268436_podprogram();
+      break;
+    case 254652:
+      s254652_podprogram(); // podprogram studenta o indeksie 254652
+      break;
+<<<<<<< .working
+    case 268423:
+      s268423_podprogram();
+      break;
+||||||| .merge-left.r145
+=======
+    case 268451:
+      s268451_podprogram(); // podprogram studenta o numerze indeksu 268451
+      break;
+>>>>>>> .merge-right.r149
+    default:
+      printf("\nStudent o numerze indeksu %d nie wykonał jeszcze zadania\n\n", idx);
+      break;
+    }
+  }
+  exit(EXIT_SUCCESS);
+}
+spiryd@SpirydRoot:/mnt/c/Users/neuma/Desktop/SP/Lista3/p-0/app_1/trunk$ cat main.c
+#include "program.h"
+
+int main(int argc, char *argv[])
+{
+
+  if (argc != 2)
+  {
+    program_usage();
+    exit(EXIT_FAILURE);
+  }
+
+  {
+    int idx = atoi(argv[1]);
+    switch (idx)
+    {
+    case 0:
+      s0_podprogram(); // podprogram studenta o numerze indeksu 0
+      break;
+    case 999:
+      s999_podprogram(); // podprogram studenta o numerze indeksu 999
+      break;
+    case 268426:
+      s268426_podprogram();
+      break;
+    case 268416:
+      s268416_podprogram();
+      break;
+    case 268418:
+      s268418_podprogram();
+      break;
+    case 268459:
+      s268459_podprogram();
+      break;
+    case 268421:
+      s268421_podprogram();
+      break;
+    case 268441:
+      s268441_podprogram();
+      break;
+    case 268434:
+      s268434_podprogram();
+      break;
+    case 268442:
+      s268442_podprogram();
+      break;
+    case 268462:
+      s268462_podprogram();
+      break;
+    case 261756:
+      s261756_podprogram();
+      break;
+    case 268424:
+      s268424_podprogram();
+      break;
+    case 268450:
+      s268450_podprogram();
+      break;
+    case 254635:
+      s254635_podprogram();
+      break;
+    case 268444:
+      s268444_podprogram();
+      break;
+    case 268458:
+      s268458_podprogram();
+      break;
+    case 268454:
+      s268454_podprogram(); // podprogram studenta o indeksie 268454
+      break;
+    case 268436:
+      s268436_podprogram();
+      break;
+    case 254652:
+      s254652_podprogram(); // podprogram studenta o indeksie 254652
+      break;
+    case 268423:
+      s268423_podprogram();
+      break;
+    case 268451:
+      s268451_podprogram(); // podprogram studenta o numerze indeksu 268451
+      break;
+    default:
+      printf("\nStudent o numerze indeksu %d nie wykonał jeszcze zadania\n\n", idx);
+      break;
+    }
+  }
+  exit(EXIT_SUCCESS);
+}
+spiryd@SpirydRoot:/mnt/c/Users/neuma/Desktop/SP/Lista3/p-0/app_1/trunk$ cat makefile
+objects = main.o program_usage.o \
+          s0_podprogram.o \
+          s999_podprogram.o \
+          s268426_podprogram.o \
+          s268416_podprogram.o \
+                  s268418_podprogram.o \
+          s268459_podprogram.o \
+          s268421_podprogram.o  \
+                  s268441_podprogram.o \
+          s268434_podprogram.o \
+          s268442_podprogram.o \
+          s268462_podprogram.o \
+          s261756_podprogram.o \
+          s268424_podprogram.o \
+          s268450_podprogram.o \
+          s254635_podprogram.o \
+          s268444_podprogram.o \
+          s268458_podprogram.o \
+          s268454_podprogram.o \
+          s268436_podprogram.o \
+          s254652_podprogram.o \
+<<<<<<< .working
+          s268423_podprogram.o \
+||||||| .merge-left.r145
+=======
+          s268451_podprogram.o \
+>>>>>>> .merge-right.r149
+
+program : $(objects)
+        cc -o program $(objects) -lm
+main.o : program.h
+
+program_usage.o : program.h
+
+s0_podprogram.o : program.h
+
+s999_podprogram.o : program.h
+
+s268426_podprogram.o : program.h
+
+s268416_podprogram.o : program.h
+
+s268418_podprogram.o : program.h
+
+s268459_podprogram.o : program.h
+
+s268421_podprogram.o : program.h
+
+s268441_podprogram.o : program.h
+
+s268434_podprogram.o : program.h
+
+s268442_podprogram.o : program.h
+
+s268462_podprogram.o : program.h
+
+s261756_podprogram.o : program.h
+
+s268424_podprogram.o : program.h
+
+s268450_podprogram.o : program.h
+
+s268444_podprogram.o : program.h
+
+s268458_podprogram.o : program.h
+
+s268436_podprogram.o : program.h
+
+s254652_podprogram.o : program.h
+
+<<<<<<< .working
+s268423_podprogram.o : program.h
+
+||||||| .merge-left.r145
+=======
+s268451_podprogram.o : program.h
+
+>>>>>>> .merge-right.r149
+.PHONY : clean
+
+clean :
+        -rm *.o program
+spiryd@SpirydRoot:/mnt/c/Users/neuma/Desktop/SP/Lista3/p-0/app_1/trunk$ cat makefile
+objects = main.o program_usage.o \
+          s0_podprogram.o \
+          s999_podprogram.o \
+          s268426_podprogram.o \
+          s268416_podprogram.o \
+                  s268418_podprogram.o \
+          s268459_podprogram.o \
+          s268421_podprogram.o  \
+                  s268441_podprogram.o \
+          s268434_podprogram.o \
+          s268442_podprogram.o \
+          s268462_podprogram.o \
+          s261756_podprogram.o \
+          s268424_podprogram.o \
+          s268450_podprogram.o \
+          s254635_podprogram.o \
+          s268444_podprogram.o \
+          s268458_podprogram.o \
+          s268454_podprogram.o \
+          s268436_podprogram.o \
+          s254652_podprogram.o \
+          s268423_podprogram.o \
+          s268451_podprogram.o \
+
+program : $(objects)
+        cc -o program $(objects) -lm
+main.o : program.h
+
+program_usage.o : program.h
+
+s0_podprogram.o : program.h
+
+s999_podprogram.o : program.h
+
+s268426_podprogram.o : program.h
+
+s268416_podprogram.o : program.h
+
+s268418_podprogram.o : program.h
+
+s268459_podprogram.o : program.h
+
+s268421_podprogram.o : program.h
+
+s268441_podprogram.o : program.h
+
+s268434_podprogram.o : program.h
+
+s268442_podprogram.o : program.h
+
+s268462_podprogram.o : program.h
+
+s261756_podprogram.o : program.h
+
+s268424_podprogram.o : program.h
+
+s268450_podprogram.o : program.h
+
+s268444_podprogram.o : program.h
+
+s268458_podprogram.o : program.h
+
+s268436_podprogram.o : program.h
+
+s254652_podprogram.o : program.h
+
+s268423_podprogram.o : program.h
+
+s268451_podprogram.o : program.h
+
+.PHONY : clean
+
+clean :
+        -rm *.o program
+spiryd@SpirydRoot:/mnt/c/Users/neuma/Desktop/SP/Lista3/p-0/app_1/trunk$ cat program.h
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include <unistd.h>
+
+/* deklaracje funkcji używanych w programie */
+void program_usage();
+
+/* tu studenci mogą deklarować własne funkcje.
+   Wszystkie nazwy funkcji studenta o numerze indeksu NNNNNN
+   powinny rozpoczynać się od przedrostka sNNNNNN_
+   aby nie kolidowały z nazwami funkcji innych studentów */
+
+void s0_podprogram();      /* funkcja studenta 0 */
+void s999_podprogram();    /* funkcja studenta 999 */
+void s268426_podprogram(); /* funkcja studenta 268426 */
+void s268459_podprogram(); /* funkcja studenta 268459 */
+void s268416_podprogram(); /* funkcja studenta 268416 */
+void s268418_podprogram(); /* funkcja studenta 268418 */
+void s268421_podprogram(); /* funkcja studenta 268421 */
+void s268441_podprogram(); /* funkcja studenta 268441 */
+void s268434_podprogram(); /* funkcja studenta 268434 */
+void s268442_podprogram(); /* funkcja studenta 268442 */
+void s268462_podprogram(); /* funkcja studenta 268462 */
+void s261756_podprogram(); /* funkcja studenta 261756 */
+void s268424_podprogram(); /* funkcja studenta 268424 */
+void s268450_podprogram(); /* funkcja studenta 268450 */
+void s254635_podprogram(); /* funkcja studenta 254635 */
+void s268444_podprogram(); /* funkcja studenta 268444 */
+void s268458_podprogram(); /* funkcja studenta 268444 */
+void s268454_podprogram(); /* funckja studenta 268454 */
+void s268436_podprogram(); /* funkcja studenta 268436 */
+void s254652_podprogram(); /* funkcja studenta 254652 */
+<<<<<<< .working
+void s268423_podprogram(); /* funkcja studenta 666666 */
+||||||| .merge-left.r145
+=======
+void s268451_podprogram(); /* funkcja studenta 268451 */
+>>>>>>> .merge-right.r149
+spiryd@SpirydRoot:/mnt/c/Users/neuma/Desktop/SP/Lista3/p-0/app_1/trunk$ cat program.h
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include <unistd.h>
+
+/* deklaracje funkcji używanych w programie */
+void program_usage();
+
+/* tu studenci mogą deklarować własne funkcje.
+   Wszystkie nazwy funkcji studenta o numerze indeksu NNNNNN
+   powinny rozpoczynać się od przedrostka sNNNNNN_
+   aby nie kolidowały z nazwami funkcji innych studentów */
+
+void s0_podprogram();      /* funkcja studenta 0 */
+void s999_podprogram();    /* funkcja studenta 999 */
+void s268426_podprogram(); /* funkcja studenta 268426 */
+void s268459_podprogram(); /* funkcja studenta 268459 */
+void s268416_podprogram(); /* funkcja studenta 268416 */
+void s268418_podprogram(); /* funkcja studenta 268418 */
+void s268421_podprogram(); /* funkcja studenta 268421 */
+void s268441_podprogram(); /* funkcja studenta 268441 */
+void s268434_podprogram(); /* funkcja studenta 268434 */
+void s268442_podprogram(); /* funkcja studenta 268442 */
+void s268462_podprogram(); /* funkcja studenta 268462 */
+void s261756_podprogram(); /* funkcja studenta 261756 */
+void s268424_podprogram(); /* funkcja studenta 268424 */
+void s268450_podprogram(); /* funkcja studenta 268450 */
+void s254635_podprogram(); /* funkcja studenta 254635 */
+void s268444_podprogram(); /* funkcja studenta 268444 */
+void s268458_podprogram(); /* funkcja studenta 268444 */
+void s268454_podprogram(); /* funckja studenta 268454 */
+void s268436_podprogram(); /* funkcja studenta 268436 */
+void s254652_podprogram(); /* funkcja studenta 254652 */
+void s268423_podprogram(); /* funkcja studenta 666666 */
+void s268451_podprogram(); /* funkcja studenta 268451 */
+spiryd@SpirydRoot:/mnt/c/Users/neuma/Desktop/SP/Lista3/p-0/app_1/trunk$ svn resolve --accept=working main.c
+Merge conflicts in 'main.c' marked as resolved.
+spiryd@SpirydRoot:/mnt/c/Users/neuma/Desktop/SP/Lista3/p-0/app_1/trunk$ svn resolve --accept=working makefile
+Merge conflicts in 'makefile' marked as resolved.
+spiryd@SpirydRoot:/mnt/c/Users/neuma/Desktop/SP/Lista3/p-0/app_1/trunk$ svn resolve --accept=working program.h
+Merge conflicts in 'program.h' marked as resolved.
+spiryd@SpirydRoot:/mnt/c/Users/neuma/Desktop/SP/Lista3/p-0/app_1/trunk$ svn commit -m "Resolved conflicts and merged branch into trunk"
+Authentication realm: <https://repo.cs.pwr.edu.pl:443> Subversion Repository 
+Password for '268451': 
+
+Sending        .
+Sending        README
+Sending        main.c
+Sending        makefile
+Sending        program.h
+Adding         s268451_podprogram.c
+Transmitting file data ....done
+Committing transaction...
+Committed revision 150.
+spiryd@SpirydRoot:/mnt/c/Users/neuma/Desktop/SP/Lista3/p-0/app_1/trunk$ make
+cc    -c -o main.o main.c
+cc    -c -o program_usage.o program_usage.c
+cc    -c -o s0_podprogram.o s0_podprogram.c
+cc    -c -o s999_podprogram.o s999_podprogram.c
+cc    -c -o s268426_podprogram.o s268426_podprogram.c
+cc    -c -o s268416_podprogram.o s268416_podprogram.c
+cc    -c -o s268418_podprogram.o s268418_podprogram.c
+cc    -c -o s268459_podprogram.o s268459_podprogram.c
+cc    -c -o s268421_podprogram.o s268421_podprogram.c
+cc    -c -o s268441_podprogram.o s268441_podprogram.c
+cc    -c -o s268434_podprogram.o s268434_podprogram.c
+cc    -c -o s268442_podprogram.o s268442_podprogram.c
+cc    -c -o s268462_podprogram.o s268462_podprogram.c
+cc    -c -o s261756_podprogram.o s261756_podprogram.c
+cc    -c -o s268424_podprogram.o s268424_podprogram.c
+cc    -c -o s268450_podprogram.o s268450_podprogram.c
+cc    -c -o s254635_podprogram.o s254635_podprogram.c
+cc    -c -o s268444_podprogram.o s268444_podprogram.c
+cc    -c -o s268458_podprogram.o s268458_podprogram.c
+cc    -c -o s268454_podprogram.o s268454_podprogram.c
+cc    -c -o s268436_podprogram.o s268436_podprogram.c
+cc    -c -o s254652_podprogram.o s254652_podprogram.c
+cc    -c -o s268423_podprogram.o s268423_podprogram.c
+cc    -c -o s268451_podprogram.o s268451_podprogram.c
+cc -o program main.o program_usage.o s0_podprogram.o s999_podprogram.o s268426_podprogram.o s268416_podprogram.o s268418_podprogram.o s268459_podprogram.o s268421_podprogram.o s268441_podprogram.o s268434_podprogram.o s268442_podprogram.o s268462_podprogram.o s261756_podprogram.o s268424_podprogram.o s268450_podprogram.o s254635_podprogram.o s268444_podprogram.o s268458_podprogram.o s268454_podprogram.o s268436_podprogram.o s254652_podprogram.o s268423_podprogram.o s268451_podprogram.o  -lm
+spiryd@SpirydRoot:/mnt/c/Users/neuma/Desktop/SP/Lista3/p-0/app_1/trunk$ ./program 268451
+Maksymilian Neumann nr indeksu: 268451
+Program drukuje: 'Jestem Wybitnym Programem'
+Jestem Wybitnym Programem
+spiryd@SpirydRoot:/mnt/c/Users/neuma/Desktop/SP/Lista3/p-0/app_1/trunk$ make clean
+rm *.o program
+spiryd@SpirydRoot:/mnt/c/Users/neuma/Desktop/SP/Lista3/p-0/app_1/trunk$ svn delete https://repo.cs.pwr.edu.pl/p-0/app_1/branches/268451/ -m "Usuwanie branch po reintegracji"
+Authentication realm: <https://repo.cs.pwr.edu.pl:443> Subversion Repository 
+Password for '268451': 
+
+Committing transaction...
+Committed revision 151.
+spiryd@SpirydRoot:/mnt/c/Users/neuma/Desktop/SP/Lista3/p-0/app_1/trunk$ svn copy https://repo.cs.pwr.edu.pl/p-0/app_1/trunk/ https://repo.cs.pwr.edu.pl/p-0/app_1/tags/v_268451 -m "Tworze tag dla 268451"
+Authentication realm: <https://repo.cs.pwr.edu.pl:443> Subversion Repository 
+Password for '268451': 
+
+Committing transaction...
+Committed revision 153.
+spiryd@SpirydRoot:/mnt/c/Users/neuma/Desktop/SP/Lista3/p-0/app_1/tags/v_268451$ svn diff https://repo.cs.pwr.edu.pl/p-0/app_1/trunk@150 https://repo.cs.pwr.edu.pl/p-0/app_1/tags/v_268451
+Authentication realm: <https://repo.cs.pwr.edu.pl:443> Subversion Repository 
+Password for '268451':
+
+spiryd@SpirydRoot:/mnt/c/Users/neuma/Desktop/SP/Lista3/p-0/app_1/tags/v_268451$ svn log -g
+Authentication realm: <https://repo.cs.pwr.edu.pl:443> Subversion Repository 
+Password for '268451': 
+
+------------------------------------------------------------------------
+r153 | 268451 | 2024-11-14 20:15:42 +0100 (Thu, 14 Nov 2024) | 1 line
+
+Tworze tag dla 268451
+------------------------------------------------------------------------
+r150 | 268451 | 2024-11-14 20:07:09 +0100 (Thu, 14 Nov 2024) | 1 line
+
+Resolved conflicts and merged branch into trunk
+------------------------------------------------------------------------
+r147 | 268451 | 2024-11-14 19:52:29 +0100 (Thu, 14 Nov 2024) | 1 line
+Merged via: r150
+
+synchronizacja 268451 z trunk
+------------------------------------------------------------------------
+r144 | 268451 | 2024-11-14 19:43:53 +0100 (Thu, 14 Nov 2024) | 1 line
+Merged via: r150
+
+268451 working
+------------------------------------------------------------------------
+r146 | 268423 | 2024-11-14 19:51:59 +0100 (Thu, 14 Nov 2024) | 1 line
+
+merge of new feature 268423
+------------------------------------------------------------------------
+r145 | 268423 | 2024-11-14 19:49:37 +0100 (Thu, 14 Nov 2024) | 1 line
+Merged via: r146
+
+added some code
+------------------------------------------------------------------------
+r142 | 268423 | 2024-11-14 15:03:22 +0100 (Thu, 14 Nov 2024) | 1 line
+Merged via: r146
+
+268423 feature branch
+------------------------------------------------------------------------
+r140 | 254652 | 2024-11-14 14:56:33 +0100 (Thu, 14 Nov 2024) | 1 line
+
+Reintagracja branch'a 254652 z trunk
+------------------------------------------------------------------------
+r134 | 268436 | 2024-11-14 13:26:45 +0100 (Thu, 14 Nov 2024) | 1 line
+
+268436 merge into trunk
+------------------------------------------------------------------------
+r133 | 268436 | 2024-11-14 13:22:50 +0100 (Thu, 14 Nov 2024) | 1 line
+Merged via: r134
+
+268436 synchronize with trunk
+------------------------------------------------------------------------
+r132 | 268436 | 2024-11-14 13:13:35 +0100 (Thu, 14 Nov 2024) | 1 line
+Merged via: r134
+
+268436 create program
+------------------------------------------------------------------------
+r131 | 268436 | 2024-11-14 12:50:43 +0100 (Thu, 14 Nov 2024) | 1 line
+Merged via: r134
+
+268436 create branch
+------------------------------------------------------------------------
+r126 | 268418 | 2024-11-14 11:51:23 +0100 (Thu, 14 Nov 2024) | 1 line
+
+Merge galezi 268418
+------------------------------------------------------------------------
+r123 | 268418 | 2024-11-14 11:37:57 +0100 (Thu, 14 Nov 2024) | 1 line
+Merged via: r126
+
+Implementacja programu 268418
+------------------------------------------------------------------------
+r120 | 268418 | 2024-11-14 11:15:32 +0100 (Thu, 14 Nov 2024) | 1 line
+Merged via: r126
+
+268418 new branch
+------------------------------------------------------------------------
+r125 | 268454 | 2024-11-14 11:49:36 +0100 (Thu, 14 Nov 2024) | 1 line
+
+reintragracja galezji 268454
+------------------------------------------------------------------------
+r124 | 268454 | 2024-11-14 11:46:22 +0100 (Thu, 14 Nov 2024) | 1 line
+Merged via: r125
+
+scalenie
+------------------------------------------------------------------------
+r122 | 268454 | 2024-11-14 11:36:22 +0100 (Thu, 14 Nov 2024) | 1 line
+Merged via: r125
+
+readme
+------------------------------------------------------------------------
+r121 | 268454 | 2024-11-14 11:33:14 +0100 (Thu, 14 Nov 2024) | 1 line
+Merged via: r125
+
+dodanie funkcjonalnosci na brancha
+------------------------------------------------------------------------
+r119 | 268454 | 2024-11-14 11:09:18 +0100 (Thu, 14 Nov 2024) | 1 line
+Merged via: r125
+
+utworzenie galezi dla 268454
+------------------------------------------------------------------------
+r116 | 268458 | 2024-11-13 14:06:54 +0100 (Wed, 13 Nov 2024) | 1 line
+
+Reintegracja 268458 z trunk
+------------------------------------------------------------------------
+r115 | 268458 | 2024-11-13 14:04:43 +0100 (Wed, 13 Nov 2024) | 1 line
+Merged via: r116
+
+268458 podprogram
+------------------------------------------------------------------------
+r114 | 268458 | 2024-11-13 14:00:41 +0100 (Wed, 13 Nov 2024) | 2 lines
+Merged via: r116
+
+Nowy branch 268458
+
+------------------------------------------------------------------------
+r110 | 268444 | 2024-11-12 23:55:22 +0100 (Tue, 12 Nov 2024) | 1 line
+
+Merge branch 268444 into trunk
+------------------------------------------------------------------------
+r109 | 268444 | 2024-11-12 23:53:19 +0100 (Tue, 12 Nov 2024) | 1 line
+Merged via: r110
+
+Add s268444 feature
+------------------------------------------------------------------------
+r108 | 268444 | 2024-11-12 23:45:41 +0100 (Tue, 12 Nov 2024) | 1 line
+Merged via: r110
+
+Create branch for 268444
+------------------------------------------------------------------------
+r105 | 254635 | 2024-11-12 17:49:10 +0100 (Tue, 12 Nov 2024) | 1 line
+
+Merging changes from 254645 branch
+------------------------------------------------------------------------
+r104 | 254635 | 2024-11-12 17:45:15 +0100 (Tue, 12 Nov 2024) | 1 line
+Merged via: r105
+
+Added functionality from student 254635
+------------------------------------------------------------------------
+r103 | 254635 | 2024-11-12 17:33:02 +0100 (Tue, 12 Nov 2024) | 1 line
+Merged via: r105
+
+Created branch for 254635 functionality
+------------------------------------------------------------------------
+r100 | 268450 | 2024-11-12 12:31:54 +0100 (Tue, 12 Nov 2024) | 1 line
+
+merging 268450 into the trunk
+------------------------------------------------------------------------
+r99 | 268450 | 2024-11-12 12:29:18 +0100 (Tue, 12 Nov 2024) | 1 line
+Merged via: r100
+
+keeping branch up-to-date with trunk
+------------------------------------------------------------------------
+r98 | 268450 | 2024-11-12 12:22:15 +0100 (Tue, 12 Nov 2024) | 1 line
+Merged via: r100
+
+branch 268450
+------------------------------------------------------------------------
+r95 | 268424 | 2024-11-12 00:35:12 +0100 (Tue, 12 Nov 2024) | 1 line
+
+Reintegracja gałęzi 268424 z trunk-iem
+------------------------------------------------------------------------
+r94 | 268424 | 2024-11-12 00:23:57 +0100 (Tue, 12 Nov 2024) | 1 line
+Merged via: r95
+
+Implementacja procedury
+------------------------------------------------------------------------
+r93 | 268424 | 2024-11-12 00:14:17 +0100 (Tue, 12 Nov 2024) | 1 line
+Merged via: r95
+
+Synchronizacja gałęzi 268424 z trunk-iem
+------------------------------------------------------------------------
+r92 | 268424 | 2024-11-11 22:04:13 +0100 (Mon, 11 Nov 2024) | 1 line
+Merged via: r95
+
+Student 268424 tworzy gałąź https://repo.cs.pwr.edu.pl/p-0/app_1/branches/268424
+------------------------------------------------------------------------
+r89 | 261756 | 2024-11-11 14:52:26 +0100 (Mon, 11 Nov 2024) | 1 line
+
+merge feature 261756
+------------------------------------------------------------------------
+r88 | 261756 | 2024-11-11 14:43:03 +0100 (Mon, 11 Nov 2024) | 1 line
+Merged via: r89
+
+feature 261756
+------------------------------------------------------------------------
+r87 | 261756 | 2024-11-11 11:32:54 +0100 (Mon, 11 Nov 2024) | 1 line
+Merged via: r89
+
+synch
+------------------------------------------------------------------------
+r86 | 261756 | 2024-11-11 11:28:43 +0100 (Mon, 11 Nov 2024) | 1 line
+Merged via: r89
+
+tworze branch 261756
+------------------------------------------------------------------------
+r83 | 268462 | 2024-11-10 22:52:12 +0100 (Sun, 10 Nov 2024) | 1 line
+
+reintegrate 268462
+------------------------------------------------------------------------
+r82 | 268462 | 2024-11-10 22:46:41 +0100 (Sun, 10 Nov 2024) | 1 line
+Merged via: r83
+
+merge trunk to branch 268462
+------------------------------------------------------------------------
+r81 | 268462 | 2024-11-10 22:41:06 +0100 (Sun, 10 Nov 2024) | 1 line
+Merged via: r83
+
+dodanie funkcjonalności - drukowanie choinki
+------------------------------------------------------------------------
+r80 | 268462 | 2024-11-10 22:32:21 +0100 (Sun, 10 Nov 2024) | 1 line
+Merged via: r83
+
+utworzenie brancha 268462
+------------------------------------------------------------------------
+r77 | 268442 | 2024-11-09 14:58:36 +0100 (Sat, 09 Nov 2024) | 1 line
+
+Wyczyszczenie kopii trunka
+------------------------------------------------------------------------
+r74 | 268442 | 2024-11-09 14:45:47 +0100 (Sat, 09 Nov 2024) | 1 line
+
+Scalenie gałęzi 268442 z trunkiem
+------------------------------------------------------------------------
+r73 | 268442 | 2024-11-09 14:31:14 +0100 (Sat, 09 Nov 2024) | 1 line
+Merged via: r74
+
+zmieniono wlasnosc mime-type dla pliku s268442_podprogram.c
+------------------------------------------------------------------------
+r72 | 268442 | 2024-11-09 14:29:33 +0100 (Sat, 09 Nov 2024) | 1 line
+Merged via: r74
+
+Dodano program s268442_podprogram.c
+------------------------------------------------------------------------
+r71 | 268442 | 2024-11-09 14:08:30 +0100 (Sat, 09 Nov 2024) | 1 line
+Merged via: r74
+
+Creating the branch
+------------------------------------------------------------------------
+r70 | 268442 | 2024-11-09 14:05:59 +0100 (Sat, 09 Nov 2024) | 1 line
+Merged via: r74
+
+Creating the branch
+------------------------------------------------------------------------
+r67 | 268434 | 2024-11-08 20:56:05 +0100 (Fri, 08 Nov 2024) | 1 line
+
+merged branch 268434 to trunk
+------------------------------------------------------------------------
+r66 | 268434 | 2024-11-08 20:53:57 +0100 (Fri, 08 Nov 2024) | 1 line
+Merged via: r67
+
+synchronized branch 268434 with trunk
+------------------------------------------------------------------------
+r65 | 268434 | 2024-11-08 20:48:50 +0100 (Fri, 08 Nov 2024) | 1 line
+Merged via: r67
+
+added function for 268434
+------------------------------------------------------------------------
+r64 | 268434 | 2024-11-08 19:28:30 +0100 (Fri, 08 Nov 2024) | 1 line
+Merged via: r67
+
+Creating branch for 268434
+------------------------------------------------------------------------
+r53 | 268441 | 2024-11-08 13:26:57 +0100 (Fri, 08 Nov 2024) | 1 line
+
+268441 merge
+------------------------------------------------------------------------
+r52 | 268441 | 2024-11-08 12:57:39 +0100 (Fri, 08 Nov 2024) | 1 line
+Merged via: r53
+
+dodano branch 268441
+------------------------------------------------------------------------
+r49 | 268421 | 2024-11-07 22:52:48 +0100 (Thu, 07 Nov 2024) | 1 line
+
+merge 268421 back into trunk
+------------------------------------------------------------------------
+r48 | 268421 | 2024-11-07 22:46:42 +0100 (Thu, 07 Nov 2024) | 1 line
+Merged via: r49
+
+try merge 268421 into trunk again
+------------------------------------------------------------------------
+r47 | 268421 | 2024-11-07 22:44:35 +0100 (Thu, 07 Nov 2024) | 1 line
+Merged via: r49
+
+merge 268421 with trunk
+------------------------------------------------------------------------
+r46 | 268421 | 2024-11-07 22:27:19 +0100 (Thu, 07 Nov 2024) | 1 line
+Merged via: r49
+
+creating private branch for 268421
+------------------------------------------------------------------------
+r43 | 268459 | 2024-11-07 18:08:54 +0100 (Thu, 07 Nov 2024) | 1 line
+
+last one
+------------------------------------------------------------------------
+r40 | 268459 | 2024-11-07 18:05:58 +0100 (Thu, 07 Nov 2024) | 1 line
+
+last one
+------------------------------------------------------------------------
+r37 | 268459 | 2024-11-07 18:02:11 +0100 (Thu, 07 Nov 2024) | 1 line
+
+dodanie deklaracji dla 268416
+------------------------------------------------------------------------
+r34 | 268459 | 2024-11-07 17:54:34 +0100 (Thu, 07 Nov 2024) | 1 line
+
+dodano #include program.h do podprogramu
+------------------------------------------------------------------------
+r31 | 268459 | 2024-11-07 17:38:22 +0100 (Thu, 07 Nov 2024) | 1 line
+
+scalenie gałezi branch_268459 do trunk
+------------------------------------------------------------------------
+r30 | 268459 | 2024-11-07 17:30:58 +0100 (Thu, 07 Nov 2024) | 1 line
+Merged via: r31
+
+Zatwierdzenie lokalnych zmian przed scalaniem
+------------------------------------------------------------------------
+r29 | 268459 | 2024-11-07 17:20:57 +0100 (Thu, 07 Nov 2024) | 1 line
+Merged via: r31
+
+dodałem swój program
+------------------------------------------------------------------------
+r28 | 268459 | 2024-11-07 17:13:59 +0100 (Thu, 07 Nov 2024) | 1 line
+Merged via: r31
+
+Utworzenie gałęzi dla indeksu 268459
+------------------------------------------------------------------------
+r25 | 268416 | 2024-11-05 23:02:44 +0100 (Tue, 05 Nov 2024) | 1 line
+
+268416 merguje gałąź z trunkiem
+------------------------------------------------------------------------
+r24 | 268416 | 2024-11-05 22:57:48 +0100 (Tue, 05 Nov 2024) | 1 line
+Merged via: r25
+
+268416 synchronizuje gałąź z trunk
+------------------------------------------------------------------------
+r23 | 268416 | 2024-11-05 22:47:46 +0100 (Tue, 05 Nov 2024) | 1 line
+Merged via: r25
+
+268416 zaimplementował swoją procedurę
+------------------------------------------------------------------------
+r22 | 268416 | 2024-11-05 22:09:09 +0100 (Tue, 05 Nov 2024) | 2 lines
+Merged via: r25
+
+Student 268416 tworzy własną gałąź https://repo.cs.pwr.edu.pl/p-0/app_1/branches/268416
+
+------------------------------------------------------------------------
+r17 | 268426 | 2024-11-05 16:39:41 +0100 (Tue, 05 Nov 2024) | 1 line
+
+Merge branch 268426 to trunk
+------------------------------------------------------------------------
+r16 | 268426 | 2024-11-05 16:37:39 +0100 (Tue, 05 Nov 2024) | 1 line
+Merged via: r17
+
+Merge trunk changes to branch 268426
+------------------------------------------------------------------------
+r15 | 268426 | 2024-11-05 16:36:13 +0100 (Tue, 05 Nov 2024) | 1 line
+Merged via: r17
+
+Add new function for student 268426
+------------------------------------------------------------------------
+r14 | 268426 | 2024-11-05 16:25:01 +0100 (Tue, 05 Nov 2024) | 1 line
+Merged via: r17
+
+
+------------------------------------------------------------------------
+r13 | mk1 | 2024-10-29 13:45:35 +0100 (Tue, 29 Oct 2024) | 2 lines
+
+wykonano: `svn propset svn:mime-type 'text/plain;charset=utf-8' $(find app_1/ -type f )`
+
+------------------------------------------------------------------------
+r12 | admin | 2020-11-12 10:52:01 +0100 (Thu, 12 Nov 2020) | 2 lines
+
+Poprawione kodowanie README i względny adres katalogu z tagami.
+
+------------------------------------------------------------------------
+r10 | 999 | 2016-10-24 13:55:29 +0200 (Mon, 24 Oct 2016) | 3 lines
+
+999 zreintegrował swoją gałąź z trunk-iem
+
+
+------------------------------------------------------------------------
+r9 | 999 | 2016-10-24 13:50:09 +0200 (Mon, 24 Oct 2016) | 2 lines
+Merged via: r10
+
+999 wprowadza opis swojego podprogramu do README - ostateczna wersja jego gałęzi
+
+------------------------------------------------------------------------
+r8 | 999 | 2016-10-24 13:46:37 +0200 (Mon, 24 Oct 2016) | 2 lines
+Merged via: r10
+
+999 ponownie synchronizuje swoją gałąź z trunk
+
+------------------------------------------------------------------------
+r5 | 999 | 2016-10-24 13:37:15 +0200 (Mon, 24 Oct 2016) | 3 lines
+Merged via: r10
+
+999 zaimplementował swoją procedurę
+
+
+------------------------------------------------------------------------
+r4 | 999 | 2016-10-24 13:21:53 +0200 (Mon, 24 Oct 2016) | 3 lines
+Merged via: r10
+
+999 synchronizuje swoją gałąź z trunk
+
+
+------------------------------------------------------------------------
+r2 | 999 | 2016-10-17 16:01:19 +0200 (Mon, 17 Oct 2016) | 1 line
+Merged via: r10
+
+student 999 tworzy własną gałąź https://156.17.7.16/svn/lab/piaskownica/app_1/branches/999
+------------------------------------------------------------------------
+r7 | admin | 2016-10-24 13:44:15 +0200 (Mon, 24 Oct 2016) | 3 lines
+
+Dodatkowe wyjaśnienia w pliku README o tworzeniu tag-ów
+
+
+------------------------------------------------------------------------
+r3 | 999 | 2016-10-24 13:04:10 +0200 (Mon, 24 Oct 2016) | 2 lines
+
+dodano plik README w trunk
+
+------------------------------------------------------------------------
+r1 | admin | 2016-10-17 14:28:36 +0200 (Mon, 17 Oct 2016) | 3 lines
+
+początkowa wersja projektu.
+
+
+------------------------------------------------------------------------
+spiryd@SpirydRoot:/mnt/c/Users/neuma/Desktop/SP/Lista3/p-0/app_1/tags/v_268451$ svn blame -g program.h
+Authentication realm: <https://repo.cs.pwr.edu.pl:443> Subversion Repository 
+Password for '268451': ****
+
+G     88     261756 #include <stdio.h>
+       1      admin #include <stdlib.h>
+       1      admin #include <string.h>
+G    145     268423 #include <unistd.h>
+       1      admin
+       1      admin /* deklaracje funkcji używanych w programie */
+G     88     261756 void program_usage();
+       1      admin
+       1      admin /* tu studenci mogą deklarować własne funkcje.
+       1      admin    Wszystkie nazwy funkcji studenta o numerze indeksu NNNNNN
+       1      admin    powinny rozpoczynać się od przedrostka sNNNNNN_
+       1      admin    aby nie kolidowały z nazwami funkcji innych studentów */
+       1      admin
+G     88     261756 void s0_podprogram();      /* funkcja studenta 0 */
+G     88     261756 void s999_podprogram();    /* funkcja studenta 999 */
+G     15     268426 void s268426_podprogram(); /* funkcja studenta 268426 */
+     126     268418 void s268459_podprogram(); /* funkcja studenta 268459 */
+      37     268459 void s268416_podprogram(); /* funkcja studenta 268416 */
+     126     268418 void s268418_podprogram(); /* funkcja studenta 268418 */
+G     47     268421 void s268421_podprogram(); /* funkcja studenta 268421 */
+G     52     268441 void s268441_podprogram(); /* funkcja studenta 268441 */
+G     65     268434 void s268434_podprogram(); /* funkcja studenta 268434 */
+G     72     268442 void s268442_podprogram(); /* funkcja studenta 268442 */
+G     81     268462 void s268462_podprogram(); /* funkcja studenta 268462 */
+G    145     268423 void s261756_podprogram(); /* funkcja studenta 261756 */
+G     93     268424 void s268424_podprogram(); /* funkcja studenta 268424 */
+G     98     268450 void s268450_podprogram(); /* funkcja studenta 268450 */
+G    104     254635 void s254635_podprogram(); /* funkcja studenta 254635 */
+G    109     268444 void s268444_podprogram(); /* funkcja studenta 268444 */
+G    115     268458 void s268458_podprogram(); /* funkcja studenta 268444 */
+     125     268454 void s268454_podprogram(); /* funckja studenta 268454 */
+G    132     268436 void s268436_podprogram(); /* funkcja studenta 268436 */
+     140     254652 void s254652_podprogram(); /* funkcja studenta 254652 */
+G    145     268423 void s268423_podprogram(); /* funkcja studenta 666666 */
+     150     268451 void s268451_podprogram(); /* funkcja studenta 268451 */
+     spiryd@SpirydRoot:/mnt/c/Users/neuma/Desktop/SP/Lista3/p-0/app_1/tags/v_268451$ svn blame -g main.c
+Authentication realm: <https://repo.cs.pwr.edu.pl:443> Subversion Repository 
+Password for '268451': ****
+
+       1      admin #include "program.h"
+       1      admin
+       1      admin int main(int argc, char *argv[])
+       1      admin {
+       1      admin
+G    132     268436   if (argc != 2)
+G    132     268436   {
+G    132     268436     program_usage();
+G    132     268436     exit(EXIT_FAILURE);
+G    132     268436   }
+       1      admin
+       1      admin   {
+G    132     268436     int idx = atoi(argv[1]);
+G    132     268436     switch (idx)
+G    132     268436     {
+G    132     268436     case 0:
+G    132     268436       s0_podprogram(); // podprogram studenta o numerze indeksu 0
+       1      admin       break;
+G    132     268436     case 999:
+G    132     268436       s999_podprogram(); // podprogram studenta o numerze indeksu 999
+G    132     268436       break;
+G    132     268436     case 268426:
+G    132     268436       s268426_podprogram();
+G    132     268436       break;
+G    132     268436     case 268416:
+G    132     268436       s268416_podprogram();
+G    132     268436       break;
+G    132     268436     case 268418:
+G    132     268436       s268418_podprogram();
+G    132     268436       break;
+G    132     268436     case 268459:
+G    132     268436       s268459_podprogram();
+G    132     268436       break;
+G    132     268436     case 268421:
+G    132     268436       s268421_podprogram();
+G    132     268436       break;
+G    132     268436     case 268441:
+G    132     268436       s268441_podprogram();
+G    132     268436       break;
+G    132     268436     case 268434:
+G    132     268436       s268434_podprogram();
+G    132     268436       break;
+G    132     268436     case 268442:
+G    132     268436       s268442_podprogram();
+G    132     268436       break;
+G    132     268436     case 268462:
+G    132     268436       s268462_podprogram();
+G    132     268436       break;
+G    132     268436     case 261756:
+G    132     268436       s261756_podprogram();
+G    132     268436       break;
+G    132     268436     case 268424:
+G    132     268436       s268424_podprogram();
+G    132     268436       break;
+G    132     268436     case 268450:
+G    132     268436       s268450_podprogram();
+G    132     268436       break;
+G    132     268436     case 254635:
+G    132     268436       s254635_podprogram();
+G    132     268436       break;
+G    132     268436     case 268444:
+G    132     268436       s268444_podprogram();
+G    132     268436       break;
+G    132     268436     case 268458:
+G    132     268436       s268458_podprogram();
+G    132     268436       break;
+G    132     268436     case 268454:
+G    132     268436       s268454_podprogram(); // podprogram studenta o indeksie 268454
+G    132     268436       break;
+G    132     268436     case 268436:
+G    132     268436       s268436_podprogram();
+G    132     268436       break;
+     140     254652     case 254652:
+     140     254652       s254652_podprogram(); // podprogram studenta o indeksie 254652
+     140     254652       break;
+G    145     268423     case 268423:
+G    145     268423       s268423_podprogram();
+G    144     268451       break;
+     150     268451     case 268451:
+     150     268451       s268451_podprogram(); // podprogram studenta o numerze indeksu 268451
+     150     268451       break;
+G    132     268436     default:
+G    132     268436       printf("\nStudent o numerze indeksu %d nie wykonał jeszcze zadania\n\n", idx);
+G    132     268436       break;
+G    132     268436     }
+       1      admin   }
+       1      admin   exit(EXIT_SUCCESS);
+       1      admin }
+spiryd@SpirydRoot:/mnt/c/Users/neuma/Desktop/SP/Lista3/p-0/app_1/tags/v_268451$ svn blame -g makefile 
+Authentication realm: <https://repo.cs.pwr.edu.pl:443> Subversion Repository 
+Password for '268451': ****
+
+       1      admin objects = main.o program_usage.o \
+G      5        999           s0_podprogram.o \
+G     15     268426           s999_podprogram.o \
+G     23     268416       s268426_podprogram.o \
+      43     268459           s268416_podprogram.o \
+     126     268418               s268418_podprogram.o \
+G     47     268421       s268459_podprogram.o \
+G     52     268441       s268421_podprogram.o  \
+G     65     268434               s268441_podprogram.o \
+G     72     268442       s268434_podprogram.o \
+G     81     268462       s268442_podprogram.o \
+G     88     261756       s268462_podprogram.o \
+G     93     268424       s261756_podprogram.o \
+G     98     268450       s268424_podprogram.o \
+G    104     254635       s268450_podprogram.o \
+G    109     268444       s254635_podprogram.o \
+G    115     268458       s268444_podprogram.o \
+     125     268454       s268458_podprogram.o \
+G    132     268436       s268454_podprogram.o \
+     140     254652       s268436_podprogram.o \
+     140     254652       s254652_podprogram.o \
+G    145     268423       s268423_podprogram.o \
+     150     268451       s268451_podprogram.o \
+       1      admin
+       1      admin program : $(objects)
+     126     268418     cc -o program $(objects) -lm
+       1      admin main.o : program.h
+       1      admin
+       1      admin program_usage.o : program.h
+       1      admin
+       1      admin s0_podprogram.o : program.h
+       1      admin
+G      5        999 s999_podprogram.o : program.h
+G      5        999
+G     15     268426 s268426_podprogram.o : program.h
+G     15     268426
+G     23     268416 s268416_podprogram.o : program.h
+G     23     268416
+     126     268418 s268418_podprogram.o : program.h
+     126     268418
+      43     268459 s268459_podprogram.o : program.h
+      43     268459
+G     47     268421 s268421_podprogram.o : program.h
+G     47     268421
+G     52     268441 s268441_podprogram.o : program.h
+G     52     268441
+G     65     268434 s268434_podprogram.o : program.h
+G     65     268434
+G     72     268442 s268442_podprogram.o : program.h
+G     72     268442
+G     81     268462 s268462_podprogram.o : program.h
+G     81     268462
+G     88     261756 s261756_podprogram.o : program.h
+G     88     261756
+G     93     268424 s268424_podprogram.o : program.h
+G     93     268424
+G     98     268450 s268450_podprogram.o : program.h
+G     98     268450
+G    109     268444 s268444_podprogram.o : program.h
+G    109     268444
+G    115     268458 s268458_podprogram.o : program.h
+G    115     268458
+G    132     268436 s268436_podprogram.o : program.h
+G    132     268436
+     140     254652 s254652_podprogram.o : program.h
+     140     254652
+G    145     268423 s268423_podprogram.o : program.h
+G    144     268451
+     150     268451 s268451_podprogram.o : program.h
+     150     268451
+       1      admin .PHONY : clean
+       1      admin
+G     23     268416 clean :
+       1      admin     -rm *.o program
+spiryd@SpirydRoot:/mnt/c/Users/neuma/Desktop/SP/Lista3/p-0/app_1/tags/v_268451$ svn blame -g program.h
+Authentication realm: <https://repo.cs.pwr.edu.pl:443> Subversion Repository 
+Password for '268451': ****
+
+G     88     261756 #include <stdio.h>
+       1      admin #include <stdlib.h>
+       1      admin #include <string.h>
+G    145     268423 #include <unistd.h>
+       1      admin
+       1      admin /* deklaracje funkcji używanych w programie */
+G     88     261756 void program_usage();
+       1      admin
+       1      admin /* tu studenci mogą deklarować własne funkcje.
+       1      admin    Wszystkie nazwy funkcji studenta o numerze indeksu NNNNNN
+       1      admin    powinny rozpoczynać się od przedrostka sNNNNNN_
+       1      admin    aby nie kolidowały z nazwami funkcji innych studentów */
+       1      admin
+G     88     261756 void s0_podprogram();      /* funkcja studenta 0 */
+G     88     261756 void s999_podprogram();    /* funkcja studenta 999 */
+G     15     268426 void s268426_podprogram(); /* funkcja studenta 268426 */
+     126     268418 void s268459_podprogram(); /* funkcja studenta 268459 */
+      37     268459 void s268416_podprogram(); /* funkcja studenta 268416 */
+     126     268418 void s268418_podprogram(); /* funkcja studenta 268418 */
+G     47     268421 void s268421_podprogram(); /* funkcja studenta 268421 */
+G     52     268441 void s268441_podprogram(); /* funkcja studenta 268441 */
+G     65     268434 void s268434_podprogram(); /* funkcja studenta 268434 */
+G     72     268442 void s268442_podprogram(); /* funkcja studenta 268442 */
+G     81     268462 void s268462_podprogram(); /* funkcja studenta 268462 */
+G    145     268423 void s261756_podprogram(); /* funkcja studenta 261756 */
+G     93     268424 void s268424_podprogram(); /* funkcja studenta 268424 */
+G     98     268450 void s268450_podprogram(); /* funkcja studenta 268450 */
+G    104     254635 void s254635_podprogram(); /* funkcja studenta 254635 */
+G    109     268444 void s268444_podprogram(); /* funkcja studenta 268444 */
+G    115     268458 void s268458_podprogram(); /* funkcja studenta 268444 */
+     125     268454 void s268454_podprogram(); /* funckja studenta 268454 */
+G    132     268436 void s268436_podprogram(); /* funkcja studenta 268436 */
+     140     254652 void s254652_podprogram(); /* funkcja studenta 254652 */
+G    145     268423 void s268423_podprogram(); /* funkcja studenta 666666 */
+     150     268451 void s268451_podprogram(); /* funkcja studenta 268451 */
+spiryd@SpirydRoot:/mnt/c/Users/neuma/Desktop/SP/Lista3/p-0/app_1/tags/v_268451$ svn blame -g README 
+Authentication realm: <https://repo.cs.pwr.edu.pl:443> Subversion Repository 
+Password for '268451': ****
+
+G     72     268442 Ten plik README utworzony, żeby studenci mogli umieszczać
+       3        999 tu opisy działania swoich podprogramów.
+       3        999
+       7      admin
+       3        999 Wywołanie programu:
+       3        999
+       3        999    program ARG
+       3        999
+       3        999 Dla poszczególnych wartości ARG program działa następująco:
+       3        999
+G      9        999          0 - wyświetla ogólny opis działania podprogramów;
+G      9        999        999 - wczytuje liczbę i drukuje jej kwadrat.
+G     72     268442        268426 - wczytuje liczbę i sprawdza czy jest parzysta
+G     23     268416        268416 - pyta się, czy dzisiaj jest środa
+     126     268418        268418 - wczytuje liczbę naturalna n i wypisuje jej rozkład na czynniki pierwsze
+G     47     268421        268421 - wczytuje liczbę i krzyczy na wskazaną ilość znaków
+G     65     268434        268434 - wczytuje liczbę i zwraca liczbę o jeden większą
+G     72     268442        268442 - wczytuje liczbę naturalną n i wypisuje pierwszych n wyrazów ciągu Fibonacciego
+G     81     268462        268462 - wczytuje liczbę naturalną n i drukuje choinkę o wysokości n
+G     93     268424        268424 - wczytuje liczbę naturalną n i sprawdza czy jest pierwsza
+G     98     268450        268450 - losuje liczbe z przedzialu [1,1]
+G    104     254635        254635 - wczytuje liczbę naturalną n i wypisuje n pierwszych linii inwokacji Pana Tadeusza
+G    109     268444        268444 - informuje, ze dziala prawidlowo
+G    115     268458        268458 - wyswietla alfabet
+     125     268454        268454 - wczytuje liczbe i wypisuje wskazana liczbe linijek tekstu
+G    132     268436        268436 - wczytuje słowo i wypisuje jego długość
+G    145     268423        254652 - wczytuje liczbę naturalną i wypisuję liczbę o 10 większą
+G    145     268423        268423 - wczytuje liczbę i liczy jej następnika w grupie addytywnej liczb całkowitych modulo MAX_INT
+     150     268451        268451 - drukuje 'Jestem Wybitnym Programem'
+       3        999
+G     72     268442 Dodatkowo, po zreintegrowaniu swojej gałęzi do trunk-a student ma utworzyć
+G     72     268442 w katalogu:
+       7      admin
+      12      admin ^/app_1/tags
+       7      admin
+       7      admin własnego taga tej wersji o nazwie: v_<nr_indeksu>
+spiryd@SpirydRoot:/mnt/c/Users/neuma/Desktop/SP/Lista3/p-0/app_1/tags/v_268451$ svn blame -g s268451_podprogram.c
+Authentication realm: <https://repo.cs.pwr.edu.pl:443> Subversion Repository 
+Password for '268451': ****
+
+     144     268451 #include "program.h"
+     144     268451
+     144     268451 void s268451_podprogram()
+     144     268451 {
+     144     268451
+     144     268451   printf("Maksymilian Neumann nr indeksu: 268451\n");
+     144     268451   printf("Program drukuje: 'Jestem Wybitnym Programem'\n");
+     144     268451   printf("Jestem Wybitnym Programem\n");
+     144     268451 }
+spiryd@SpirydRoot:/mnt/c/Users/neuma/Desktop/SP/Lista3/p-0/app_1/tags/v_268451$ make
+cc    -c -o main.o main.c
+cc    -c -o program_usage.o program_usage.c
+cc    -c -o s0_podprogram.o s0_podprogram.c
+cc    -c -o s999_podprogram.o s999_podprogram.c
+cc    -c -o s268426_podprogram.o s268426_podprogram.c
+cc    -c -o s268416_podprogram.o s268416_podprogram.c
+cc    -c -o s268418_podprogram.o s268418_podprogram.c
+cc    -c -o s268459_podprogram.o s268459_podprogram.c
+cc    -c -o s268421_podprogram.o s268421_podprogram.c
+cc    -c -o s268441_podprogram.o s268441_podprogram.c
+cc    -c -o s268434_podprogram.o s268434_podprogram.c
+cc    -c -o s268442_podprogram.o s268442_podprogram.c
+cc    -c -o s268462_podprogram.o s268462_podprogram.c
+cc    -c -o s261756_podprogram.o s261756_podprogram.c
+cc    -c -o s268424_podprogram.o s268424_podprogram.c
+cc    -c -o s268450_podprogram.o s268450_podprogram.c
+cc    -c -o s254635_podprogram.o s254635_podprogram.c
+cc    -c -o s268444_podprogram.o s268444_podprogram.c
+cc    -c -o s268458_podprogram.o s268458_podprogram.c
+cc    -c -o s268454_podprogram.o s268454_podprogram.c
+cc    -c -o s268436_podprogram.o s268436_podprogram.c
+cc    -c -o s254652_podprogram.o s254652_podprogram.c
+cc    -c -o s268423_podprogram.o s268423_podprogram.c
+cc    -c -o s268451_podprogram.o s268451_podprogram.c
+cc -o program main.o program_usage.o s0_podprogram.o s999_podprogram.o s268426_podprogram.o s268416_podprogram.o s268418_podprogram.o s268459_podprogram.o s268421_podprogram.o s268441_podprogram.o s268434_podprogram.o s268442_podprogram.o s268462_podprogram.o s261756_podprogram.o s268424_podprogram.o s268450_podprogram.o s254635_podprogram.o s268444_podprogram.o s268458_podprogram.o s268454_podprogram.o s268436_podprogram.o s254652_podprogram.o s268423_podprogram.o s268451_podprogram.o  -lm
+spiryd@SpirydRoot:/mnt/c/Users/neuma/Desktop/SP/Lista3/p-0/app_1/tags/v_268451$ ./program 268451
+Maksymilian Neumann nr indeksu: 268451
+Program drukuje: 'Jestem Wybitnym Programem'
+Jestem Wybitnym Programem
+spiryd@SpirydRoot:/mnt/c/Users/neuma/Desktop/SP/Lista3/p-0/app_1/tags/v_268451$ make clean
+rm *.o program
