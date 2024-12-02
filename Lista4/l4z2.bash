@@ -46,7 +46,7 @@ for REV in $(seq "$START_REV" "$END_REV"); do
     git commit -m "Revision $REV: $COMMIT_MESSAGE"
 done
 
-# Remove the temporary directory
+# Remove the tempo.rary directory
 rm -rf "$TEMP_DIR"
 
 # Print the Git log for the repository

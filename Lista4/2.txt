@@ -1,0 +1,372 @@
+neuma@Spiryd_Root MINGW64 ~/Desktop/SP/Lista4 (main)
+$ ./l4z2.bash 15 21 https://repo.cs.pwr.edu.pl/info/SP/l3
+Reinitialized existing Git repository in C:/Users/neuma/Desktop/SP/Lista4/l3/.git/
+Processing revision 15...
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\a
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\a\b
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\aa
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\aa\b
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\aaa
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\aaa\b
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\aab
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\aab\b
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\ab
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\ab\b
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\aba
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\aba\b
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\abb
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\abb\b
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\b
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\b\b
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\ba
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\ba\b
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\baa
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\baa\b
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\bab
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\bab\b
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\bb
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\bb\b
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\bba
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\bba\b
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\bbb
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\bbb\b
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\a\b\aab
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\aa\b\aaab
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\aaa\b\aaaab
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\aab\b\aaabb
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\ab\b\aabb
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\aba\b\aabab
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\abb\b\aabbb
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\b\ab
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\b\b\abb
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\ba\b\abab
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\baa\b\abaab
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\bab\b\ababb
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\bb\b\abbb
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\bba\b\abbab
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\bbb\b\abbbb
+Exported revision 15.
+./l4z2.bash: line 37: rsync: command not found
+On branch master
+
+Initial commit
+
+nothing to commit (create/copy files and use "git add" to track)
+Processing revision 16...
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\b
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\b\b
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\a
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\a\b
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\aa
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\aa\b
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\aaa
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\aaa\b
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\aab
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\aab\b
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\ab
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\ab\b
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\aba
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\aba\b
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\abb
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\abb\b
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\ba
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\ba\b
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\baa
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\baa\b
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\bab
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\bab\b
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\bb
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\bb\b
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\bba
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\bba\b
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\bbb
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\bbb\b
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\b\ab
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\b\b\abb
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\a\b\aab
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\aa\b\aaab
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\aaa\b\aaaab
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\aab\b\aaabb
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\ab\b\aabb
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\aba\b\aabab
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\abb\b\aabbb
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\ba\b\abab
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\baa\b\abaab
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\bab\b\ababb
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\bb\b\abbb
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\bba\b\abbab
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\bbb\b\abbbb
+Exported revision 16.
+./l4z2.bash: line 37: rsync: command not found
+On branch master
+
+Initial commit
+
+nothing to commit (create/copy files and use "git add" to track)
+Processing revision 17...
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\ba
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\ba\b
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\b
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\b\b
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\a
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\a\b
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\aa
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\aa\b
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\aaa
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\aaa\b
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\aab
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\aab\b
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\ab
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\ab\b
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\aba
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\aba\b
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\abb
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\abb\b
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\baa
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\baa\b
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\bab
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\bab\b
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\bb
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\bb\b
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\bba
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\bba\b
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\bbb
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\bbb\b
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\ba\b\abab
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\b\ab
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\b\b\abb
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\a\b\aab
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\aa\b\aaab
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\aaa\b\aaaab
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\aab\b\aaabb
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\ab\b\aabb
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\aba\b\aabab
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\abb\b\aabbb
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\baa\b\abaab
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\bab\b\ababb
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\bb\b\abbb
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\bba\b\abbab
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\bbb\b\abbbb
+Exported revision 17.
+./l4z2.bash: line 37: rsync: command not found
+On branch master
+
+Initial commit
+
+nothing to commit (create/copy files and use "git add" to track)
+Processing revision 18...
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\baa
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\baa\b
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\ba
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\ba\b
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\b
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\b\b
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\a
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\a\b
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\aa
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\aa\b
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\aaa
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\aaa\b
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\aab
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\aab\b
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\ab
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\ab\b
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\aba
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\aba\b
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\abb
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\abb\b
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\bab
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\bab\b
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\bb
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\bb\b
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\bba
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\bba\b
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\bbb
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\bbb\b
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\baa\dc
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\baa\b\abaab
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\ba\b\abab
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\b\ab
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\b\b\abb
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\a\b\aab
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\aa\b\aaab
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\aaa\b\aaaab
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\aab\b\aaabb
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\ab\b\aabb
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\aba\b\aabab
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\abb\b\aabbb
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\bab\b\ababb
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\bb\b\abbb
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\bba\b\abbab
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\bbb\b\abbbb
+Exported revision 18.
+./l4z2.bash: line 37: rsync: command not found
+On branch master
+
+Initial commit
+
+nothing to commit (create/copy files and use "git add" to track)
+Processing revision 19...
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\baa
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\baa\b
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\ba
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\ba\b
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\b
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\b\b
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\a
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\a\b
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\aa
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\aa\b
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\aaa
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\aaa\b
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\aab
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\aab\b
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\ab
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\ab\b
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\aba
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\aba\b
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\abb
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\abb\b
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\bab
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\bab\b
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\bb
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\bb\b
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\bba
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\bba\b
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\bbb
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\bbb\b
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\baa\dc
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\baa\b\abaab
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\ba\b\abab
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\b\ab
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\b\b\abb
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\a\b\aab
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\aa\b\aaab
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\aaa\b\aaaab
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\aab\b\aaabb
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\ab\b\aabb
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\aba\b\aabab
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\abb\b\aabbb
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\bab\b\ababb
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\bb\b\abbb
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\bba\b\abbab
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\bbb\b\abbbb
+Exported revision 19.
+./l4z2.bash: line 37: rsync: command not found
+On branch master
+
+Initial commit
+
+nothing to commit (create/copy files and use "git add" to track)
+Processing revision 20...
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\baa
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\baa\b
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\ba
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\ba\b
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\a
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\a\b
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\aa
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\aa\b
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\aaa
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\aaa\b
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\aab
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\aab\b
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\ab
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\ab\b
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\aba
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\aba\b
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\abb
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\abb\b
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\bab
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\bab\b
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\bb
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\bb\b
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\bba
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\bba\b
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\bbb
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\bbb\b
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\baa\dc
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\baa\b\abaab
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\ba\b\abab
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\a\b\aab
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\aa\b\aaab
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\aaa\b\aaaab
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\aab\b\aaabb
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\ab\b\aabb
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\aba\b\aabab
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\abb\b\aabbb
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\bab\b\ababb
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\bb\b\abbb
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\bba\b\abbab
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\bbb\b\abbbb
+Exported revision 20.
+./l4z2.bash: line 37: rsync: command not found
+On branch master
+
+Initial commit
+
+nothing to commit (create/copy files and use "git add" to track)
+Processing revision 21...
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\baa
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\baa\b
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\ba
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\ba\b
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\a
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\a\b
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\aa
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\aa\b
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\aaa
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\aaa\b
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\aab
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\aab\b
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\ab
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\ab\b
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\aba
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\aba\b
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\abb
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\abb\b
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\bab
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\bab\b
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\bba
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\bba\b
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\bbb
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\bbb\b
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\baa\dc
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\baa\b\abaab
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\ba\b\abab
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\a\b\aab
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\aa\b\aaab
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\aaa\b\aaaab
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\aab\b\aaabb
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\ab\b\aabb
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\aba\b\aabab
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\abb\b\aabbb
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\bab\b\ababb
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\bba\b\abbab
+A    C:\Users\neuma\AppData\Local\Temp\tmp.qWYoncu21H\a\bbb\b\abbbb
+Exported revision 21.
+./l4z2.bash: line 37: rsync: command not found
+On branch master
+
+Initial commit
+
+nothing to commit (create/copy files and use "git add" to track)
+Git log with stats:
+fatal: your current branch 'master' does not have any commits yet
+Filtered log:
+fatal: your current branch 'master' does not have any commits yet
+
