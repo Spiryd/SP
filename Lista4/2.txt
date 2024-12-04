@@ -369,4 +369,144 @@ Git log with stats:
 fatal: your current branch 'master' does not have any commits yet
 Filtered log:
 fatal: your current branch 'master' does not have any commits yet
+neuma@Spiryd_Root MINGW64 ~/Desktop/SP/Lista4 (main)
+$ git log --stat
+commit 886f707953615ec1094b4665e9c6c31e059d0cfa (HEAD -> main, origin/main, origin/HEAD)
+Author: Maksymilian Neumann <59446967+Spiryd@users.noreply.github.com>
+Date:   Mon Dec 2 19:01:09 2024 +0100
+
+    l4z2
+
+ .gitignore     |  2 ++
+ Lista4/l4z2.sh | 59 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 2 files changed, 61 insertions(+)
+
+commit 1ccbcd2f0ec2bdcad4390bce4bf92667b05e5f23
+Author: Spiryd <neumann.maks@gmail.com>
+Date:   Thu Nov 14 22:05:14 2024 +0100
+
+    4
+
+ Lista4/1.txt | 244 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 1 file changed, 244 insertions(+)
+
+commit 006c08d5425d080d9511fd57fb25ae0893e209c1
+Author: Spiryd <neumann.maks@gmail.com>
+Date:   Thu Nov 14 21:01:32 2024 +0100
+
+    ok
+
+ Lista2/1.txt     |  895 ++++++++++++++++++++++++++
+ Lista2/3.txt     |  475 ++++++++++++++
+ Lista2/4.txt     | 1155 ++++++++++++++++++++++++++++++++++
+ Lista2/5.txt     |  486 ++++++++++++++
+ Lista2/6.txt     |  629 +++++++++++++++++++
+ Lista3/1.txt     | 1846 ++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ Lista3/2.txt     |   41 ++
+ Lista3/3.txt     |   43 ++
+ Lista3/l3z2.bash |   30 +
+ Lista3/l3z3.bash |   33 +
+ 10 files changed, 5633 insertions(+)
+
+commit bfa8021bd161041957556a3cdb871f1ac173699f
+Author: Maksymilian Neumann <59446967+Spiryd@users.noreply.github.com>
+Date:   Wed Nov 13 09:00:55 2024 +0100
+
+    lok
+
+ Lista1/1.sh | 0
+ Lista1/2.sh | 0
+ Lista1/3.sh | 0
+ Lista1/4.sh | 0
+ Lista1/5.sh | 0
+ Lista1/6.sh | 0
+ 6 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 708e470d392129567b702377509acca7409f4f3b
+Author: Spiryd <neumann.maks@gmail.com>
+Date:   Tue Oct 22 20:43:29 2024 +0200
+
+    add list 1
+
+ Lista1/1.sh         |  16 +++
+ Lista1/2.sh         |  19 ++++
+ Lista1/3.sh         |  25 +++++
+ Lista1/4.sh         |  25 +++++
+ Lista1/5.sh         |   9 ++
+ Lista1/6.sh         |  30 ++++++
+ Lista1/l1_demo.cast | 277 ++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 7 files changed, 401 insertions(+)
+
+commit cd1f69662686f541a146c2c4fc22a50e72ee410d
+Author: Spiryd <neumann.maks@gmail.com>
+Date:   Tue Oct 22 20:42:55 2024 +0200
+
+    Initial commit
+
+ .gitattributes |  2 ++
+ LICENSE        | 24 ++++++++++++++++++++++++
+ README.md      |  2 ++
+ 3 files changed, 28 insertions(+)
+neuma@Spiryd_Root MINGW64 ~/Desktop/SP/Lista4 (main)
+$ git log --stat | grep -v '^commit ' | grep -v '^Author: ' | grep -v '^Date: '
+
+    l4z2
+
+ .gitignore     |  2 ++
+ Lista4/l4z2.sh | 59 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 2 files changed, 61 insertions(+)
+
+
+    4
+
+ Lista4/1.txt | 244 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 1 file changed, 244 insertions(+)
+
+
+    ok
+
+ Lista2/1.txt     |  895 ++++++++++++++++++++++++++
+ Lista2/3.txt     |  475 ++++++++++++++
+ Lista2/4.txt     | 1155 ++++++++++++++++++++++++++++++++++
+ Lista2/5.txt     |  486 ++++++++++++++
+ Lista2/6.txt     |  629 +++++++++++++++++++
+ Lista3/1.txt     | 1846 ++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ Lista3/2.txt     |   41 ++
+ Lista3/3.txt     |   43 ++
+ Lista3/l3z2.bash |   30 +
+ Lista3/l3z3.bash |   33 +
+ 10 files changed, 5633 insertions(+)
+
+
+    lok
+
+ Lista1/1.sh | 0
+ Lista1/2.sh | 0
+ Lista1/3.sh | 0
+ Lista1/4.sh | 0
+ Lista1/5.sh | 0
+ Lista1/6.sh | 0
+ 6 files changed, 0 insertions(+), 0 deletions(-)
+
+
+    add list 1
+
+ Lista1/1.sh         |  16 +++
+ Lista1/2.sh         |  19 ++++
+ Lista1/3.sh         |  25 +++++
+ Lista1/4.sh         |  25 +++++
+ Lista1/5.sh         |   9 ++
+ Lista1/6.sh         |  30 ++++++
+ Lista1/l1_demo.cast | 277 ++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 7 files changed, 401 insertions(+)
+
+
+    Initial commit
+
+ .gitattributes |  2 ++
+ LICENSE        | 24 ++++++++++++++++++++++++
+ README.md      |  2 ++
+ 3 files changed, 28 insertions(+)
+
+
 
